@@ -1,0 +1,3207 @@
+<a href="linie-na-przystanku-auchan-wroclaw">AUCHAN</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-adamczewskich-wroclaw">Adamczewskich</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-adamieckiego-wroclaw">Adamieckiego</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-aleja-architektow-wroclaw">Aleja Architektów</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-aleja-pracy-wroclaw">Aleja Pracy</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-aleja-wedrowcow-wroclaw">Aleja Wędrowców</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-arabska-wroclaw">Arabska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-arachidowa-wroclaw">Arachidowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-arena-wroclaw">Arena</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-arkady-capitol-wroclaw">Arkady (Capitol)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-armii-krajowej-wroclaw">Armii Krajowej</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-armii-krajowej-bogedaina-wroclaw">Armii Krajowej (Bogedaina)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-asfaltowa-szkola-wroclaw">Asfaltowa (szkoła)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-awicenny-wroclaw">Awicenny</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-awicenny-poczta-polska-wroclaw">Awicenny (Poczta Polska)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-awicenny-stacja-kolejowa-wroclaw">Awicenny (Stacja kolejowa)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-azaliowa-wroclaw">Azaliowa</a>
+</li>
+</ul>
+</div>
+</div>
+<div id="line-B" class="accordionContent onMobileClose" data-stop-content="stop-B">
+<button type="button" class="accordionHeader" data-mobile-close>
+<p class="smallNumberWrapper">
+<span class="smallNumber" aria-hidden="true">B</span>
+</p>
+<div class="busDirectionWrapper arrowDown">
+<h3 class="busDirection">Przystanek na literę B</h3>
+</div>
+</button>
+<div class="accordionBody" data-body>
+<ul class="accordionList">
+<li class="listItem">
+<a href="linie-na-przystanku-bardzka-cmentarz-wroclaw">BARDZKA (Cmentarz)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-bartoszowice-wroclaw">BARTOSZOWICE</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-bierutowska-osrodek-zdrowia-wroclaw">BIERUTOWSKA (Ośrodek zdrowia)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-bierutowska-wiadukt-wroclaw">BIERUTOWSKA (Wiadukt)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-bienkowice-wroclaw">BIEŃKOWICE</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-biskupin-wroclw">BISKUPIN</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-blacharska-wroclaw">BLACHARSKA</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-blizanowice-wroclaw">BLIZANOWICE</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-brochow-wroclaw">BROCHÓW</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-brochow-stacja-kolejowa-wroclaw">BROCHÓW (Stacja kolejowa)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-brzezina-petla-wroclaw">BRZEZINA (pętla)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-babimojska-wroclaw">Babimojska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-bacciarellego-wroclaw">Bacciarellego</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-bagatela-wroclaw">Bagatela</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-bajana-wroclaw">Bajana</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-bardzka-wroclaw">Bardzka</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-baltycka-wroclaw">Bałtycka</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-baltycka-szkola-wroclaw">Bałtycka (szkoła)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-berenta-wroclaw">Berenta</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-bezpieczna-wroclaw">Bezpieczna</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-bialowieska-wroclaw">Białowieska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-bialych-gozdzikow-wroclaw">Białych Goździków</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-biegasa-wroclaw">Biegasa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-bielany-wroclawskie-boczna-wroclaw">Bielany Wrocławskie - Boczna</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-bielany-wroclawskie-kosciol-wroclaw">Bielany Wrocławskie - Kościół</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-bielany-wroclawskie-kwiatowa-wroclaw">Bielany Wrocławskie - Kwiatowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-bielany-wroclawskie-makro-wroclaw">Bielany Wrocławskie - Makro</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-bielany-wroclawskie-pkp-wroclaw">Bielany Wrocławskie - PKP</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-bielany-wroclawskie-skrzyzowanie-wroclaw">Bielany Wrocławskie - skrzyżowanie</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-bielawa-wroclaw">Bielawa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-bierdzany-wroclaw">Bierdzany</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-bierutowska-wroclaw">Bierutowska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-bierutowska-65-wroclaw">Bierutowska 65</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-bierutowska-75-wroclaw">Bierutowska 75</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-bierzyce-wroclaw">Bierzyce</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-bierzyce-wies-wroclaw">Bierzyce - wieś</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-biestrzykow-wroclawska-wroclaw">Biestrzyków - Wrocławska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-biskupice-podg-dsc-poland-dong-yang-wroclaw">Biskupice Podg. DSC Poland/Dong Yang</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-biskupice-podg-lg-chem-wroclaw">Biskupice Podg. LG Chem</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-biskupice-podg-lg-electronics-wroclaw">Biskupice Podg. LG Electronics</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-biskupice-podg-lg-energy-solution-wr-i-wroclaw">Biskupice Podg. LG Energy Solution Wr. I</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-biskupice-podg-lg-innotek-wroclaw">Biskupice Podg. LG Innotek</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-blizanowicka-wroclaw">Blizanowicka</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-bociania-wroclaw">Bociania</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-bojanowska-wroclaw">Bojanowska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-borowa-skrzy--wroclaw">Borowa - skrzy.</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-borowa-stacja-kolejowa-wroclaw">Borowa - stacja kolejowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-borowa-szkola-wroclaw">Borowa - szkoła</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-borowska-aquapark-wroclaw">Borowska (Aquapark)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-borowska-szpital-wroclaw">Borowska (Szpital)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-braterska-wroclaw">Braterska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-brochowska-wroclaw">Brochowska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-brodzka-wroclaw">Brodzka</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-broniewskiego-wroclaw">Broniewskiego</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-brzezia-laka-glowna-wroclaw">Brzezia Łąka - Główna</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-brzezia-laka-glowna-petla-wroclaw">Brzezia Łąka - Główna pętla</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-brzezia-laka-wroclawska-wroclaw">Brzezia Łąka - Wrocławska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-brzezia-laka-cmentarz-wroclaw">Brzezia Łąka - cmentarz</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-brzezia-laka-skrzy-glowna-wroclaw">Brzezia Łąka - skrzy. Główna</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-brzezia-laka-skrzy-orzechowa-wroclaw">Brzezia Łąka - skrzy. Orzechowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-brzezia-laka-skrzy-sportowa-wroclaw">Brzezia Łąka - skrzy. Sportowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-brzezina-biedronka-wroclaw">Brzezina - Biedronka</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-brzezina-kosciol-wroclaw">Brzezina - Kościół</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-brzezina-osiedle-wroclaw">Brzezina - Osiedle</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-brzezina-zacisze-wroclaw">Brzezina - Zacisze</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-brzezina-ul-chrobrego-wroclaw">Brzezina - ul. Chrobrego</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-brzezinka-sredzka-pkp-wroclaw">Brzezinka Średzka - PKP</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-brzezinka-sredzka-ul-glowna-wroclaw">Brzezinka Średzka - ul. Główna</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-brzezinka-sredzka-ul-kolejowa-wroclaw">Brzezinka Średzka - ul. Kolejowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-brzezinka-sredzka-ul-parkowa-wroclaw">Brzezinka Średzka - ul. Parkowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-brzezinska-wroclaw">Brzezińska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-brucknera-wroclaw">Brücknera</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-budziszynska-wroclaw">Budziszyńska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-budziwojowice-wroclaw">Budziwojowice</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-buforowa-rondo-wroclaw">Buforowa-Rondo</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-bujwida-wroclaw">Bujwida</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-bukowina-wroclaw">Bukowina</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-bukowina-skrzy--wroclaw">Bukowina - skrzy.</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-bukowskiego-wroclaw">Bukowskiego</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-bulwar-dedala-wroclaw">Bulwar Dedala</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-bykow-jasminowa-wroclaw">Byków - Jaśminowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-bykow-ogrodowa-wroclaw">Byków - Ogrodowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-bystrzycka-wroclaw">Bystrzycka</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-bzowa-centrum-historii-zajezdnia-wroclaw">Bzowa (Centrum Historii Zajezdnia)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-bakow-wroclaw">Bąków</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-blonie-wroclaw">Błonie</a>
+</li>
+</ul>
+</div>
+</div>
+<div id="line-C" class="accordionContent onMobileClose" data-stop-content="stop-C">
+<button type="button" class="accordionHeader" data-mobile-close>
+<p class="smallNumberWrapper">
+<span class="smallNumber" aria-hidden="true">C</span>
+</p>
+<div class="busDirectionWrapper arrowDown">
+<h3 class="busDirection">Przystanek na literę C</h3>
+</div>
+</button>
+<div class="accordionBody" data-body>
+<ul class="accordionList">
+<li class="listItem">
+<a href="linie-na-przystanku-c-h-aleja-bielany-wroclaw">C.H. Aleja Bielany</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-c-h-korona-wroclaw">C.H. Korona</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-ceglana-wroclaw">Ceglana</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-cesarzowice-skrz--wroclaw">Cesarzowice skrz.</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-chachaja-wroclaw">Chachaja</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-chelmonskiego-wroclaw">Chełmońskiego</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-chinska-wroclaw">Chińska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-chociebuska-c-k-nowy-pafawag-wroclaw">Chociebuska (C. K. Nowy Pafawag)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-chopina-wroclaw">Chopina</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-chwalkowska-wroclaw">Chwałkowska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-chlodna-wroclaw">Chłodna</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-ciechocinska-wroclaw">Ciechocińska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-cynamonowa-wroclaw">Cynamonowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-czajkowskiego-wroclaw">Czajkowskiego</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-czestochowska-wroclaw">Częstochowska</a>
+</li>
+</ul>
+</div>
+</div>
+<div id="line-D" class="accordionContent onMobileClose" data-stop-content="stop-D">
+<button type="button" class="accordionHeader" data-mobile-close>
+<p class="smallNumberWrapper">
+<span class="smallNumber" aria-hidden="true">D</span>
+</p>
+<div class="busDirectionWrapper arrowDown">
+<h3 class="busDirection">Przystanek na literę D</h3>
+</div>
+</button>
+<div class="accordionBody" data-body>
+<ul class="accordionList">
+<li class="listItem">
+<a href="linie-na-przystanku-dh-astra-wroclaw">DH Astra</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-dworzec-autobusowy-wroclaw">DWORZEC AUTOBUSOWY</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-dworzec-glowny-wroclaw">DWORZEC GŁÓWNY</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-dworzec-nadodrze-wroclaw">DWORZEC NADODRZE</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-damrota-wroclaw">Damrota</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-daszynskiego-wroclaw">Daszyńskiego</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-dembowskiego-kosiby-wroclaw">Dembowskiego (Kosiby)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-dobroszycka-wroclaw">Dobroszycka</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-dobroszow-skrzy-wegierska-wroclaw">Dobroszów - skrzy. Węgierska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-dobroszow-olesnicki-wroclaw">Dobroszów Oleśnicki</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-dolmed-wroclaw">Dolmed</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-dolnobrzeska-wroclaw">Dolnobrzeska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-domaszczyn-kosciol-wroclaw">Domaszczyn - Kościół</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-domaszczyn-stawowa-wroclaw">Domaszczyn - Stawowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-domaszczyn-trzebnicka-wroclaw">Domaszczyn - Trzebnicka</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-domaszczyn-wroclawska-skrzyzowanie-wroclaw">Domaszczyn - Wrocławska Skrzyżowanie</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-domaszczyn-wroclawska-sklep-wroclaw">Domaszczyn - Wrocławska sklep</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-domaszczyn-skrzy--wroclaw">Domaszczyn - skrzy.</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-drukarska-wroclaw">Drukarska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-drzewieckiego-wroclaw">Drzewieckiego</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-dubois-wroclaw">Dubois</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-dworska-wroclaw">Dworska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-dworzec-glowny-dworcowa-wroclaw">Dworzec Główny (Dworcowa)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-dworzec-glowny-stawowa-wroclaw">Dworzec Główny (Stawowa)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-dworzec-swiebodzki-wroclaw">Dworzec Świebodzki</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-dyrekcyjna-wroclaw">Dyrekcyjna</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-dzialdowska-wroclaw">Działdowska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-dzialkowa-wroclaw">Działkowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-dzielna-wroclaw">Dzielna</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-dabrowica-wroclaw">Dąbrowica</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-dluga-ogrody-dzialkowe-wroclaw">Długa (ogrody działkowe)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-dlugoleka-broniewskiego-na-wys-nr-11-wroclaw">Długołęka - Broniewskiego (na wys. nr 11)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-dlugoleka-kasztanowa-wroclaw">Długołęka - Kasztanowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-dlugoleka-kosciol-wroclaw">Długołęka - Kościół</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-dlugoleka-nowy-urzad-wroclaw">Długołęka - Nowy Urząd</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-dlugoleka-parkowa-skrzy-konopnicka-wroclaw">Długołęka - Parkowa skrzy. Konopnicka</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-dlugoleka-parkowa-skrzy--wroclaw">Długołęka - Parkowa/skrzy.</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-dlugoleka-selgros-petla-wroclaw">Długołęka - SELGROS pętla</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-dlugoleka-wiejska-wroclaw">Długołęka - Wiejska</a>
+</li>
+</ul>
+</div>
+</div>
+<div id="line-E" class="accordionContent onMobileClose" data-stop-content="stop-E">
+<button type="button" class="accordionHeader" data-mobile-close>
+<p class="smallNumberWrapper">
+<span class="smallNumber" aria-hidden="true">E</span>
+</p>
+<div class="busDirectionWrapper arrowDown">
+<h3 class="busDirection">Przystanek na literę E</h3>
+</div>
+</button>
+<div class="accordionBody" data-body>
+<ul class="accordionList">
+<li class="listItem">
+<a href="linie-na-przystanku-epi-wroclaw">EPI</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-eluarda-wroclaw">Eluarda</a>
+</li>
+</ul>
+</div>
+</div>
+<div id="line-F" class="accordionContent onMobileClose" data-stop-content="stop-F">
+<button type="button" class="accordionHeader" data-mobile-close>
+<p class="smallNumberWrapper">
+<span class="smallNumber" aria-hidden="true">F</span>
+</p>
+<div class="busDirectionWrapper arrowDown">
+<h3 class="busDirection">Przystanek na literę F</h3>
+</div>
+</button>
+<div class="accordionBody" data-body>
+<ul class="accordionList">
+<li class="listItem">
+<a href="linie-na-przystanku-fat-wroclaw">FAT</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-fabryczna-wroclaw">Fabryczna</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-ferma-stadnina-koni-wroclaw">Ferma - stadnina koni</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-fieldorfa-wroclaw">Fieldorfa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-fieldorfa-szpital-wroclaw">Fieldorfa (Szpital)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-fiolkowa-wroclaw">Fiołkowa</a>
+</li>
+</ul>
+</div>
+</div>
+<div id="line-G" class="accordionContent onMobileClose" data-stop-content="stop-G">
+<button type="button" class="accordionHeader" data-mobile-close>
+<p class="smallNumberWrapper">
+<span class="smallNumber" aria-hidden="true">G</span>
+</p>
+<div class="busDirectionWrapper arrowDown">
+<h3 class="busDirection">Przystanek na literę G</h3>
+</div>
+</button>
+<div class="accordionBody" data-body>
+<ul class="accordionList">
+<li class="listItem">
+<a href="linie-na-przystanku-gaj-wroclaw">GAJ</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-gaj-petla-wroclaw">GAJ - pętla</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-galeria-dominikanska-wroclaw">GALERIA DOMINIKAŃSKA</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-galow-petla-wroclaw">GAŁÓW (pętla)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-gieldowa-centrum-hurtu-wroclaw">GIEŁDOWA (Centrum Hurtu)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-grabiszynek-wroclaw">GRABISZYNEK</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-grabiszynska-cmentarz-ii-wroclaw">GRABISZYŃSKA (Cmentarz II)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-grabiszynska-cmentarz-wroclaw">GRABISZYŃSKA (Cmentarz)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-gagarina-wroclaw">Gagarina</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-gajowa-wroclaw">Gajowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-gajowicka-wroclaw">Gajowicka</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-gajowicka-szkola-wroclaw">Gajowicka (szkoła)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-gazowa-wroclaw">Gazowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-galczynskiego-wroclaw">Gałczyńskiego</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-galowska-wroclaw">Gałowska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-galow-przedszkole-wroclaw">Gałów Przedszkole</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-galow-przy-posesji-nr-2-wroclaw">Gałów przy posesji nr 2</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-glinianki-wroclaw">Glinianki</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-godebskiego-awf-wroclaw-wroclaw">Godebskiego (AWF Wrocław)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-godzieszowa-na-wys-nr-3-wroclaw">Godzieszowa (na wys. nr 3)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-godzieszowa-na-wys-nr-8-wroclaw">Godzieszowa (na wys. nr 8)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-godzieszowa-transformator-wroclaw">Godzieszowa - transformator</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-gorlicka-wroclaw">Gorlicka</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-gospodarska-wroclaw">Gospodarska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-grabiszynska-wroclaw">Grabiszyńska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-grabowa-wroclaw">Grabowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-graniczna-wroclaw">Graniczna</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-graniczna-strachowicka-wroclaw">Graniczna (Strachowicka)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-grochowa-wroclaw">Grochowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-gromadzka-wroclaw">Gromadzka</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-grota-roweckiego-wroclaw">Grota-Roweckiego</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-grudziadzka-wroclaw">Grudziądzka</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-grunwaldzka-wroclaw">Grunwaldzka</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-grzybowa-wroclaw">Grzybowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-gwiazdzista-wroclaw">Gwiaździsta</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-gora-kapliczna-wroclaw">Góra Kapliczna</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-gornickiego-wroclaw">Górnickiego</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-gornicza-wroclaw">Górnicza</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-gadowianka-wroclaw">Gądowianka</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-gadow-wroclaw">Gądów</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-gadow-swierkowa-wroclaw">Gądów - Świerkowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-gasiorowskiego-wroclaw">Gąsiorowskiego</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-gasiorow-wroclaw">Gąsiorów</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-gesia-wroclaw">Gęsia</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-glogowska-wroclaw">Głogowska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-gloska-ul-sredzka-wroclaw">Głoska - ul. Średzka</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-glubczycka-wroclaw">Głubczycka</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-glowna-wroclaw">Główna</a>
+</li>
+</ul>
+</div>
+</div>
+<div id="line-H" class="accordionContent onMobileClose" data-stop-content="stop-H">
+<button type="button" class="accordionHeader" data-mobile-close>
+<p class="smallNumberWrapper">
+<span class="smallNumber" aria-hidden="true">H</span>
+</p>
+<div class="busDirectionWrapper arrowDown">
+<h3 class="busDirection">Przystanek na literę H</h3>
+</div>
+</button>
+<div class="accordionBody" data-body>
+<ul class="accordionList">
+<li class="listItem">
+<a href="linie-na-przystanku-hala-stulecia-wroclaw">Hala Stulecia</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-hala-targowa-wroclaw">Hala Targowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-halicka-wroclaw">Halicka</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-hallera-wroclaw">Hallera</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-hartmana-wroclaw">Hartmana</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-hermanowska-wroclaw">Hermanowska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-hippiczna-wroclaw">Hippiczna</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-hubska-dawida-wroclaw">Hubska (Dawida)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-husarska-wroclaw">Husarska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-hutmen-wroclaw">Hutmen</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-hynka-wroclaw">Hynka</a>
+</li>
+</ul>
+</div>
+</div>
+<div id="line-I" class="accordionContent onMobileClose" data-stop-content="stop-I">
+<button type="button" class="accordionHeader" data-mobile-close>
+<p class="smallNumberWrapper">
+<span class="smallNumber" aria-hidden="true">I</span>
+</p>
+<div class="busDirectionWrapper arrowDown">
+<h3 class="busDirection">Przystanek na literę I</h3>
+</div>
+</button>
+<div class="accordionBody" data-body>
+<ul class="accordionList">
+<li class="listItem">
+<a href="linie-na-przystanku-iwiny-petla-wroclaw">IWINY - pętla</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-inflancka-wroclaw">Inflancka</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-inowroclawska-wroclaw">Inowrocławska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-inzynierska-wroclaw">Inżynierska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-irysowa-wroclaw">Irysowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-iwiny-brochowska-polna-wroclaw">Iwiny - Brochowska/Polna</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-iwiny-kolejowa-wroclaw">Iwiny - Kolejowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-iwiny-kosciuszki-21-wroclaw">Iwiny - Kościuszki 21</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-iwiny-sloneczna-wroclaw">Iwiny - Słoneczna</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-iwiny-rondo-wroclaw">Iwiny - rondo</a>
+</li>
+</ul>
+</div>
+</div>
+<div id="line-J" class="accordionContent onMobileClose" data-stop-content="stop-J">
+<button type="button" class="accordionHeader" data-mobile-close>
+<p class="smallNumberWrapper">
+<span class="smallNumber" aria-hidden="true">J</span>
+</p>
+<div class="busDirectionWrapper arrowDown">
+<h3 class="busDirection">Przystanek na literę J</h3>
+</div>
+</button>
+<div class="accordionBody" data-body>
+<ul class="accordionList">
+<li class="listItem">
+<a href="linie-na-przystanku-janowek-wos-wroclaw">JANÓWEK (WOŚ)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-jarnoltow-wroclaw">JARNOŁTÓW</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-jagodzinska-wroclaw">Jagodzińska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-jaksonowice-na-wys-nr-27-wroclaw">Jaksonowice (na wys. nr 27)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-jaksonowice-skrzy--wroclaw">Jaksonowice - skrzy.</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-januszkowice-wierzbowa-wroclaw">Januszkowice - Wierzbowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-januszkowice-wroclawska-wroclaw">Januszkowice - Wrocławska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-januszkowice-skrzy-kepa-wroclaw">Januszkowice - skrzy. Kępa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-janowek-wroclaw">Janówek</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-jarnoltowska-samotworska-wroclaw">Jarnołtowska (Samotworska)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-jarocinska-wroclaw">Jarocińska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-jarzebinowa-wroclaw">Jarzębinowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-jasinskiej-wroclaw">Jasińskiej</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-jastrzebia-wroclaw">Jastrzębia</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-jaszkotle-palmowa-wroclaw">Jaszkotle - Palmowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-jaszkotle-kosciol-wroclaw">Jaszkotle - kościół</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-jaworowa-wroclaw">Jaworowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-jednosci-narodowej-wroclaw">Jedności Narodowej</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-jeleniogorska-wroclaw">Jeleniogórska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-jerzmanowo-cmentarz-i-wroclaw">Jerzmanowo (Cmentarz I)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-jerzmanowo-cmentarz-ii-wroclaw">Jerzmanowo (Cmentarz II)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-jerzmanowo-cmentarz-wroclaw">Jerzmanowo (Cmentarz)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-jerzmanowska-nr-17-wroclaw">Jerzmanowska nr 17</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-jerzmanowska-nr-9-wroclaw">Jerzmanowska nr 9</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-joannitow-wroclaw">Joannitów</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-jordanowska-wroclaw">Jordanowska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-jutrosinska-wroclaw">Jutrosińska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-jedrzejowska-wroclaw">Jędrzejowska</a>
+</li>
+</ul>
+</div>
+</div>
+<div id="line-K" class="accordionContent onMobileClose" data-stop-content="stop-K">
+<button type="button" class="accordionHeader" data-mobile-close>
+<p class="smallNumberWrapper">
+<span class="smallNumber" aria-hidden="true">K</span>
+</p>
+<div class="busDirectionWrapper arrowDown">
+<h3 class="busDirection">Przystanek na literę K</h3>
+</div>
+</button>
+<div class="accordionBody" data-body>
+<ul class="accordionList">
+<li class="listItem">
+<a href="linie-na-przystanku-kamienskiego-petla-wroclaw">KAMIEŃSKIEGO (pętla)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-karlowice-wroclaw">KARŁOWICE</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-kielczowska-lzn-wroclaw">KIEŁCZOWSKA (LZN)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-klecina-wroclaw">KLECINA</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-klecina-stacja-kolejowa-wroclaw">KLECINA (Stacja kolejowa)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-kminkowa-wroclaw">KMINKOWA</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-koszarowa-szpital-wroclaw">KOSZAROWA (Szpital)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-koszarowa-uniwersytet-wroclaw">KOSZAROWA (Uniwersytet)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-kowale-wroclaw">KOWALE</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-kozanow-wroclaw">KOZANÓW</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-kozanow-dokerska-wroclaw">KOZANÓW (Dokerska)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-krakowska-centrum-handlowe-wroclaw">KRAKOWSKA (Centrum handlowe)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-kromera-wroclaw">KROMERA</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-krzyki-wroclaw">KRZYKI</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-krzyzanowice-wroclaw">KRZYŻANOWICE</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-ksieze-male-wroclaw">KSIĘŻE MAŁE</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-ksieze-wielkie-wroclaw">KSIĘŻE WIELKIE</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-kuzniki-wroclaw">KUŹNIKI</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-kuzniki-stacja-kolejowa-wroclaw">KUŹNIKI (Stacja kolejowa)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-kaczorowskiego-wroclaw">Kaczorowskiego</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-kadlub-nz-wroclaw">Kadłub NŻ</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-kadlub-wies-wroclaw">Kadłub wieś</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-kadlubka-wroclaw">Kadłubka</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-kajdasza-wroclaw">Kajdasza</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-kamienna-wroclaw">Kamienna</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-kamiennogorska-osrodek-dla-niewidomych-wroclaw">Kamiennogórska (Ośrodek dla niewidomych)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-kamien-bursztynowa-wroclaw">Kamień - Bursztynowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-kamien-diamentowa-wroclaw">Kamień - Diamentowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-kamien-skrzy--wroclaw">Kamień - skrzy.</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-kamien-skrzy-diamentowa-wroclaw">Kamień - skrzy. Diamentowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-kamien-skrzy-krysztalowa-wroclaw">Kamień - skrzy. Kryształowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-kamien-skrzy-rubinowa-wroclaw">Kamień - skrzy. Rubinowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-kamienskiego-wroclaw">Kamieńskiego</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-kamienskiego-szpital-wroclaw">Kamieńskiego (Szpital)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-karwiany-skrzy-wroclawska-majowa-wroclaw">Karwiany - skrzy. (Wrocławska/Majowa)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-karwinska-wroclaw">Karwińska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-karlowicza-wroclaw">Karłowicza</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-kasprowicza-wroclaw">Kasprowicza</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-katedra-wroclaw">Katedra</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-kielczowska-wroclaw">Kiełczowska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-kielczowska-cmentarz-wroclaw">Kiełczowska (Cmentarz)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-kielczow-akacjowa-wroclaw">Kiełczów - Akacjowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-kielczow-biedronka-wroclaw">Kiełczów - Biedronka</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-kielczow-boczna-wroclaw">Kiełczów - Boczna</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-kielczow-mleczna-wroclaw">Kiełczów - Mleczna</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-kielczow-rzeczna-wroclaw">Kiełczów - Rzeczna</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-kielczow-sosnowa-wroclaw">Kiełczów - Sosnowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-kielczow-wodrol-wroclaw">Kiełczów - WODROL</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-kielczow-wroclawska-wroclaw">Kiełczów - Wrocławska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-kielczow-zgodna-wroclaw">Kiełczów - Zgodna</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-kielczow-cmentarz-wroclaw">Kiełczów - cmentarz</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-kielczow-osiedle-wroclaw">Kiełczów - osiedle</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-kielczow-petla-plac-jana-gdaka-wroclaw">Kiełczów - pętla (Plac Jana Gdaka)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-kielczow-petla-wroclawska-wroclaw">Kiełczów - pętla/Wrocławska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-kielczow-ladna-wroclaw">Kiełczów - Ładna</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-kielczowek-wroclaw">Kiełczówek</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-kielczowek-sielska-zagroda-wroclaw">Kiełczówek - Sielska Zagroda</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-kielczowek-petla-wroclaw">Kiełczówek - pętla</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-kielczowek-skrzy-imbirowa-wroclaw">Kiełczówek - skrzy. Imbirowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-klasztorna-wroclaw">Klasztorna</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-kleczkowska-wroclaw">Kleczkowska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-klimasa-wroclaw">Klimasa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-kliniki-politechnika-wroclawska-wroclaw">Kliniki - Politechnika Wrocławska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-kleka-wroclaw">Klęka</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-kmieca-wroclaw">Kmieca</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-kochanowskiego-wroclaw">Kochanowskiego</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-kolbuszowska-stadion-wroclaw">Kolbuszowska (Stadion)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-kolejowa-wroclaw">Kolejowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-kolista-wroclaw">Kolista</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-kolumba-wroclaw">Kolumba</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-komandorska-wroclaw">Komandorska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-kominiarska-wroclaw">Kominiarska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-kominiarska-plac-sportowy-wroclaw">Kominiarska (plac sportowy)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-komorowice-wroclaw">Komorowice</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-komuny-paryskiej-wroclaw">Komuny Paryskiej</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-komuny-paryskiej-szkola-wroclaw">Komuny Paryskiej (szkoła)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-konduktorska-wroclaw">Konduktorska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-konopackiej-wroclaw">Konopackiej</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-kopanskiego-wroclaw">Kopańskiego</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-kosmonautow-szpital-wroclaw">Kosmonautów (Szpital)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-koszarowa-wroclaw">Koszarowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-kowale-stacja-kolejowa-wroclaw">Kowale (Stacja kolejowa)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-kowalska-wroclaw">Kowalska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-kowalska-56-wroclaw">Kowalska 56</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-kowalska-i-wroclaw">Kowalska I</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-kowienska-wroclaw">Kowieńska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-kozanowska-wroclaw">Kozanowska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-kozia-wroclaw">Kozia</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-kolobrzeska-wroclaw">Kołobrzeska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-koncowa-wroclaw">Końcowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-koscielna-wroclaw">Kościelna</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-kosciuszki-wroclaw">Kościuszki</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-kosnego-jarnoltowska-wroclaw">Kośnego (Jarnołtowska)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-kosnego-jerzmanowska-wroclaw">Kośnego (Jerzmanowska)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-krajobrazowa-wroclaw">Krajobrazowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-krakowiany-skrzy--wroclaw">Krakowiany - skrzy.</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-krakowska-wroclaw">Krakowska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-krasinskiego-wroclaw">Krasińskiego</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-kromera-czajkowskiego-wroclaw">Kromera (Czajkowskiego)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-krucza-wroclaw">Krucza</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-krucza-mielecka-wroclaw">Krucza (Mielecka)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-krynicka-wroclaw">Krynicka</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-krzemieniecka-wroclaw">Krzemieniecka</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-krzeptowska-wroclaw">Krzeptowska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-krzeptow-boisko-wroclaw">Krzeptów - Boisko</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-krzeptow-dolina-krzeptowa-wroclaw">Krzeptów - Dolina Krzeptowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-krzeptow-petla-wroclaw">Krzeptów - pętla</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-krzeptow-skrzy--wroclaw">Krzeptów - skrzy.</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-krolewiecka-wroclaw">Królewiecka</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-krolewiecka-park-wroclaw">Królewiecka (Park)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-krolewiecka-staw-wroclaw">Królewiecka (Staw)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-krolewska-wroclaw">Królewska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-krepice-wroclaw">Krępice</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-krepice-wroclawska-wroclaw">Krępice - Wrocławska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-krepicka-wroclaw">Krępicka</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-krepicka-szkola-wroclaw">Krępicka - szkoła</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-ksieginice-p-r-wroclaw">Księginice P&amp;R</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-ksieginice-ul-sportowa-wroclaw">Księginice ul. Sportowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-ksieska-wroclaw">Księska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-kurlandzka-wroclaw">Kurlandzka</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-kurpiow-wroclaw">Kurpiów</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-kutrzeby-wroclaw">Kutrzeby</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-kwiatkowskiego-wroclaw">Kwiatkowskiego</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-kwiatkowskiego-rondo-wroclaw">Kwiatkowskiego (Rondo)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-kwidzynska-wroclaw">Kwidzyńska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-kwiska-wroclaw">Kwiska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-katna-wroclaw">Kątna</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-katowa-wroclaw">Kątowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-keblowice-wroclaw">Kębłowice</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-kepa-mieszczanska-wroclaw">Kępa Mieszczańska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-kepinska-wroclaw">Kępińska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-ketrzynska-wroclaw">Kętrzyńska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-klokoczyce-wroclaw">KŁOKOCZYCE</a>
+</li>
+</ul>
+</div>
+</div>
+<div id="line-L" class="accordionContent onMobileClose" data-stop-content="stop-L">
+<button type="button" class="accordionHeader" data-mobile-close>
+<p class="smallNumberWrapper">
+<span class="smallNumber" aria-hidden="true">L</span>
+</p>
+<div class="busDirectionWrapper arrowDown">
+<h3 class="busDirection">Przystanek na literę L</h3>
+</div>
+</button>
+<div class="accordionBody" data-body>
+<ul class="accordionList">
+<li class="listItem">
+<a href="linie-na-przystanku-lesnica-wroclaw">LEŚNICA</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-litewska-wroclaw">LITEWSKA</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-litomska-zus-wroclaw">LITOMSKA (ZUS)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-las-mokrzanski-wroclaw">Las Mokrzański</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-las-osobowicki-wroclaw">Las Osobowicki</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-las-ratynski-wroclaw">Las Ratyński</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-lawendowa-wroclaw">Lawendowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-lekarska-wroclaw">Lekarska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-lesnica-hermes-wroclaw">Leśnica - Hermes</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-libelta-wroclaw">Libelta</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-lipa-piotrowska-wroclaw">Lipa Piotrowska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-lipska-wroclaw">Lipska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-lubelska-wroclaw">Lubelska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-lubiatow-wroclaw">Lubiatów</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-lutoslawskiego-wroclaw">Lutosławskiego</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-lutynia-kolonia-wroclaw">Lutynia - Kolonia</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-lutynia-straz-wroclaw">Lutynia - Straż</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-lutynia-centrum-wroclaw">Lutynia Centrum</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-lutynia-i-wroclaw">Lutynia I</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-lutynia-osiedle-ul-wschodnia-wroclaw">Lutynia Osiedle ul. Wschodnia</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-lutynia-rondo-wroclaw">Lutynia Rondo</a>
+</li>
+</ul>
+</div>
+</div>
+<div id="line-M" class="accordionContent onMobileClose" data-stop-content="stop-M">
+<button type="button" class="accordionHeader" data-mobile-close>
+<p class="smallNumberWrapper">
+<span class="smallNumber" aria-hidden="true">M</span>
+</p>
+<div class="busDirectionWrapper arrowDown">
+<h3 class="busDirection">Przystanek na literę M</h3>
+</div>
+</button>
+<div class="accordionBody" data-body>
+<ul class="accordionList">
+<li class="listItem">
+<a href="linie-na-przystanku-metalowcow-osrodek-sportu-wroclaw">METALOWCÓW (Ośrodek sportu)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-minska-rondo-rotm-pileckiego-wroclaw">MIŃSKA (Rondo Rotm. Pileckiego)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-mokry-dwor-wroclaw">MOKRY DWÓR</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-muchobor-maly-stacja-kolejowa-wroclaw">MUCHOBÓR MAŁY (Stacja kolejowa)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-mulicka-wroclaw">MULICKA</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-magellana-wroclaw">Magellana</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-malinowa-wroclaw">Malinowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-malinowskiego-wroclaw">Malinowskiego</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-malwowa-wroclaw">Malwowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-marcepanowa-wroclaw">Marcepanowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-marchewkowa-wroclaw">Marchewkowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-marszowice-wroclaw">Marszowice</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-marszowicka-wroclaw">Marszowicka</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-malkowice-glowna-wroclaw">Małkowice - Główna</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-malomicka-wroclaw">Małomicka</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-malopanewska-wroclaw">Małopanewska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-malopolska-osrodek-dla-niewidomych-wroclaw">Małopolska (Ośrodek dla niewidomych)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-maslice-male-brodnicka-wroclaw">Maślice Małe (Brodnicka)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-maslicka-osiedle-wroclaw">Maślicka (Osiedle)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-maslicka-staw-wroclaw">Maślicka (Staw)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-metalowcow-wroclaw">Metalowców</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-michalczyka-wroclaw">Michalczyka</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-mickiewicza-wroclaw">Mickiewicza</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-mielecka-wroclaw">Mielecka</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-mikolowska-wroclaw">Mikołowska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-milenijna-hala-orbita-wroclaw">Milenijna (Hala Orbita)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-milicka-wroclaw">Milicka</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-miodowa-wroclaw">Miodowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-mirkow-jagiellonska-wroclaw">Mirków - Jagiellońska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-mirkow-kielczowska-na-wys-nr-14-wroclaw">Mirków - Kiełczowska (na wys. nr 14)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-mirkow-sportowa-wroclaw">Mirków - Sportowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-mirkow-skrzy-polna-wroclaw">Mirków - skrzy. Polna</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-miedzyrzecka-wroclaw">Międzyrzecka</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-miekinia-urzad-gminy-wroclaw">Miękinia - Urząd Gminy</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-miekinia-petla-wroclaw">Miękinia - pętla</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-miekinia-stacja-pkp-wroclaw">Miękinia - stacja PKP</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-miekinia-cegielnia-wroclaw">Miękinia Cegielnia</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-miloszycka-wroclaw">Miłoszycka</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-mochnackiego-wroclaw">Mochnackiego</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-modlinska-wroclaw">Modlińska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-modra-wroclaw">Modra</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-mokra-wroclaw">Mokra</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-mokronos-dolny-parkowa-stawowa-wroclaw">Mokronos Dolny - Parkowa/Stawowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-mokronos-dolny-stawowa-szczesliwa-wroclaw">Mokronos Dolny - Stawowa/Szczęśliwa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-mokronos-gorny-wroclawska-gwarna-wroclaw">Mokronos Górny - Wrocławska/Gwarna</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-mokry-dwor-starodworska-wroclaw">Mokry Dwór - Starodworska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-mokrzanska-wroclaw">Mokrzańska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-moniuszki-wroclaw">Moniuszki</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-monopolowa-wroclaw">Monopolowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-monte-cassino-wroclaw">Monte Cassino</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-morelowskiego-wroclaw">Morelowskiego</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-morwowa-wroclaw">Morwowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-mosty-pomorskie-wroclaw">Mosty Pomorskie</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-mosty-warszawskie-wroclaw">Mosty Warszawskie</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-mrozow-wyzwolenia-wroclaw">Mrozów - Wyzwolenia</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-mrozow-swietlica-wroclaw">Mrozów - Świetlica</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-mrozna-wroclaw">Mroźna</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-muchobor-wielki-wroclaw">Muchobór Wielki</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-muchobor-wielki-roslinna-wroclaw">Muchobór Wielki (Roślinna)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-mlodych-technikow-wroclaw">Młodych Techników</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-most-grunwaldzki-wroclaw">most Grunwaldzki</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-most-milenijny-wroclaw">most Milenijny</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-most-osobowicki-wroclaw">most Osobowicki</a>
+</li>
+</ul>
+</div>
+</div>
+<div id="line-N" class="accordionContent onMobileClose" data-stop-content="stop-N">
+<button type="button" class="accordionHeader" data-mobile-close>
+<p class="smallNumberWrapper">
+<span class="smallNumber" aria-hidden="true">N</span>
+</p>
+<div class="busDirectionWrapper arrowDown">
+<h3 class="busDirection">Przystanek na literę N</h3>
+</div>
+</button>
+<div class="accordionBody" data-body>
+<ul class="accordionList">
+<li class="listItem">
+<a href="linie-na-przystanku-na-grobli-hydropolis-wroclaw">Na Grobli (Hydropolis)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-na-niskich-lakach-wroclaw">Na Niskich Łąkach</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-na-ostatnim-groszu-wroclaw">Na Ostatnim Groszu</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-na-szancach-wroclaw">Na Szańcach</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-narodowe-forum-muzyki-wroclaw">Narodowe Forum Muzyki</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-niedzialkowskiego-wroclaw">Niedziałkowskiego</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-niedzwiedzia-wroclaw">Niedźwiedzia</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-nowa-wies-wr-relaksowa-na-wys-nr-13-wroclaw">Nowa Wieś Wr. - Relaksowa (na wys. nr 13)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-nowa-wies-wr-petla-wroclaw">Nowa Wieś Wr. - pętla</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-nowodworska-wroclaw">Nowodworska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-nowowiejska-wroclaw">Nowowiejska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-nowy-dom-wroclaw">Nowy Dom</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-nyska-wroclaw">Nyska</a>
+</li>
+</ul>
+</div>
+</div>
+<div id="line-O" class="accordionContent onMobileClose" data-stop-content="stop-O">
+<button type="button" class="accordionHeader" data-mobile-close>
+<p class="smallNumberWrapper">
+<span class="smallNumber" aria-hidden="true">O</span>
+</p>
+<div class="busDirectionWrapper arrowDown">
+<h3 class="busDirection">Przystanek na literę O</h3>
+</div>
+</button>
+<div class="accordionBody" data-body>
+<ul class="accordionList">
+<li class="listItem">
+<a href="linie-na-przystanku-opatowice-wroclaw">OPATOWICE</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-oporow-wroclaw">OPORÓW</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-osiedle-sobieskiego-wroclaw">OSIEDLE SOBIESKIEGO</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-osobowice-wroclaw">OSOBOWICE</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-osobowicka-cmentarz-ii-wroclaw">OSOBOWICKA (Cmentarz II)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-osobowicka-cmentarz-wroclaw">OSOBOWICKA (Cmentarz)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-obornicka-obwodnica-wroclaw">Obornicka (Obwodnica)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-obornicka-wolowska-wroclaw">Obornicka (Wołowska)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-obozna-wroclaw">Oboźna</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-odolanowska-wroclaw">Odolanowska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-odrodzenia-polski-wroclaw">Odrodzenia Polski</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-ogrod-botaniczny-wroclaw">Ogród Botaniczny</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-ojca-beyzyma-wroclaw">Ojca Beyzyma</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-okrzei-wroclaw">Okrzei</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-okolna-wroclaw">Okólna</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-olbrachtowska-wroclaw">Olbrachtowska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-olesniczka-wroclaw">Oleśniczka</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-olesniczka-skrzy--wroclaw">Oleśniczka - skrzy.</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-olsztynska-wroclaw">Olsztyńska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-opatowicka-nr-127-wroclaw">Opatowicka nr 127</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-opatowicka-nr-59-wroclaw">Opatowicka nr 59</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-opatowicka-nr-85-wroclaw">Opatowicka nr 85</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-opera-wroclaw">Opera</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-orla-wroclaw">Orla</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-orlinskiego-wroclaw">Orlińskiego</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-orzechowa-wroclaw">Orzechowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-os-przyjazni-wroclaw">Os. Przyjaźni</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-osiniecka-wroclaw">Osiniecka</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-ossolineum-uniwersytecka-wroclaw">Ossolineum (Uniwersytecka)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-ostowa-muzeum-militarne-wroclaw">Ostowa (Muzeum Militarne)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-ostrowskiego-wroclaw">Ostrowskiego</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-otynska-wroclaw">Otyńska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-owczarska-wroclaw">Owczarska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-olawska-wroclaw">Oławska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-oltaszyn-wroclaw">Ołtaszyn</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-ozynowa-wroclaw">Ożynowa</a>
+</li>
+</ul>
+</div>
+</div>
+<div id="line-P" class="accordionContent onMobileClose" data-stop-content="stop-P">
+<button type="button" class="accordionHeader" data-mobile-close>
+<p class="smallNumberWrapper">
+<span class="smallNumber" aria-hidden="true">P</span>
+</p>
+<div class="busDirectionWrapper arrowDown">
+<h3 class="busDirection">Przystanek na literę P</h3>
+</div>
+</button>
+<div class="accordionBody" data-body>
+<ul class="accordionList">
+<li class="listItem">
+<a href="linie-na-przystanku-park-poludniowy-wroclaw">PARK POŁUDNIOWY</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-pawlowice-widawska-wroclaw">PAWŁOWICE (Widawska)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-petrusewicza-wroclaw">PETRUSEWICZA</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-pilczyce-wroclaw">PILCZYCE</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-pl-grunwaldzki-wroclaw">PL. GRUNWALDZKI</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-pl-jana-pawla-ii-wroclaw">PL. JANA PAWŁA II</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-pl-solidarnosci-wroclaw">PL. SOLIDARNOŚCI</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-pl-staszica-wroclaw">PL. STASZICA</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-polanowice-wroclaw">POLANOWICE</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-port-lotniczy-wroclaw">PORT LOTNICZY</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-poswiecka-osrodek-zdrowia-wroclaw">POŚWIĘCKA (Ośrodek zdrowia)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-poswietne-wroclaw">POŚWIĘTNE</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-pracze-odrzanskie-wroclaw">PRACZE ODRZAŃSKIE</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-pracze-odrzanskie-stacja-kolejowa-wroclaw">PRACZE ODRZAŃSKIE (Stacja kolejowa)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-pracze-widawskie-wroclaw">PRACZE WIDAWSKIE</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-psie-pole-stacja-kolejowa-wroclaw">PSIE POLE (Stacja kolejowa)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-palacha-wroclaw">Palacha</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-paprotna-wroclaw">Paprotna</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-parafialna-wroclaw">Parafialna</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-park-biznesu-wroclaw">Park Biznesu</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-park-brochowski-wroclaw">Park Brochowski</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-park-popowicki-wroclaw">Park Popowicki</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-park-stablowicki-wroclaw">Park Stabłowicki</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-park-staromiejski-wroclaw">Park Staromiejski</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-park-szczytnicki-wroclaw">Park Szczytnicki</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-park-tysiaclecia-wroclaw">Park Tysiąclecia</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-park-wschodni-wroclaw">Park Wschodni</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-park-zachodni-wroclaw">Park Zachodni</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-partynice-tor-wyscigow-konnych-wroclaw">Partynice (tor wyścigów konnych)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-partyzantow-wroclaw">Partyzantów</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-pasikurowice-energetyczna-wroclaw">Pasikurowice - Energetyczna</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-pasikurowice-wroclawska-na-wys-nr-14-wroclaw">Pasikurowice - Wrocławska (na wys. nr 14)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-pasikurowice-cmentarz-wroclaw">Pasikurowice - cmentarz</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-pasikurowice-n-z-wroclaw">Pasikurowice - n/ż</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-pasikurowice-skrzy-malinowa-wroclaw">Pasikurowice - skrzy. Malinowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-paulinska-wroclaw">Paulińska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-pawlowice-wroclaw">Pawłowice</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-pawlowicka-wroclaw">Pawłowicka</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-pereca-wroclaw">Pereca</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-perzowa-wroclaw">Perzowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-pelczynska-stacja-kolejowa-wroclaw">Pełczyńska (Stacja kolejowa)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-piastowska-wroclaw">Piastowska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-piecowice-wroclaw">Piecowice</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-pietrzykowice-wroclaw">Pietrzykowice</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-pietrzykowice-sportowa-glowna-wroclaw">Pietrzykowice - Sportowa/Główna</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-pietrzykowice-sportowa-petla-wroclaw">Pietrzykowice - Sportowa/pętla</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-pietrzykowice-wroclawska-stawowa-wroclaw">Pietrzykowice - Wrocławska/Stawowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-pietrzykowice-zaklad-wroclaw">Pietrzykowice - zakład</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-pilczycka-anima-wroclaw">Pilczycka (Anima)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-piolunowa-wroclaw">Piołunowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-piramowicza-kampus-biskupin-wroclaw">Piramowicza (Kampus Biskupin)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-pisarzowice-graniczna-wroclaw">Pisarzowice - Graniczna</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-pisarzowice-kolejowa-wroclaw">Pisarzowice - Kolejowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-pisarzowice-odrzanska-wroclaw">Pisarzowice - Odrzańska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-pisarzowice-szkolna-wroclaw">Pisarzowice - Szkolna</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-piwnika-ponurego-wroclaw">Piwnika-Ponurego</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-pilsudskiego-wroclaw">Piłsudskiego</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-pl-hirszfelda-wroclaw">Pl. Hirszfelda</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-poczta-glowna-wroclaw">Poczta Główna</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-pola-wroclaw">Pola</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-poleska-wroclaw">Poleska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-polkowicka-wroclaw">Polkowicka</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-pomorska-wroclaw">Pomorska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-poprzeczna-wroclaw">Poprzeczna</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-port-popowice-wroclaw">Port Popowice</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-polabian-wroclaw">Połabian</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-poswiecka-wroclaw">Poświęcka</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-prudnicka-wroclaw">Prudnicka</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-prusa-wroclaw">Prusa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-pruszowice-wroclaw">Pruszowice</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-pruszowice-las-wroclaw">Pruszowice - las</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-przebisniegowa-wroclaw">Przebiśniegowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-przedwiosnie-stacja-kolejowa-wroclaw">Przedwiośnie (Stacja kolejowa)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-przybyszewskiego-wroclaw">Przybyszewskiego</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-przybyly-wroclaw">Przybyły</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-przyjazni-wroclaw">Przyjaźni</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-przystankowa-wroclaw">Przystankowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-psary-parkowa-wroclaw">Psary - Parkowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-psary-szkola-wroclaw">Psary - Szkoła</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-psary-wolnosci-wroclaw">Psary - Wolności</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-psie-pole-wroclaw">Psie Pole</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-psie-pole-gorlicka-wroclaw">Psie Pole (Gorlicka)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-psie-pole-rondo-lotnikow-polskich-wroclaw">Psie Pole (Rondo Lotników Polskich)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-pustecka-wroclaw">Pustecka</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-pulaskiego-wroclaw">Pułaskiego</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-pultuska-wroclaw">Pułtuska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-polnocna-wroclaw">Północna</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-plaska-wroclaw">Płaska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-pl-bema-wroclaw">pl. Bema</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-pl-danilowskiego-wroclaw">pl. Daniłowskiego</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-pl-legionow-wroclaw">pl. Legionów</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-pl-nowy-targ-wroclaw">pl. Nowy Targ</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-pl-orlat-lwowskich-wroclaw">pl. Orląt Lwowskich</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-pl-srebrny-wroclaw">pl. Srebrny</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-pl-strzegomski-muzeum-wspolczesne-wroclaw">pl. Strzegomski (Muzeum Współczesne)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-pl-strzelecki-wroclaw">pl. Strzelecki</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-pl-wroblewskiego-wroclaw">pl. Wróblewskiego</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-pl-zgody-muzeum-etnograficzne-wroclaw">pl. Zgody (Muzeum Etnograficzne)</a>
+</li>
+</ul>
+</div>
+</div>
+<div id="line-R" class="accordionContent onMobileClose" data-stop-content="stop-R">
+<button type="button" class="accordionHeader" data-mobile-close>
+<p class="smallNumberWrapper">
+<span class="smallNumber" aria-hidden="true">R</span>
+</p>
+<div class="busDirectionWrapper arrowDown">
+<h3 class="busDirection">Przystanek na literę R</h3>
+</div>
+</button>
+<div class="accordionBody" data-body>
+<ul class="accordionList">
+<li class="listItem">
+<a href="linie-na-przystanku-raclawicka-wroclaw">RACŁAWICKA</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-ratyn-wroclaw">RATYŃ</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-rod-bajki-wroclaw">ROD Bajki</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-rod-bielany-wroclaw">ROD Bielany</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-rod-mieczyk-wroclaw">ROD Mieczyk</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-rod-oswiata-wroclaw">ROD Oświata</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-rod-pod-debem-wroclaw">ROD Pod Dębem</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-rod-storczyk-wroclaw">ROD Storczyk</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-rod-zgoda-wroclaw">ROD Zgoda</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-rod-zrodlo-zdrowia-wroclaw">ROD Źródło Zdrowia</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-rubczaka-stacja-kolejowa-wroclaw">RUBCZAKA (Stacja kolejowa)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-raclawicka-szkola-wroclaw">Racławicka (szkoła)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-radakowice-swietlica-wroclaw">Radakowice - Świetlica</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-radio-i-telewizja-wroclaw">Radio i Telewizja</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-rakowiecka-wroclaw">Rakowiecka</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-rakow-osiedle-wroclaw">Raków - osiedle</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-rakow-skrzy--wroclaw">Raków - skrzy.</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-rakow-i-wroclaw">Raków I</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-rakow-ii-wroclaw">Raków II</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-rakow-iii-wroclaw">Raków III</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-rakow-iv-wroclaw">Raków IV</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-ramiszow-wroclaw">Ramiszów</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-ramiszow-stacja-wroclaw">Ramiszów Stacja</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-ratyn-skrzyzowanie-wroclaw">Ratyń - skrzyżowanie</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-rdestowa-wroclaw">Rdestowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-redycka-wroclaw">Redycka</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-reja-wroclaw">Reja</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-renoma-wroclaw">Renoma</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-rodla-wroclaw">Rodła</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-rogowska-osrodek-sportu-wroclaw">Rogowska (Ośrodek sportu)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-rogowska-p-r-wroclaw">Rogowska (P+R)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-rogowska-ogrody-dzialkowe-wroclaw">Rogowska (ogrody działkowe)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-rondo-wroclaw">Rondo</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-rondo-obroncow-grodna-wroclaw">Rondo Obrońców Grodna</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-rubczaka-wroclaw">Rubczaka</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-rymarska-wroclaw">Rymarska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-rynek-wroclaw">Rynek</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-rzemieslnicza-wroclaw">Rzemieślnicza</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-rzeplin-al-lipowa-wroclaw">Rzeplin - Al. Lipowa </a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-rzeplin-petla-wroclaw">Rzeplin - pętla</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-rozanka-wroclaw">Różanka</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-redzin-wroclaw">RĘDZIN</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-redzinska-wroclaw">RĘDZIŃSKA</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-redzinska-cmentarz-wroclaw">Rędzińska (Cmentarz)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-rekodzielnicza-wroclaw">Rękodzielnicza</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-rondo-sw-ojca-pio-wroclaw">rondo Św. Ojca Pio</a>
+</li>
+</ul>
+</div>
+</div>
+<div id="line-S" class="accordionContent onMobileClose" data-stop-content="stop-S">
+<button type="button" class="accordionHeader" data-mobile-close>
+<p class="smallNumberWrapper">
+<span class="smallNumber" aria-hidden="true">S</span>
+</p>
+<div class="busDirectionWrapper arrowDown">
+<h3 class="busDirection">Przystanek na literę S</h3>
+</div>
+</button>
+<div class="accordionBody" data-body>
+<ul class="accordionList">
+<li class="listItem">
+<a href="linie-na-przystanku-soltysowice-wroclaw">SOŁTYSOWICE</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-spiska-osrodek-sportu-wroclaw">SPISKA (Ośrodek sportu)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-stablowicka-osrodek-zdrowia-wroclaw">STABŁOWICKA (Ośrodek zdrowia)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-szymanow-petla-wroclaw">SZYMANÓW-pętla</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-samotworska-wroclaw">Samotworska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-samotwor-debowa-wroclaw">Samotwór - Dębowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-samotwor-lesna-wroclaw">Samotwór - Leśna</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-sanocka-wroclaw">Sanocka</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-semaforowa-wroclaw">Semaforowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-serbska-c-k-agora-wroclaw">Serbska (C.K. Agora)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-serowarska-wroclaw">Serowarska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-siedlec-wroclawska-sklep-wroclaw">Siedlec - Wrocławska/sklep</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-siedlec-wroclawska-szkola-wroclaw">Siedlec - Wrocławska/szkoła</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-siedlec-skrzy-osiedlowa-wroclaw">Siedlec - skrzy. Osiedlowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-siedlec-stacja-wroclaw">Siedlec - stacja</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-skarbowcow-wroclaw">Skarbowców</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-skarzynskiego-wroclaw">Skarżyńskiego</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-skala-wies-wroclaw">Skała - wieś</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-skalka-wroclaw">Skałka</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-skalka-skrzy-malkowice-wroclaw">Skałka - skrzy. Małkowice</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-skalka-skrzy-w362-wroclaw">Skałka - skrzy. W362</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-skierniewicka-wroclaw">Skierniewicka</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-smocza-wroclaw">Smocza</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-smolec-chlopska-cisowa-wroclaw">Smolec - Chłopska/Cisowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-smolec-chlopska-glowna-wroclaw">Smolec - Chłopska/Główna</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-smolec-chlopska-wrzosowa-wroclaw">Smolec - Chłopska/Wrzosowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-smolec-chlopska-sliwkowa-wroclaw">Smolec - Chłopska/Śliwkowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-smolec-debowa-sklep-wroclaw">Smolec - Dębowa (sklep)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-smolec-glowna-na-wys-nr-52-wroclaw">Smolec - Główna (na wys. nr 52)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-smolec-glowna-na-wys-nr-83-wroclaw">Smolec - Główna (na wys. nr 83)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-smolec-glowna-dworcowa-wroclaw">Smolec - Główna/Dworcowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-smolec-lipowa-petla-wroclaw">Smolec - Lipowa/pętla</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-smolec-wisniowa-wroclaw">Smolec - Wiśniowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-smolec-wroclawska-wroclaw">Smolec - Wrocławska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-smolecka-wroclaw">Smolecka</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-solskiego-wroclaw">Solskiego</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-sosnowiecka-wroclaw">Sosnowiecka</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-sowia-wroclaw">Sowia</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-soltysowicka-wroclaw">Sołtysowicka</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-spoldzielcza-wroclaw">Spółdzielcza</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-stablowice-wroclaw">Stabłowice</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-stablowicka-wroclaw">Stabłowicka</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-stadion-olimpijski-wroclaw">Stadion Olimpijski</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-stalowa-wroclaw">Stalowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-stanislawowska-w-k-formaty-wroclaw">Stanisławowska (W.K. Formaty)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-stanki-wroclaw">Stanki</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-starodworska-wroclaw">Starodworska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-starodebowa-wroclaw">Starodębowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-staroscinska-wroclaw">Starościńska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-stoszowska-wroclaw">Stoszowska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-strachowice-general-aviation-wroclaw">Strachowice General Aviation</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-strachowicka-wroclaw">Strachowicka</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-strachowskiego-wroclaw">Strachowskiego</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-strumykowa-wroclaw">Strumykowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-strzegomska-muzeum-wspolczesne-wroclaw">Strzegomska (Muzeum Współczesne)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-strzegomska-krzyzowka-wroclaw">Strzegomska (krzyżówka)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-strzegomska-148-wroclaw">Strzegomska 148</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-stepin-wroclaw">Stępin</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-stepin-kosciol-wroclaw">Stępin - Kościół</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-sucha-wroclaw">Sucha</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-suchy-dwor-skrzy-wroclawska-glowna-wroclaw">Suchy Dwór - skrzy. (Wrocławska/Główna)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-suchy-dwor-skrzy-medlow-wroclaw">Suchy Dwór - skrzy. Mędłów</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-sudecka-wroclaw">Sudecka</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-suwalska-wroclaw">Suwalska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-swojczyce-wroclaw">Swojczyce</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-syrokomli-wroclaw">Syrokomli</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-szczecinska-wroclaw">Szczecińska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-szczepin-wroclaw">Szczepin</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-szczodre-szkola-wroclaw">Szczodre - Szkoła</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-szczodre-trzebnicka-wroclaw">Szczodre - Trzebnicka</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-szczodre-trzebnicka-na-wys-nr-3a-wroclaw">Szczodre - Trzebnicka (na wys. nr 3a)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-szczodre-petla-wroclaw">Szczodre - pętla</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-szczodre-stawy-wroclaw">Szczodre - stawy</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-szewczenki-wroclaw">Szewczenki</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-szkocka-wroclaw">Szkocka</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-szkolna-wroclaw">Szkolna</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-szkola-zerniki-wroclaw">Szkoła Żerniki</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-sztabowa-wroclaw">Sztabowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-szukalice-wroclaw">Szukalice</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-szybowcowa-wroclaw">Szybowcowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-szymanow-wroclaw">Szymanów</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-szymanow-letnia-wroclaw">Szymanów (Letnia)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-szymanow-widawska-wroclaw">Szymanów (Widawska)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-szymanow-skrzyz--wroclaw">Szymanów - skrzyż.</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-sasiedzka-wroclaw">Sąsiedzka</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-sepolno-wroclaw">SĘPOLNO</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-sloneczna-wroclaw">Słoneczna</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-slonimskiego-wroclaw">Słonimskiego</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-slowianska-wroclaw">Słowiańska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-skwer-krasinskiego-wroclaw">skwer Krasińskiego</a>
+</li>
+</ul>
+</div>
+</div>
+<div id="line-T" class="accordionContent onMobileClose" data-stop-content="stop-T">
+<button type="button" class="accordionHeader" data-mobile-close>
+<p class="smallNumberWrapper">
+<span class="smallNumber" aria-hidden="true">T</span>
+</p>
+<div class="busDirectionWrapper arrowDown">
+<h3 class="busDirection">Przystanek na literę T</h3>
+</div>
+</button>
+<div class="accordionBody" data-body>
+<ul class="accordionList">
+<li class="listItem">
+<a href="linie-na-przystanku-tarczynski-arena-krolewiecka-wroclaw">TARCZYŃSKI ARENA (Królewiecka)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-tarnogaj-wroclaw">TARNOGAJ</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-trestno-petla-wroclaw">TRESTNO (pętla)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-tyniecka-petla-wroclaw">TYNIECKA (pętla)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-tarczynski-arena-lotnicza-wroclaw">Tarczyński Arena (Lotnicza)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-tarnogajska-wroclaw">Tarnogajska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-tczewska-wroclaw">Tczewska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-tokary-centrum-wroclaw">Tokary - centrum</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-tokary-osiedle-wroclaw">Tokary - osiedle</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-topolowa-wroclaw">Topolowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-tramwajowa-wroclaw">Tramwajowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-trawowa-wroclaw">Trawowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-trestno-kosciol-wroclaw">Trestno - kościół</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-trestno-swietlica-wroclaw">Trestno - świetlica</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-trzebnicka-wroclaw">Trzebnicka</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-trzmielowicka-wroclaw">Trzmielowicka</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-tunelowa-wroclaw">Tunelowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-turoszowska-wroclaw">Turoszowska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-tymiankowa-wroclaw">Tymiankowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-tyniecka-wroclaw">Tyniecka</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-tyrmanda-wroclaw">Tyrmanda</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-teczowa-wroclaw">Tęczowa</a>
+</li>
+</ul>
+</div>
+</div>
+<div id="line-U" class="accordionContent onMobileClose" data-stop-content="stop-U">
+<button type="button" class="accordionHeader" data-mobile-close>
+<p class="smallNumberWrapper">
+<span class="smallNumber" aria-hidden="true">U</span>
+</p>
+<div class="busDirectionWrapper arrowDown">
+<h3 class="busDirection">Przystanek na literę U</h3>
+</div>
+</button>
+<div class="accordionBody" data-body>
+<ul class="accordionList">
+<li class="listItem">
+<a href="linie-na-przystanku-uniwersytet-dolnoslaski-dsw-wroclaw">Uniwersytet Dolnośląski DSW</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-uniwersytet-ekonomiczny-wroclaw">Uniwersytet Ekonomiczny</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-uniwersytet-wroclawski-wroclaw">Uniwersytet Wrocławski</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-urzad-wojewodzki-impart-wroclaw">Urząd Wojewódzki (Impart)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-urzad-wojewodzki-muzeum-narodowe-wroclaw">Urząd Wojewódzki (Muzeum Narodowe)</a>
+</li>
+</ul>
+</div>
+</div>
+<div id="line-V" class="accordionContent onMobileClose" data-stop-content="stop-V">
+<button type="button" class="accordionHeader" data-mobile-close>
+<p class="smallNumberWrapper">
+<span class="smallNumber" aria-hidden="true">V</span>
+</p>
+<div class="busDirectionWrapper arrowDown">
+<h3 class="busDirection">Przystanek na literę V</h3>
+</div>
+</button>
+<div class="accordionBody" data-body>
+<ul class="accordionList">
+<li class="listItem">
+<a href="linie-na-przystanku-vivaldiego-wroclaw">Vivaldiego</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-volvo-wroclaw">Volvo</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-volvo-brama-ii-wroclaw">Volvo - brama II</a>
+</li>
+</ul>
+</div>
+</div>
+<div id="line-W" class="accordionContent onMobileClose" data-stop-content="stop-W">
+<button type="button" class="accordionHeader" data-mobile-close>
+<p class="smallNumberWrapper">
+<span class="smallNumber" aria-hidden="true">W</span>
+</p>
+<div class="busDirectionWrapper arrowDown">
+<h3 class="busDirection">Przystanek na literę W</h3>
+</div>
+</button>
+<div class="accordionBody" data-body>
+<ul class="accordionList">
+<li class="listItem">
+<a href="linie-na-przystanku-walbrzyska-wroclaw">WAŁBRZYSKA</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-wojnow-petla-wroclaw">WOJNÓW (pętla)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-wallenroda-wroclaw">Wallenroda</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-waniliowa-wroclaw">Waniliowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-wapienna-wroclaw">Wapienna</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-warminska-wroclaw">Warmińska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-wawrzyniaka-wroclaw">Wawrzyniaka</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-weigla-szpital-wroclaw">Weigla (Szpital)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-wejherowska-hala-orbita-wroclaw">Wejherowska (Hala Orbita)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-welniana-wroclaw">Wełniana</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-wiaduktowa-wroclaw">Wiaduktowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-widawa-wroclaw">Widawa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-widna-wroclaw">Widna</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-wiejska-wroclaw">Wiejska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-wielka-wroclaw">Wielka</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-wielkopolska-wroclaw">Wielkopolska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-wilczyce-wroclaw">Wilczyce</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-wilczyce-borowa-wroclaw">Wilczyce - Borowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-wilczyce-dworska-wroclaw">Wilczyce - Dworska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-wilczyce-debowa-wroclaw">Wilczyce - Dębowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-wilczyce-sosnowa-wroclaw">Wilczyce - Sosnowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-wilczyce-wilczycka-clarena-wroclaw">Wilczyce - Wilczycka (Clarena)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-wilczyce-wilczycka-stary-mlyn-wroclaw">Wilczyce - Wilczycka (Stary Młyn)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-wilczyce-wroclawska-na-wys-nr-1f-wroclaw">Wilczyce - Wrocławska (na wys. nr 1F)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-wilczyce-szkola-wroclaw">Wilczyce - szkoła</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-wilkszyn-petla-wroclaw">Wilkszyn (pętla)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-wilkszyn-miloszyn-wroclaw">Wilkszyn - Miłoszyn</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-wilkszyn-polna-wroclaw">Wilkszyn - Polna</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-wilkszynska-wroclaw">Wilkszyńska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-wita-stwosza-wroclaw">Wita Stwosza</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-witelona-wroclaw">Witelona</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-witkowska-wroclaw">Witkowska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-wislanska-wroclaw">Wiślańska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-wisniowa-wroclaw">Wiśniowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-wojanowska-wroclaw">Wojanowska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-wojnow-wroclaw">Wojnów</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-wojszyce-wroclaw">Wojszyce</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-wojszycka-wroclaw">Wojszycka</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-wolska-wroclaw">Wolska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-wolowska-wroclaw">Wołowska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-wroclaw-mikolajow-zachodnia-wroclaw">Wrocław Mikołajów (Zachodnia)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-wroclaw-nowy-dwor-p-r-wroclaw">Wrocław Nowy Dwór (P+R)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-wroclaw-popowice-17-poludnik-wroclaw">Wrocław Popowice (17.południk)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-wroclaw-szczepin-wroclaw">Wrocław Szczepin</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-wroclawski-park-przemyslowy-wroclaw">Wrocławski Park Przemysłowy</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-wroclawski-park-technologiczny-wroclaw">Wrocławski Park Technologiczny</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-wroblowice-wroclaw">Wróblowice</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-wroblowice-innowacyjna-wroclaw">Wróblowice Innowacyjna</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-wschowska-wroclaw">Wschowska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-wysoka-wroclaw">Wysoka</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-wysoka-chabrowa-wroclaw">Wysoka - Chabrowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-wysoka-lipowa-wroclaw">Wysoka - Lipowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-wysoka-lipowa-jezynowa-wroclaw">Wysoka - Lipowa/Jeżynowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-wysoka-lipowa-parkowa-wroclaw">Wysoka - Lipowa/Parkowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-wysoka-radosna-wroclaw">Wysoka - Radosna</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-wysoka-osiedle-wroclaw">Wysoka - osiedle</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-wyszynskiego-wroclaw">Wyszyńskiego</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-wyscigowa-wroclaw">Wyścigowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-wzgorze-partyzantow-wroclaw">Wzgórze Partyzantów</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-wegrow-na-wys-nr-27-wroclaw">Węgrów (na wys. nr 27)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-wegrow-na-wys-nr-7-wroclaw">Węgrów (na wys. nr 7)</a>
+</li>
+</ul>
+</div>
+</div>
+<div id="line-Z" class="accordionContent onMobileClose" data-stop-content="stop-Z">
+<button type="button" class="accordionHeader" data-mobile-close>
+<p class="smallNumberWrapper">
+<span class="smallNumber" aria-hidden="true">Z</span>
+</p>
+<div class="busDirectionWrapper arrowDown">
+<h3 class="busDirection">Przystanek na literę Z</h3>
+</div>
+</button>
+<div class="accordionBody" data-body>
+<ul class="accordionList">
+<li class="listItem">
+<a href="linie-na-przystanku-zakrzow-wroclaw">ZAKRZÓW</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-zoo-wroclaw">ZOO</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-zwycieska-wroclaw">ZWYCIĘSKA</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-zabrodzie-petla-wroclaw">Zabrodzie - pętla</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-zabor-maly-wroclaw">Zabór Mały</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-zabor-wielki-wroclaw">Zabór Wielki</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-zacisze-wroclaw">Zacisze</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-zagony-wroclaw">Zagony</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-zagrodnicza-wroclaw">Zagrodnicza</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-zagloby-wroclaw">Zagłoby</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-zaglebiowska-wroclaw">Zagłębiowska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-zajazdowa-wroclaw">Zajazdowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-zajezdnia-borek-wroclaw">Zajezdnia BOREK</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-zajezdnia-gaj-wroclaw">Zajezdnia GAJ</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-zajezdnia-obornicka-wroclaw">Zajezdnia Obornicka</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-zajezdnia-olbin-wroclaw">Zajezdnia OŁBIN</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-zajaczkowska-wroclaw">Zajączkowska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-zakrzowska-wroclaw">Zakrzowska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-zakladowa-wroclaw">Zakładowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-zalewowa-wroclaw">Zalewowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-zamkowa-wroclaw">Zamkowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-zaolzianska-wroclaw">Zaolziańska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-zaporoska-wroclaw">Zaporoska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-zaprezyn-wroclaw">Zaprężyn</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-zarembowicza-wroclaw">Zarembowicza</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-zbozowa-wroclaw">Zbożowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-zemska-wroclaw">Zemska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-zgorzelisko-wroclaw">Zgorzelisko</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-zielinskiego-wroclaw">Zielińskiego</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-zielna-wroclaw">Zielna</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-ziemniaczana-wroclaw">Ziemniaczana</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-zimowa-wroclaw">Zimowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-zlotnicka-wroclaw">Złotnicka</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-zlotniki-wroclaw">Złotniki</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-zlotostocka-wroclaw">Złotostocka</a>
+</li>
+</ul>
+</div>
+</div>
+<div id="line-Ć" class="accordionContent onMobileClose" data-stop-content="stop-Ć">
+<button type="button" class="accordionHeader" data-mobile-close>
+<p class="smallNumberWrapper">
+<span class="smallNumber" aria-hidden="true">Ć</span>
+</p>
+<div class="busDirectionWrapper arrowDown">
+<h3 class="busDirection">Przystanek na literę Ć</h3>
+</div>
+</button>
+<div class="accordionBody" data-body>
+<ul class="accordionList">
+<li class="listItem">
+<a href="linie-na-przystanku-cwiczebna-wroclaw">Ćwiczebna</a>
+</li>
+</ul>
+</div>
+</div>
+<div id="line-Ł" class="accordionContent onMobileClose" data-stop-content="stop-Ł">
+<button type="button" class="accordionHeader" data-mobile-close>
+<p class="smallNumberWrapper">
+<span class="smallNumber" aria-hidden="true">Ł</span>
+</p>
+<div class="busDirectionWrapper arrowDown">
+<h3 class="busDirection">Przystanek na literę Ł</h3>
+</div>
+</button>
+<div class="accordionBody" data-body>
+<ul class="accordionList">
+<li class="listItem">
+<a href="linie-na-przystanku-losice-wroclaw">Łosice</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-losice-plac-zabaw-wroclaw">Łosice - plac zabaw</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-lososiowicka-wroclaw">Łososiowicka</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-lowecice-staw-wroclaw">Łowęcice - Staw</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-lozina-cmentarz-wroclaw">Łozina - Cmentarz</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-lozina-kosciol-wroclaw">Łozina - Kościół</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-lozina-milicka-poczta-wroclaw">Łozina - Milicka/poczta</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-lozina-milicka-szkola-wroclaw">Łozina - Milicka/szkoła</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-lozina-nowego-osiedla-i-wroclaw">Łozina - Nowego Osiedla I</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-lozina-nowego-osiedla-ii-wroclaw">Łozina - Nowego Osiedla II</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-lozina-wroclawska-na-wys-nr-18-wroclaw">Łozina - Wrocławska (na wys. nr 18)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-lozina-skrzy--wroclaw">Łozina - skrzy.</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-lugowa-wroclaw">Ługowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-luzycka-wroclaw">Łużycka</a>
+</li>
+</ul>
+</div>
+</div>
+<div id="line-Ś" class="accordionContent onMobileClose" data-stop-content="stop-Ś">
+<button type="button" class="accordionHeader" data-mobile-close>
+<p class="smallNumberWrapper">
+<span class="smallNumber" aria-hidden="true">Ś</span>
+</p>
+<div class="busDirectionWrapper arrowDown">
+<h3 class="busDirection">Przystanek na literę Ś</h3>
+</div>
+</button>
+<div class="accordionBody" data-body>
+<ul class="accordionList">
+<li class="listItem">
+<a href="linie-na-przystanku-slazowa-wroclaw">ŚLAZOWA</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-swidnicka-dom-europy-wroclaw">ŚWIDNICKA (Dom Europy)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-swiniary-wroclaw">ŚWINIARY</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-sliczna-wroclaw">Śliczna</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-sliwice-wroclaw">Śliwice</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-sliwowa-wroclaw">Śliwowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-slusarska-wroclaw">Ślusarska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-sleza-debowa-wroclaw">Ślęza - Dębowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-sleza-szyszkowa-wroclaw">Ślęza - Szyszkowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-sleza-autostrada-wroclaw">Ślęza - autostrada</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-sleza-skrzyzowanie-wroclaw">Ślęza - skrzyżowanie</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-sniadeckich-wroclaw">Śniadeckich</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-sniezna-wroclaw">Śnieżna</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-sredzka-wroclaw">Średzka</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-srubowa-wroclaw">Śrubowa</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-swidnicka-wroclaw">Świdnicka</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-swieradowska-wroclaw">Świeradowska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-swistackiego-wroclaw">Świstackiego</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-swit-wroclaw">Świt</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-swietokrzyska-wroclaw">Świętokrzyska</a>
+</li>
+</ul>
+</div>
+</div>
+<div id="line-Ź" class="accordionContent onMobileClose" data-stop-content="stop-Ź">
+<button type="button" class="accordionHeader" data-mobile-close>
+<p class="smallNumberWrapper">
+<span class="smallNumber" aria-hidden="true">Ź</span>
+</p>
+<div class="busDirectionWrapper arrowDown">
+<h3 class="busDirection">Przystanek na literę Ź</h3>
+</div>
+</button>
+<div class="accordionBody" data-body>
+<ul class="accordionList">
+<li class="listItem">
+<a href="linie-na-przystanku-zrodla-wroclaw">Źródła</a>
+</li>
+</ul>
+</div>
+</div>
+<div id="line-Ż" class="accordionContent onMobileClose" data-stop-content="stop-Ż">
+<button type="button" class="accordionHeader" data-mobile-close>
+<p class="smallNumberWrapper">
+<span class="smallNumber" aria-hidden="true">Ż</span>
+</p>
+<div class="busDirectionWrapper arrowDown">
+<h3 class="busDirection">Przystanek na literę Ż</h3>
+</div>
+</button>
+<div class="accordionBody" data-body>
+<ul class="accordionList">
+<li class="listItem">
+<a href="linie-na-przystanku-zar-wroclaw">ŻAR</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-zelazna-wroclaw">Żelazna</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-zernicka-wroclaw">Żernicka</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-zerniki-wroclaw">Żerniki</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-zmigrodzka-obwodnica-wroclaw">Żmigrodzka (Obwodnica)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-zmudzka-wroclaw">Żmudzka</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-zurawiniec-wroclaw">Żurawiniec</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-zorawina-niepodleglosci-mostek-wroclaw">Żórawina - Niepodległości (Mostek)</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-zorawina-orange-wroclaw">Żórawina - Orange</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-zorawina-wroclawska-wroclaw">Żórawina - Wrocławska</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-zorawina-kosciol-sw-trojcy-wroclaw">Żórawina - kościół Św. Trójcy</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-zorawina-osiedle-wroclaw">Żórawina - osiedle</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-zorawina-skrzy--wroclaw">Żórawina - skrzy.</a>
+</li>
+<li class="listItem">
+<a href="linie-na-przystanku-zorawina-skrzy-niepodleglosci-wroclaw">Żórawina - skrzy. Niepodległości</a>
+</li>
+</ul>
+</div>
+</div>
+<div id="line-8" class="accordionContent onMobileClose" data-stop-content="stop-8">
+<button type="button" class="accordionHeader" data-mobile-close>
+<p class="smallNumberWrapper">
+<span class="smallNumber" aria-hidden="true">8</span>
+</p>
+<div class="busDirectionWrapper arrowDown">
+<h3 class="busDirection">Przystanek na literę 8</h3>
+</div>
+</button>
+<div class="accordionBody" data-body>
+<ul class="accordionList">
+<li class="listItem">
+<a href="linie-na-przystanku-8-maja-wroclaw">8 Maja</a>
