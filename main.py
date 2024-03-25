@@ -18,16 +18,21 @@ if 'wroclaw">' in s:
     x=s[s.index(">")+1:]
     print(x[:-4])
 stops={}
+db=Database()
 f = open("Materials/Przystanki.txt","r",encoding="utf8")
 i=0
 l=[]
+# dodawanie do bazy danych przystanków, uważać bo sie doda po raz kolejny
 for lines in f:
     if 'wroclaw">' in lines:
         i += 1
         x = lines[lines.index(">") + 1:]
         print(x[:-5])
-
+        v=x[:-5]
         dict={"id":i,"name":x[:-5]}
         l.append(dict)
+        db.cursor.execute(f"INSERT INTO Przystanki (Nazwa) VALUES ('{v}')")
+        db.connection.commit()
+
 output=open("stops.json", "w")
 json.dump(l,output,indent=4)
