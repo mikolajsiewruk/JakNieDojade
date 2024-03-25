@@ -1,0 +1,519 @@
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Żmigrodzka)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-karlowice-linia-8-kierunek-tarnogaj-slupek-23011" class="label">
+<span class="onlyPrint">Przystanek -</span> Karłowice
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-karlowice-linia-8-kierunek-tarnogaj-slupek-23011" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Karłowice</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<img src="./themes/img/time_icon.svg" class="onlyPrint" aria-hidden="true" width="9" height="9" alt>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Trzebnicka)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-trzebnicka-linia-8-kierunek-tarnogaj-slupek-20618" class="label">
+<span class="onlyPrint">Przystanek -</span> Trzebnicka
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-trzebnicka-linia-8-kierunek-tarnogaj-slupek-20618" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Trzebnicka</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 3'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(pl. Powstańców Wielkopolskich)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-dworzec-nadodrze-linia-8-kierunek-tarnogaj-slupek-20616" class="label">
+<span class="onlyPrint">Przystanek -</span> Dworzec Nadodrze
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-dworzec-nadodrze-linia-8-kierunek-tarnogaj-slupek-20616" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Dworzec Nadodrze</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 5'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(pl. Powstańców Wielkopolskich)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-dworzec-nadodrze-linia-8-kierunek-tarnogaj-slupek-20609" class="label">
+<span class="onlyPrint">Przystanek -</span> Dworzec Nadodrze
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-dworzec-nadodrze-linia-8-kierunek-tarnogaj-slupek-20609" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Dworzec Nadodrze</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 6'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Słowiańska)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-slowianska-linia-8-kierunek-tarnogaj-slupek-20665" class="label">
+<span class="onlyPrint">Przystanek -</span> Słowiańska
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-slowianska-linia-8-kierunek-tarnogaj-slupek-20665" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Słowiańska</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 8'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Słowiańska)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-nowowiejska-linia-8-kierunek-tarnogaj-slupek-20634" class="label">
+<span class="onlyPrint">Przystanek -</span> Nowowiejska
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-nowowiejska-linia-8-kierunek-tarnogaj-slupek-20634" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Nowowiejska</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 9'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Poniatowskiego)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-jednosci-narodowej-linia-8-kierunek-tarnogaj-slupek-20626" class="label">
+<span class="onlyPrint">Przystanek -</span> Jedności Narodowej
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-jednosci-narodowej-linia-8-kierunek-tarnogaj-slupek-20626" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Jedności Narodowej</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 10'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Poniatowskiego)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-na-szancach-linia-8-kierunek-tarnogaj-slupek-20624" class="label">
+<span class="onlyPrint">Przystanek -</span> Na Szańcach
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-na-szancach-linia-8-kierunek-tarnogaj-slupek-20624" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Na Szańcach</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 11'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(pl. Bema)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-pl-bema-linia-8-kierunek-tarnogaj-slupek-20622" class="label">
+<span class="onlyPrint">Przystanek -</span> Pl. Bema
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-pl-bema-linia-8-kierunek-tarnogaj-slupek-20622" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Pl. Bema</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 13'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Piaskowa)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-hala-targowa-linia-8-kierunek-tarnogaj-slupek-10024" class="label">
+<span class="onlyPrint">Przystanek -</span> Hala Targowa
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-hala-targowa-linia-8-kierunek-tarnogaj-slupek-10024" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Hala Targowa</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 15'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(św. Katarzyny)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-pl-nowy-targ-linia-8-kierunek-tarnogaj-slupek-10026" class="label">
+<span class="onlyPrint">Przystanek -</span> Pl. Nowy Targ
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-pl-nowy-targ-linia-8-kierunek-tarnogaj-slupek-10026" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Pl. Nowy Targ</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 16'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(bł. Czesława)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-galeria-dominikanska-linia-8-kierunek-tarnogaj-slupek-10022" class="label">
+<span class="onlyPrint">Przystanek -</span> Galeria Dominikańska
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-galeria-dominikanska-linia-8-kierunek-tarnogaj-slupek-10022" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Galeria Dominikańska</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 18'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Skargi)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-wzgorze-partyzantow-linia-8-kierunek-tarnogaj-slupek-10221" class="label">
+<span class="onlyPrint">Przystanek -</span> Wzgórze Partyzantów
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-wzgorze-partyzantow-linia-8-kierunek-tarnogaj-slupek-10221" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Wzgórze Partyzantów</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 20'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Kołłątaja)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-dworzec-glowny-linia-8-kierunek-tarnogaj-slupek-10223" class="label">
+<span class="onlyPrint">Przystanek -</span> Dworzec Główny
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-dworzec-glowny-linia-8-kierunek-tarnogaj-slupek-10223" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Dworzec Główny</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 22'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Peronowa)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-dworzec-glowny-linia-8-kierunek-tarnogaj-slupek-20269" class="label">
+<span class="onlyPrint">Przystanek -</span> Dworzec Główny
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-dworzec-glowny-linia-8-kierunek-tarnogaj-slupek-20269" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Dworzec Główny</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 24'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Borowska)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-dworzec-autobusowy-linia-8-kierunek-tarnogaj-slupek-11001" class="label">
+<span class="onlyPrint">Przystanek -</span> Dworzec Autobusowy
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-dworzec-autobusowy-linia-8-kierunek-tarnogaj-slupek-11001" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Dworzec Autobusowy</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 27'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Gliniana)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-joannitow-linia-8-kierunek-tarnogaj-slupek-21005" class="label">
+<span class="onlyPrint">Przystanek -</span> Joannitów
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-joannitow-linia-8-kierunek-tarnogaj-slupek-21005" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Joannitów</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 29'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Gliniana)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-gajowa-linia-8-kierunek-tarnogaj-slupek-21007" class="label">
+<span class="onlyPrint">Przystanek -</span> Gajowa
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-gajowa-linia-8-kierunek-tarnogaj-slupek-21007" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Gajowa</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 30'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Hubska)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-prudnicka-linia-8-kierunek-tarnogaj-slupek-21009" class="label">
+<span class="onlyPrint">Przystanek -</span> Prudnicka
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-prudnicka-linia-8-kierunek-tarnogaj-slupek-21009" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Prudnicka</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 32'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Bardzka)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-kamienna-linia-8-kierunek-tarnogaj-slupek-21011" class="label">
+<span class="onlyPrint">Przystanek -</span> Kamienna
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-kamienna-linia-8-kierunek-tarnogaj-slupek-21011" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Kamienna</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 33'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(al. Armii Krajowej)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-bardzka-linia-8-kierunek-tarnogaj-slupek-21013" class="label">
+<span class="onlyPrint">Przystanek -</span> Bardzka
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-bardzka-linia-8-kierunek-tarnogaj-slupek-21013" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Bardzka</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 35'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(al. Armii Krajowej)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-nyska-linia-8-kierunek-tarnogaj-slupek-21015" class="label">
+<span class="onlyPrint">Przystanek -</span> Nyska
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-nyska-linia-8-kierunek-tarnogaj-slupek-21015" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Nyska</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 36'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(al. Armii Krajowej)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-tarnogajska-linia-8-kierunek-tarnogaj-slupek-21017" class="label">
+<span class="onlyPrint">Przystanek -</span> Tarnogajska
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-tarnogajska-linia-8-kierunek-tarnogaj-slupek-21017" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Tarnogajska</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 37'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Tarnogajska)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-klimasa-linia-8-kierunek-tarnogaj-slupek-21019" class="label">
+<span class="onlyPrint">Przystanek -</span> Klimasa
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-klimasa-linia-8-kierunek-tarnogaj-slupek-21019" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Klimasa</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 39'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Tarnogajska)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-tarnogaj-linia-8-kierunek-tarnogaj-slupek-21021" class="label">
+<span class="onlyPrint">Przystanek -</span> Tarnogaj
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-tarnogaj-linia-8-kierunek-tarnogaj-slupek-21021" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Tarnogaj</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 40'
+</span>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="printPageWrapper">
+<button class="printPage" onclick="if (!window.__cfRLUnblockHandlers) return false; window.print(); return false;" data-cf-modified-b239deb162aec007a3f50300->
+Wydrukuj rozkład
+<span class="sr-only">linii nr 8</span>
+</button>
+</div>
+</div>
+<div class="contentWrapper">
+<h3 class="titleSection leftBeam">Odjazdy z tego przystanku</h3>
+<div class="accordionContent isLink">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-karlowice-linia-16-kierunek-tarnogaj-slupek-23011" class="accordionHeader">
+<p class="smallNumberWrapper">
+<span class="smallNumber">16</span>
+</p>
+<div class="busDirectionWrapper arrowDown">
+<div class="busDirection">
+<span>
+Karłowice
+</span>

@@ -1,0 +1,504 @@
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Opolska)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-ksieze-male-linia-5-kierunek-grabiszynska-cmentarz-slupek-25014" class="label">
+<span class="onlyPrint">Przystanek -</span> Księże Małe
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-ksieze-male-linia-5-kierunek-grabiszynska-cmentarz-slupek-25014" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Księże Małe</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<img src="./themes/img/time_icon.svg" class="onlyPrint" aria-hidden="true" width="9" height="9" alt>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Opolska)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-glubczycka-linia-5-kierunek-grabiszynska-cmentarz-slupek-25012" class="label">
+<span class="onlyPrint">Przystanek -</span> Głubczycka
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-glubczycka-linia-5-kierunek-grabiszynska-cmentarz-slupek-25012" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Głubczycka</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 1'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Krakowska)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-karwinska-linia-5-kierunek-grabiszynska-cmentarz-slupek-25010" class="label">
+<span class="onlyPrint">Przystanek -</span> Karwińska
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-karwinska-linia-5-kierunek-grabiszynska-cmentarz-slupek-25010" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Karwińska</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 3'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Krakowska)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-park-wschodni-linia-5-kierunek-grabiszynska-cmentarz-slupek-25008" class="label">
+<span class="onlyPrint">Przystanek -</span> Park Wschodni
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-park-wschodni-linia-5-kierunek-grabiszynska-cmentarz-slupek-25008" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Park Wschodni</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 4'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Krakowska)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-armii-krajowej-linia-5-kierunek-grabiszynska-cmentarz-slupek-25006" class="label">
+<span class="onlyPrint">Przystanek -</span> Armii Krajowej
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-armii-krajowej-linia-5-kierunek-grabiszynska-cmentarz-slupek-25006" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Armii Krajowej</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 5'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Krakowska)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-krakowska-centrum-handlowe-linia-5-kierunek-grabiszynska-cmentarz-slupek-25004" class="label">
+<span class="onlyPrint">Przystanek -</span> Krakowska (Centrum Handlowe)
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-krakowska-centrum-handlowe-linia-5-kierunek-grabiszynska-cmentarz-slupek-25004" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Krakowska (Centrum Handlowe)</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 7'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Krakowska)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-krakowska-linia-5-kierunek-grabiszynska-cmentarz-slupek-25002" class="label">
+<span class="onlyPrint">Przystanek -</span> Krakowska
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-krakowska-linia-5-kierunek-grabiszynska-cmentarz-slupek-25002" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Krakowska</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 8'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Krakowska)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-na-niskich-lakach-linia-5-kierunek-grabiszynska-cmentarz-slupek-20206" class="label">
+<span class="onlyPrint">Przystanek -</span> Na Niskich Łąkach
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-na-niskich-lakach-linia-5-kierunek-grabiszynska-cmentarz-slupek-20206" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Na Niskich Łąkach</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 9'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Traugutta)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-pl-zgody-muzeum-etnograficzne-linia-5-kierunek-grabiszynska-cmentarz-slupek-20204" class="label">
+<span class="onlyPrint">Przystanek -</span> Pl. Zgody (Muzeum Etnograficzne)
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-pl-zgody-muzeum-etnograficzne-linia-5-kierunek-grabiszynska-cmentarz-slupek-20204" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Pl. Zgody (Muzeum Etnograficzne)</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 11'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Traugutta)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-pl-wroblewskiego-linia-5-kierunek-grabiszynska-cmentarz-slupek-20202" class="label">
+<span class="onlyPrint">Przystanek -</span> Pl. Wróblewskiego
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-pl-wroblewskiego-linia-5-kierunek-grabiszynska-cmentarz-slupek-20202" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Pl. Wróblewskiego</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 14'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Oławska)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-galeria-dominikanska-linia-5-kierunek-grabiszynska-cmentarz-slupek-10032" class="label">
+<span class="onlyPrint">Przystanek -</span> Galeria Dominikańska
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-galeria-dominikanska-linia-5-kierunek-grabiszynska-cmentarz-slupek-10032" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Galeria Dominikańska</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 18'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Skargi)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-wzgorze-partyzantow-linia-5-kierunek-grabiszynska-cmentarz-slupek-10221" class="label">
+<span class="onlyPrint">Przystanek -</span> Wzgórze Partyzantów
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-wzgorze-partyzantow-linia-5-kierunek-grabiszynska-cmentarz-slupek-10221" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Wzgórze Partyzantów</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 20'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Kołłątaja)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-dworzec-glowny-linia-5-kierunek-grabiszynska-cmentarz-slupek-10223" class="label">
+<span class="onlyPrint">Przystanek -</span> Dworzec Główny
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-dworzec-glowny-linia-5-kierunek-grabiszynska-cmentarz-slupek-10223" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Dworzec Główny</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 22'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Piłsudskiego)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-arkady-capitol-linia-5-kierunek-grabiszynska-cmentarz-slupek-10269" class="label">
+<span class="onlyPrint">Przystanek -</span> Arkady (Capitol)
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-arkady-capitol-linia-5-kierunek-grabiszynska-cmentarz-slupek-10269" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Arkady (Capitol)</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 25'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Piłsudskiego)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-pl-legionow-linia-5-kierunek-grabiszynska-cmentarz-slupek-10271" class="label">
+<span class="onlyPrint">Przystanek -</span> Pl. Legionów
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-pl-legionow-linia-5-kierunek-grabiszynska-cmentarz-slupek-10271" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Pl. Legionów</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 27'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Grabiszyńska)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-kolejowa-linia-5-kierunek-grabiszynska-cmentarz-slupek-10247" class="label">
+<span class="onlyPrint">Przystanek -</span> Kolejowa
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-kolejowa-linia-5-kierunek-grabiszynska-cmentarz-slupek-10247" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Kolejowa</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 28'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Grabiszyńska)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-grabiszynska-linia-5-kierunek-grabiszynska-cmentarz-slupek-10245" class="label">
+<span class="onlyPrint">Przystanek -</span> Grabiszyńska
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-grabiszynska-linia-5-kierunek-grabiszynska-cmentarz-slupek-10245" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Grabiszyńska</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 29'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Grabiszyńska)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-pereca-linia-5-kierunek-grabiszynska-cmentarz-slupek-11401" class="label">
+<span class="onlyPrint">Przystanek -</span> Pereca
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-pereca-linia-5-kierunek-grabiszynska-cmentarz-slupek-11401" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Pereca</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 31'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Grabiszyńska)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-stalowa-linia-5-kierunek-grabiszynska-cmentarz-slupek-11403" class="label">
+<span class="onlyPrint">Przystanek -</span> Stalowa
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-stalowa-linia-5-kierunek-grabiszynska-cmentarz-slupek-11403" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Stalowa</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 33'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Grabiszyńska)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-pl-srebrny-linia-5-kierunek-grabiszynska-cmentarz-slupek-11405" class="label">
+<span class="onlyPrint">Przystanek -</span> Pl. Srebrny
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-pl-srebrny-linia-5-kierunek-grabiszynska-cmentarz-slupek-11405" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Pl. Srebrny</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 34'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Grabiszyńska)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-bzowa-centrum-historii-zajezdnia-linia-5-kierunek-grabiszynska-cmentarz-slupek-11601" class="label">
+<span class="onlyPrint">Przystanek -</span> Bzowa (Centrum Historii Zajezdnia)
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-bzowa-centrum-historii-zajezdnia-linia-5-kierunek-grabiszynska-cmentarz-slupek-11601" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Bzowa (Centrum Historii Zajezdnia)</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 35'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Grabiszyńska)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-hutmen-linia-5-kierunek-grabiszynska-cmentarz-slupek-11603" class="label">
+<span class="onlyPrint">Przystanek -</span> Hutmen
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-hutmen-linia-5-kierunek-grabiszynska-cmentarz-slupek-11603" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Hutmen</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 36'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Grabiszyńska)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-fat-linia-5-kierunek-grabiszynska-cmentarz-slupek-11605" class="label">
+<span class="onlyPrint">Przystanek -</span> FAT
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-fat-linia-5-kierunek-grabiszynska-cmentarz-slupek-11605" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">FAT</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 38'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Grabiszyńska)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-fiolkowa-linia-5-kierunek-grabiszynska-cmentarz-slupek-11607" class="label">
+<span class="onlyPrint">Przystanek -</span> Fiołkowa
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-fiolkowa-linia-5-kierunek-grabiszynska-cmentarz-slupek-11607" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Fiołkowa</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 39'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Grabiszyńska)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-grabiszynska-cmentarz-linia-5-kierunek-grabiszynska-cmentarz-slupek-11609" class="label">
+<span class="onlyPrint">Przystanek -</span> Grabiszyńska (Cmentarz)
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-grabiszynska-cmentarz-linia-5-kierunek-grabiszynska-cmentarz-slupek-11609" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Grabiszyńska (Cmentarz)</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 40'
+</span>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="printPageWrapper">
+<button class="printPage" onclick="if (!window.__cfRLUnblockHandlers) return false; window.print(); return false;" data-cf-modified-f860caafc1a84fd55681664a->
+Wydrukuj rozkład
+<span class="sr-only">linii nr 5</span>

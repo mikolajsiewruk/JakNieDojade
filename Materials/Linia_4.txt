@@ -1,0 +1,597 @@
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-oporow-linia-4-kierunek-biskupin-slupek-11614" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Oporów</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<img src="./themes/img/time_icon.svg" class="onlyPrint" aria-hidden="true" width="9" height="9" alt>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Grabiszyńska)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-grabiszynska-cmentarz-ii-linia-4-kierunek-biskupin-slupek-11612" class="label">
+<span class="onlyPrint">Przystanek -</span> Grabiszyńska (Cmentarz II)
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-grabiszynska-cmentarz-ii-linia-4-kierunek-biskupin-slupek-11612" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Grabiszyńska (Cmentarz II)</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 1'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Grabiszyńska)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-grabiszynska-cmentarz-linia-4-kierunek-biskupin-slupek-11610" class="label">
+<span class="onlyPrint">Przystanek -</span> Grabiszyńska (Cmentarz)
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-grabiszynska-cmentarz-linia-4-kierunek-biskupin-slupek-11610" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Grabiszyńska (Cmentarz)</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 2'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Grabiszyńska)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-fiolkowa-linia-4-kierunek-biskupin-slupek-11608" class="label">
+<span class="onlyPrint">Przystanek -</span> Fiołkowa
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-fiolkowa-linia-4-kierunek-biskupin-slupek-11608" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Fiołkowa</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 3'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Grabiszyńska)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-fat-linia-4-kierunek-biskupin-slupek-11606" class="label">
+<span class="onlyPrint">Przystanek -</span> FAT
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-fat-linia-4-kierunek-biskupin-slupek-11606" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">FAT</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 5'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Grabiszyńska)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-hutmen-linia-4-kierunek-biskupin-slupek-11604" class="label">
+<span class="onlyPrint">Przystanek -</span> Hutmen
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-hutmen-linia-4-kierunek-biskupin-slupek-11604" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Hutmen</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 6'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Grabiszyńska)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-bzowa-centrum-historii-zajezdnia-linia-4-kierunek-biskupin-slupek-11602" class="label">
+<span class="onlyPrint">Przystanek -</span> Bzowa (Centrum Historii Zajezdnia)
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-bzowa-centrum-historii-zajezdnia-linia-4-kierunek-biskupin-slupek-11602" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Bzowa (Centrum Historii Zajezdnia)</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 7'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Grabiszyńska)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-pl-srebrny-linia-4-kierunek-biskupin-slupek-11406" class="label">
+<span class="onlyPrint">Przystanek -</span> Pl. Srebrny
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-pl-srebrny-linia-4-kierunek-biskupin-slupek-11406" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Pl. Srebrny</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 8'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Grabiszyńska)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-stalowa-linia-4-kierunek-biskupin-slupek-11404" class="label">
+<span class="onlyPrint">Przystanek -</span> Stalowa
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-stalowa-linia-4-kierunek-biskupin-slupek-11404" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Stalowa</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 9'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Grabiszyńska)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-pereca-linia-4-kierunek-biskupin-slupek-11402" class="label">
+<span class="onlyPrint">Przystanek -</span> Pereca
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-pereca-linia-4-kierunek-biskupin-slupek-11402" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Pereca</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 11'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Grabiszyńska)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-grabiszynska-linia-4-kierunek-biskupin-slupek-10246" class="label">
+<span class="onlyPrint">Przystanek -</span> Grabiszyńska
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-grabiszynska-linia-4-kierunek-biskupin-slupek-10246" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Grabiszyńska</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 12'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Grabiszyńska)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-kolejowa-linia-4-kierunek-biskupin-slupek-10248" class="label">
+<span class="onlyPrint">Przystanek -</span> Kolejowa
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-kolejowa-linia-4-kierunek-biskupin-slupek-10248" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Kolejowa</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 13'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Grabiszyńska)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-pl-legionow-linia-4-kierunek-biskupin-slupek-10244" class="label">
+<span class="onlyPrint">Przystanek -</span> Pl. Legionów
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-pl-legionow-linia-4-kierunek-biskupin-slupek-10244" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Pl. Legionów</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 15'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Piłsudskiego)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-arkady-capitol-linia-4-kierunek-biskupin-slupek-10270" class="label">
+<span class="onlyPrint">Przystanek -</span> Arkady (Capitol)
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-arkady-capitol-linia-4-kierunek-biskupin-slupek-10270" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Arkady (Capitol)</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 17'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Piłsudskiego)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-dworzec-glowny-linia-4-kierunek-biskupin-slupek-10268" class="label">
+<span class="onlyPrint">Przystanek -</span> Dworzec Główny
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-dworzec-glowny-linia-4-kierunek-biskupin-slupek-10268" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Dworzec Główny</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 20'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Małachowskiego)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-pulaskiego-linia-4-kierunek-biskupin-slupek-20266" class="label">
+<span class="onlyPrint">Przystanek -</span> Pułaskiego
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-pulaskiego-linia-4-kierunek-biskupin-slupek-20266" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Pułaskiego</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 22'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Pułaskiego)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-kosciuszki-linia-4-kierunek-biskupin-slupek-20264" class="label">
+<span class="onlyPrint">Przystanek -</span> Kościuszki
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-kosciuszki-linia-4-kierunek-biskupin-slupek-20264" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Kościuszki</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 24'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Pułaskiego)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-komuny-paryskiej-linia-4-kierunek-biskupin-slupek-20262" class="label">
+<span class="onlyPrint">Przystanek -</span> Komuny Paryskiej
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-komuny-paryskiej-linia-4-kierunek-biskupin-slupek-20262" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Komuny Paryskiej</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 25'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Traugutta)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-pl-wroblewskiego-linia-4-kierunek-biskupin-slupek-20202" class="label">
+<span class="onlyPrint">Przystanek -</span> Pl. Wróblewskiego
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-pl-wroblewskiego-linia-4-kierunek-biskupin-slupek-20202" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Pl. Wróblewskiego</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 27'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(pl. Powstańców Warszawy)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-urzad-wojewodzki-impart-linia-4-kierunek-biskupin-slupek-20291" class="label">
+<span class="onlyPrint">Przystanek -</span> Urząd Wojewódzki (Impart)
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-urzad-wojewodzki-impart-linia-4-kierunek-biskupin-slupek-20291" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Urząd Wojewódzki (Impart)</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 30'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(pl. Grunwaldzki)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-most-grunwaldzki-linia-4-kierunek-biskupin-slupek-20821" class="label">
+<span class="onlyPrint">Przystanek -</span> Most Grunwaldzki
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-most-grunwaldzki-linia-4-kierunek-biskupin-slupek-20821" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Most Grunwaldzki</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 32'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(rondo Reagana)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-pl-grunwaldzki-linia-4-kierunek-biskupin-slupek-20815" class="label">
+<span class="onlyPrint">Przystanek -</span> Pl. Grunwaldzki
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-pl-grunwaldzki-linia-4-kierunek-biskupin-slupek-20815" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Pl. Grunwaldzki</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 34'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Curie-Skłodowskiej)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-kliniki-politechnika-wroclawska-linia-4-kierunek-biskupin-slupek-20817" class="label">
+<span class="onlyPrint">Przystanek -</span> Kliniki - Politechnika Wrocławska
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-kliniki-politechnika-wroclawska-linia-4-kierunek-biskupin-slupek-20817" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Kliniki - Politechnika Wrocławska</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 36'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Wróblewskiego)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-hala-stulecia-linia-4-kierunek-biskupin-slupek-24401" class="label">
+<span class="onlyPrint">Przystanek -</span> Hala Stulecia
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-hala-stulecia-linia-4-kierunek-biskupin-slupek-24401" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Hala Stulecia</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 38'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Wróblewskiego)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-zoo-linia-4-kierunek-biskupin-slupek-24403" class="label">
+<span class="onlyPrint">Przystanek -</span> Zoo
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-zoo-linia-4-kierunek-biskupin-slupek-24403" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Zoo</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 39'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Wróblewskiego)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-tramwajowa-linia-4-kierunek-biskupin-slupek-24407" class="label">
+<span class="onlyPrint">Przystanek -</span> Tramwajowa
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-tramwajowa-linia-4-kierunek-biskupin-slupek-24407" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Tramwajowa</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 40'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Olszewskiego)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-chelmonskiego-linia-4-kierunek-biskupin-slupek-24409" class="label">
+<span class="onlyPrint">Przystanek -</span> Chełmońskiego
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-chelmonskiego-linia-4-kierunek-biskupin-slupek-24409" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Chełmońskiego</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 42'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Olszewskiego)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-piramowicza-kampus-biskupin-linia-4-kierunek-biskupin-slupek-24411" class="label">
+<span class="onlyPrint">Przystanek -</span> Piramowicza (Kampus Biskupin)
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-piramowicza-kampus-biskupin-linia-4-kierunek-biskupin-slupek-24411" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Piramowicza (Kampus Biskupin)</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 43'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Olszewskiego)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-spoldzielcza-linia-4-kierunek-biskupin-slupek-24413" class="label">
+<span class="onlyPrint">Przystanek -</span> Spółdzielcza
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-spoldzielcza-linia-4-kierunek-biskupin-slupek-24413" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Spółdzielcza</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 44'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Olszewskiego)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-biskupin-linia-4-kierunek-biskupin-slupek-24416" class="label">
+<span class="onlyPrint">Przystanek -</span> Biskupin
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-biskupin-linia-4-kierunek-biskupin-slupek-24416" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Biskupin</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 46'
+</span>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="printPageWrapper">
+<button class="printPage" onclick="if (!window.__cfRLUnblockHandlers) return false; window.print(); return false;" data-cf-modified-7a18f696011f2ff77cfef096->
+Wydrukuj rozkład
+<span class="sr-only">linii nr 4</span>

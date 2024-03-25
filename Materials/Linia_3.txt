@@ -1,0 +1,739 @@
+<span class="onlyPrint" aria-hidden="true">Kierunek:</span>
+<div class="busDirection">
+<span>
+Księże Małe
+</span>
+<span class="colorText">
+<span class="icon icon-right-open-mini arrowRight" aria-hidden="true"></span>
+Leśnica
+</span>
+</div>
+</div>
+</h2>
+<div class="accordionBody" data-info-wrapper>
+<div id="accordionWithScroll" data-simplebar>
+<ul role="list" class="accordionList">
+<li class="listItem
+                                                     active                                                                                                        " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Opolska)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-ksieze-male-linia-3-kierunek-lesnica-slupek-25014" class="label">
+<span class="onlyPrint">Przystanek -</span> Księże Małe
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-ksieze-male-linia-3-kierunek-lesnica-slupek-25014" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Księże Małe</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<img src="./themes/img/time_icon.svg" class="onlyPrint" aria-hidden="true" width="9" height="9" alt>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Opolska)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-glubczycka-linia-3-kierunek-lesnica-slupek-25012" class="label">
+<span class="onlyPrint">Przystanek -</span> Głubczycka
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-glubczycka-linia-3-kierunek-lesnica-slupek-25012" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Głubczycka</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 1'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Krakowska)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-karwinska-linia-3-kierunek-lesnica-slupek-25010" class="label">
+<span class="onlyPrint">Przystanek -</span> Karwińska
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-karwinska-linia-3-kierunek-lesnica-slupek-25010" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Karwińska</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 3'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Krakowska)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-park-wschodni-linia-3-kierunek-lesnica-slupek-25008" class="label">
+<span class="onlyPrint">Przystanek -</span> Park Wschodni
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-park-wschodni-linia-3-kierunek-lesnica-slupek-25008" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Park Wschodni</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 4'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Krakowska)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-armii-krajowej-linia-3-kierunek-lesnica-slupek-25006" class="label">
+<span class="onlyPrint">Przystanek -</span> Armii Krajowej
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-armii-krajowej-linia-3-kierunek-lesnica-slupek-25006" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Armii Krajowej</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 5'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Krakowska)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-krakowska-centrum-handlowe-linia-3-kierunek-lesnica-slupek-25004" class="label">
+<span class="onlyPrint">Przystanek -</span> Krakowska (Centrum Handlowe)
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-krakowska-centrum-handlowe-linia-3-kierunek-lesnica-slupek-25004" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Krakowska (Centrum Handlowe)</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 7'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Krakowska)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-krakowska-linia-3-kierunek-lesnica-slupek-25002" class="label">
+<span class="onlyPrint">Przystanek -</span> Krakowska
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-krakowska-linia-3-kierunek-lesnica-slupek-25002" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Krakowska</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 8'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Krakowska)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-na-niskich-lakach-linia-3-kierunek-lesnica-slupek-20206" class="label">
+<span class="onlyPrint">Przystanek -</span> Na Niskich Łąkach
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-na-niskich-lakach-linia-3-kierunek-lesnica-slupek-20206" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Na Niskich Łąkach</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 9'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Traugutta)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-pl-zgody-muzeum-etnograficzne-linia-3-kierunek-lesnica-slupek-20204" class="label">
+<span class="onlyPrint">Przystanek -</span> Pl. Zgody (Muzeum Etnograficzne)
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-pl-zgody-muzeum-etnograficzne-linia-3-kierunek-lesnica-slupek-20204" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Pl. Zgody (Muzeum Etnograficzne)</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 11'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Traugutta)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-pl-wroblewskiego-linia-3-kierunek-lesnica-slupek-20202" class="label">
+<span class="onlyPrint">Przystanek -</span> Pl. Wróblewskiego
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-pl-wroblewskiego-linia-3-kierunek-lesnica-slupek-20202" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Pl. Wróblewskiego</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 14'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Oławska)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-galeria-dominikanska-linia-3-kierunek-lesnica-slupek-10032" class="label">
+<span class="onlyPrint">Przystanek -</span> Galeria Dominikańska
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-galeria-dominikanska-linia-3-kierunek-lesnica-slupek-10032" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Galeria Dominikańska</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 18'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Kazimierza Wlk.)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-swidnicka-linia-3-kierunek-lesnica-slupek-10001" class="label">
+<span class="onlyPrint">Przystanek -</span> Świdnicka
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-swidnicka-linia-3-kierunek-lesnica-slupek-10001" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Świdnicka</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 20'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Kazimierza Wlk.)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-zamkowa-linia-3-kierunek-lesnica-slupek-10017" class="label">
+<span class="onlyPrint">Przystanek -</span> Zamkowa
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-zamkowa-linia-3-kierunek-lesnica-slupek-10017" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Zamkowa</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 21'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Kazimierza Wlk.)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-rynek-linia-3-kierunek-lesnica-slupek-10003" class="label">
+<span class="onlyPrint">Przystanek -</span> Rynek
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-rynek-linia-3-kierunek-lesnica-slupek-10003" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Rynek</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 23'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Legnicka)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-pl-jana-pawla-ii-linia-3-kierunek-lesnica-slupek-10401" class="label">
+<span class="onlyPrint">Przystanek -</span> Pl. Jana Pawła II
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-pl-jana-pawla-ii-linia-3-kierunek-lesnica-slupek-10401" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Pl. Jana Pawła II</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 26'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Legnicka)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-mlodych-technikow-linia-3-kierunek-lesnica-slupek-10403" class="label">
+<span class="onlyPrint">Przystanek -</span> Młodych Techników
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-mlodych-technikow-linia-3-kierunek-lesnica-slupek-10403" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Młodych Techników</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 28'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Legnicka)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-pl-strzegomski-muzeum-wspolczesne-linia-3-kierunek-lesnica-slupek-10405" class="label">
+<span class="onlyPrint">Przystanek -</span> Pl. Strzegomski (Muzeum Współczesne)
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-pl-strzegomski-muzeum-wspolczesne-linia-3-kierunek-lesnica-slupek-10405" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Pl. Strzegomski (Muzeum Współczesne)</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 29'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Legnicka)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-wroclaw-mikolajow-zachodnia-linia-3-kierunek-lesnica-slupek-10407" class="label">
+<span class="onlyPrint">Przystanek -</span> Wrocław Mikołajów (Zachodnia)
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-wroclaw-mikolajow-zachodnia-linia-3-kierunek-lesnica-slupek-10407" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Wrocław Mikołajów (Zachodnia)</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 31'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Legnicka)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-niedzwiedzia-linia-3-kierunek-lesnica-slupek-12201" class="label">
+<span class="onlyPrint">Przystanek -</span> Niedźwiedzia
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-niedzwiedzia-linia-3-kierunek-lesnica-slupek-12201" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Niedźwiedzia</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 33'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Legnicka)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-malopanewska-linia-3-kierunek-lesnica-slupek-12203" class="label">
+<span class="onlyPrint">Przystanek -</span> Małopanewska
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-malopanewska-linia-3-kierunek-lesnica-slupek-12203" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Małopanewska</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 34'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Legnicka)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-kwiska-linia-3-kierunek-lesnica-slupek-12205" class="label">
+<span class="onlyPrint">Przystanek -</span> Kwiska
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-kwiska-linia-3-kierunek-lesnica-slupek-12205" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Kwiska</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 36'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Lotnicza)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-dh-astra-linia-3-kierunek-lesnica-slupek-12401" class="label">
+<span class="onlyPrint">Przystanek -</span> DH Astra
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-dh-astra-linia-3-kierunek-lesnica-slupek-12401" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">DH Astra</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 38'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Lotnicza)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-park-zachodni-linia-3-kierunek-lesnica-slupek-12403" class="label">
+<span class="onlyPrint">Przystanek -</span> Park Zachodni
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-park-zachodni-linia-3-kierunek-lesnica-slupek-12403" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Park Zachodni</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 39'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Lotnicza)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-bajana-linia-3-kierunek-lesnica-slupek-12405" class="label">
+<span class="onlyPrint">Przystanek -</span> Bajana
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-bajana-linia-3-kierunek-lesnica-slupek-12405" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Bajana</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 40'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Lotnicza)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-metalowcow-linia-3-kierunek-lesnica-slupek-12407" class="label">
+<span class="onlyPrint">Przystanek -</span> Metalowców
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-metalowcow-linia-3-kierunek-lesnica-slupek-12407" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Metalowców</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 42'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Lotnicza)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-pilczyce-linia-3-kierunek-lesnica-slupek-12409" class="label">
+<span class="onlyPrint">Przystanek -</span> Pilczyce
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-pilczyce-linia-3-kierunek-lesnica-slupek-12409" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Pilczyce</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 43'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Lotnicza)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-tarczynski-arena-lotnicza-linia-3-kierunek-lesnica-slupek-18013" class="label">
+<span class="onlyPrint">Przystanek -</span> Tarczyński Arena (Lotnicza)
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-tarczynski-arena-lotnicza-linia-3-kierunek-lesnica-slupek-18013" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Tarczyński Arena (Lotnicza)</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 45'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Kosmonautów)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-glinianki-linia-3-kierunek-lesnica-slupek-18001" class="label">
+<span class="onlyPrint">Przystanek -</span> Glinianki
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-glinianki-linia-3-kierunek-lesnica-slupek-18001" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Glinianki</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 46'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Kosmonautów)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-aleja-architektow-linia-3-kierunek-lesnica-slupek-18017" class="label">
+<span class="onlyPrint">Przystanek -</span> Aleja Architektów
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-aleja-architektow-linia-3-kierunek-lesnica-slupek-18017" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Aleja Architektów</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 47'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Kosmonautów)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-grabowa-linia-3-kierunek-lesnica-slupek-18003" class="label">
+<span class="onlyPrint">Przystanek -</span> Grabowa
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-grabowa-linia-3-kierunek-lesnica-slupek-18003" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Grabowa</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 49'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Kosmonautów)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-kosmonautow-szpital-linia-3-kierunek-lesnica-slupek-18015" class="label">
+<span class="onlyPrint">Przystanek -</span> Kosmonautów (Szpital)
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-kosmonautow-szpital-linia-3-kierunek-lesnica-slupek-18015" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Kosmonautów (Szpital)</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 51'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Kosmonautów)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-kamiennogorska-osrodek-dla-niewidomych-linia-3-kierunek-lesnica-slupek-18005" class="label">
+<span class="onlyPrint">Przystanek -</span> Kamiennogórska (Ośrodek Dla Niewidomych)
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-kamiennogorska-osrodek-dla-niewidomych-linia-3-kierunek-lesnica-slupek-18005" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Kamiennogórska (Ośrodek Dla Niewidomych)</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 52'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Kosmonautów)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-zlotnicka-linia-3-kierunek-lesnica-slupek-18007" class="label">
+<span class="onlyPrint">Przystanek -</span> Złotnicka
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-zlotnicka-linia-3-kierunek-lesnica-slupek-18007" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Złotnicka</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 54'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Kosmonautów)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-wschowska-linia-3-kierunek-lesnica-slupek-18009" class="label">
+<span class="onlyPrint">Przystanek -</span> Wschowska
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-wschowska-linia-3-kierunek-lesnica-slupek-18009" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Wschowska</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 55'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Kosmonautów)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-jeleniogorska-linia-3-kierunek-lesnica-slupek-18011" class="label">
+<span class="onlyPrint">Przystanek -</span> Jeleniogórska
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-jeleniogorska-linia-3-kierunek-lesnica-slupek-18011" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Jeleniogórska</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 56'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Średzka)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-lesnica-linia-3-kierunek-lesnica-slupek-18201" class="label">
+<span class="onlyPrint">Przystanek -</span> Leśnica
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-lesnica-linia-3-kierunek-lesnica-slupek-18201" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Leśnica</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 57'
+</span>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="printPageWrapper">
+<button class="printPage" onclick="if (!window.__cfRLUnblockHandlers) return false; window.print(); return false;" data-cf-modified-01009387ba4eb7b69dbc6bcc->

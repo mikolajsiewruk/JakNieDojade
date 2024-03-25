@@ -1,0 +1,773 @@
+span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Olszewskiego)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-biskupin-linia-10-kierunek-lesnica-slupek-24416" class="label">
+<span class="onlyPrint">Przystanek -</span> Biskupin
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-biskupin-linia-10-kierunek-lesnica-slupek-24416" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Biskupin</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<img src="./themes/img/time_icon.svg" class="onlyPrint" aria-hidden="true" width="9" height="9" alt>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Olszewskiego)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-spoldzielcza-linia-10-kierunek-lesnica-slupek-24414" class="label">
+<span class="onlyPrint">Przystanek -</span> Spółdzielcza
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-spoldzielcza-linia-10-kierunek-lesnica-slupek-24414" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Spółdzielcza</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 1'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Olszewskiego)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-piramowicza-kampus-biskupin-linia-10-kierunek-lesnica-slupek-24412" class="label">
+<span class="onlyPrint">Przystanek -</span> Piramowicza (Kampus Biskupin)
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-piramowicza-kampus-biskupin-linia-10-kierunek-lesnica-slupek-24412" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Piramowicza (Kampus Biskupin)</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 2'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Olszewskiego)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-chelmonskiego-linia-10-kierunek-lesnica-slupek-24410" class="label">
+<span class="onlyPrint">Przystanek -</span> Chełmońskiego
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-chelmonskiego-linia-10-kierunek-lesnica-slupek-24410" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Chełmońskiego</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 3'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Wróblewskiego)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-tramwajowa-linia-10-kierunek-lesnica-slupek-24408" class="label">
+<span class="onlyPrint">Przystanek -</span> Tramwajowa
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-tramwajowa-linia-10-kierunek-lesnica-slupek-24408" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Tramwajowa</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 4'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Wróblewskiego)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-zoo-linia-10-kierunek-lesnica-slupek-24404" class="label">
+<span class="onlyPrint">Przystanek -</span> Zoo
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-zoo-linia-10-kierunek-lesnica-slupek-24404" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Zoo</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 6'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Wróblewskiego)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-hala-stulecia-linia-10-kierunek-lesnica-slupek-24402" class="label">
+<span class="onlyPrint">Przystanek -</span> Hala Stulecia
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-hala-stulecia-linia-10-kierunek-lesnica-slupek-24402" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Hala Stulecia</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 7'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Curie-Skłodowskiej)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-kliniki-politechnika-wroclawska-linia-10-kierunek-lesnica-slupek-20818" class="label">
+<span class="onlyPrint">Przystanek -</span> Kliniki - Politechnika Wrocławska
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-kliniki-politechnika-wroclawska-linia-10-kierunek-lesnica-slupek-20818" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Kliniki - Politechnika Wrocławska</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 9'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(rondo Reagana)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-pl-grunwaldzki-linia-10-kierunek-lesnica-slupek-20820" class="label">
+<span class="onlyPrint">Przystanek -</span> Pl. Grunwaldzki
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-pl-grunwaldzki-linia-10-kierunek-lesnica-slupek-20820" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Pl. Grunwaldzki</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 11'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Curie-Skłodowskiej)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-reja-linia-10-kierunek-lesnica-slupek-20814" class="label">
+<span class="onlyPrint">Przystanek -</span> Reja
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-reja-linia-10-kierunek-lesnica-slupek-20814" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Reja</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 12'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Wyszyńskiego)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-katedra-linia-10-kierunek-lesnica-slupek-20812" class="label">
+<span class="onlyPrint">Przystanek -</span> Katedra
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-katedra-linia-10-kierunek-lesnica-slupek-20812" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Katedra</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 14'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(pl. Powstańców Warszawy)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-urzad-wojewodzki-muzeum-narodowe-linia-10-kierunek-lesnica-slupek-20282" class="label">
+<span class="onlyPrint">Przystanek -</span> Urząd Wojewódzki (Muzeum Narodowe)
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-urzad-wojewodzki-muzeum-narodowe-linia-10-kierunek-lesnica-slupek-20282" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Urząd Wojewódzki (Muzeum Narodowe)</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 16'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Oławska)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-galeria-dominikanska-linia-10-kierunek-lesnica-slupek-10032" class="label">
+<span class="onlyPrint">Przystanek -</span> Galeria Dominikańska
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-galeria-dominikanska-linia-10-kierunek-lesnica-slupek-10032" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Galeria Dominikańska</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 20'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Kazimierza Wlk.)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-swidnicka-linia-10-kierunek-lesnica-slupek-10001" class="label">
+<span class="onlyPrint">Przystanek -</span> Świdnicka
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-swidnicka-linia-10-kierunek-lesnica-slupek-10001" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Świdnicka</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 22'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Kazimierza Wlk.)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-zamkowa-linia-10-kierunek-lesnica-slupek-10017" class="label">
+<span class="onlyPrint">Przystanek -</span> Zamkowa
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-zamkowa-linia-10-kierunek-lesnica-slupek-10017" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Zamkowa</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 23'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Kazimierza Wlk.)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-rynek-linia-10-kierunek-lesnica-slupek-10003" class="label">
+<span class="onlyPrint">Przystanek -</span> Rynek
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-rynek-linia-10-kierunek-lesnica-slupek-10003" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Rynek</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 25'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Legnicka)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-pl-jana-pawla-ii-linia-10-kierunek-lesnica-slupek-10401" class="label">
+<span class="onlyPrint">Przystanek -</span> Pl. Jana Pawła II
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-pl-jana-pawla-ii-linia-10-kierunek-lesnica-slupek-10401" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Pl. Jana Pawła II</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 28'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Legnicka)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-mlodych-technikow-linia-10-kierunek-lesnica-slupek-10403" class="label">
+<span class="onlyPrint">Przystanek -</span> Młodych Techników
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-mlodych-technikow-linia-10-kierunek-lesnica-slupek-10403" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Młodych Techników</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 30'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Legnicka)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-pl-strzegomski-muzeum-wspolczesne-linia-10-kierunek-lesnica-slupek-10405" class="label">
+<span class="onlyPrint">Przystanek -</span> Pl. Strzegomski (Muzeum Współczesne)
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-pl-strzegomski-muzeum-wspolczesne-linia-10-kierunek-lesnica-slupek-10405" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Pl. Strzegomski (Muzeum Współczesne)</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 31'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Legnicka)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-wroclaw-mikolajow-zachodnia-linia-10-kierunek-lesnica-slupek-10407" class="label">
+<span class="onlyPrint">Przystanek -</span> Wrocław Mikołajów (Zachodnia)
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-wroclaw-mikolajow-zachodnia-linia-10-kierunek-lesnica-slupek-10407" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Wrocław Mikołajów (Zachodnia)</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 33'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Legnicka)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-niedzwiedzia-linia-10-kierunek-lesnica-slupek-12201" class="label">
+<span class="onlyPrint">Przystanek -</span> Niedźwiedzia
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-niedzwiedzia-linia-10-kierunek-lesnica-slupek-12201" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Niedźwiedzia</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 35'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Legnicka)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-malopanewska-linia-10-kierunek-lesnica-slupek-12203" class="label">
+<span class="onlyPrint">Przystanek -</span> Małopanewska
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-malopanewska-linia-10-kierunek-lesnica-slupek-12203" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Małopanewska</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 36'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Legnicka)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-kwiska-linia-10-kierunek-lesnica-slupek-12205" class="label">
+<span class="onlyPrint">Przystanek -</span> Kwiska
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-kwiska-linia-10-kierunek-lesnica-slupek-12205" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Kwiska</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 38'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Lotnicza)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-dh-astra-linia-10-kierunek-lesnica-slupek-12401" class="label">
+<span class="onlyPrint">Przystanek -</span> DH Astra
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-dh-astra-linia-10-kierunek-lesnica-slupek-12401" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">DH Astra</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 40'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Lotnicza)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-park-zachodni-linia-10-kierunek-lesnica-slupek-12403" class="label">
+<span class="onlyPrint">Przystanek -</span> Park Zachodni
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-park-zachodni-linia-10-kierunek-lesnica-slupek-12403" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Park Zachodni</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 41'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Lotnicza)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-bajana-linia-10-kierunek-lesnica-slupek-12405" class="label">
+<span class="onlyPrint">Przystanek -</span> Bajana
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-bajana-linia-10-kierunek-lesnica-slupek-12405" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Bajana</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 42'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Lotnicza)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-metalowcow-linia-10-kierunek-lesnica-slupek-12407" class="label">
+<span class="onlyPrint">Przystanek -</span> Metalowców
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-metalowcow-linia-10-kierunek-lesnica-slupek-12407" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Metalowców</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 44'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Lotnicza)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-pilczyce-linia-10-kierunek-lesnica-slupek-12409" class="label">
+<span class="onlyPrint">Przystanek -</span> Pilczyce
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-pilczyce-linia-10-kierunek-lesnica-slupek-12409" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Pilczyce</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 45'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Lotnicza)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-tarczynski-arena-lotnicza-linia-10-kierunek-lesnica-slupek-18013" class="label">
+<span class="onlyPrint">Przystanek -</span> Tarczyński Arena (Lotnicza)
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-tarczynski-arena-lotnicza-linia-10-kierunek-lesnica-slupek-18013" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Tarczyński Arena (Lotnicza)</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 47'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Kosmonautów)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-glinianki-linia-10-kierunek-lesnica-slupek-18001" class="label">
+<span class="onlyPrint">Przystanek -</span> Glinianki
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-glinianki-linia-10-kierunek-lesnica-slupek-18001" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Glinianki</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 48'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Kosmonautów)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-aleja-architektow-linia-10-kierunek-lesnica-slupek-18017" class="label">
+<span class="onlyPrint">Przystanek -</span> Aleja Architektów
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-aleja-architektow-linia-10-kierunek-lesnica-slupek-18017" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Aleja Architektów</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 49'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Kosmonautów)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-grabowa-linia-10-kierunek-lesnica-slupek-18003" class="label">
+<span class="onlyPrint">Przystanek -</span> Grabowa
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-grabowa-linia-10-kierunek-lesnica-slupek-18003" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Grabowa</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 51'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Kosmonautów)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-kosmonautow-szpital-linia-10-kierunek-lesnica-slupek-18015" class="label">
+<span class="onlyPrint">Przystanek -</span> Kosmonautów (Szpital)
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-kosmonautow-szpital-linia-10-kierunek-lesnica-slupek-18015" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Kosmonautów (Szpital)</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 53'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Kosmonautów)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-kamiennogorska-osrodek-dla-niewidomych-linia-10-kierunek-lesnica-slupek-18005" class="label">
+<span class="onlyPrint">Przystanek -</span> Kamiennogórska (Ośrodek Dla Niewidomych)
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-kamiennogorska-osrodek-dla-niewidomych-linia-10-kierunek-lesnica-slupek-18005" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Kamiennogórska (Ośrodek Dla Niewidomych)</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 54'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Kosmonautów)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-zlotnicka-linia-10-kierunek-lesnica-slupek-18007" class="label">
+<span class="onlyPrint">Przystanek -</span> Złotnicka
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-zlotnicka-linia-10-kierunek-lesnica-slupek-18007" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Złotnicka</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 56'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Kosmonautów)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-wschowska-linia-10-kierunek-lesnica-slupek-18009" class="label">
+<span class="onlyPrint">Przystanek -</span> Wschowska
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-wschowska-linia-10-kierunek-lesnica-slupek-18009" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Wschowska</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 57'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Kosmonautów)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-jeleniogorska-linia-10-kierunek-lesnica-slupek-18011" class="label">
+<span class="onlyPrint">Przystanek -</span> Jeleniogórska
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-jeleniogorska-linia-10-kierunek-lesnica-slupek-18011" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Jeleniogórska</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 58'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Średzka)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-lesnica-linia-10-kierunek-lesnica-slupek-18201" class="label">
+<span class="onlyPrint">Przystanek -</span> Leśnica
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-lesnica-linia-10-kierunek-lesnica-slupek-18201" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Leśnica</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 59'
+</span>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="printPageWrapper">
+<button class="printPage" onclick="if (!window.__cfRLUnblockHandlers) return false; window.print(); return false;" data-cf-modified-74ab33e9eebb91fe3033dab6->
+Wydrukuj rozkład
+<span class="sr-only">linii nr 10</span>
+</button>
+</div>
+</div>
+<div class="contentWrapper">
+<h3 class="titleSection leftBeam">Odjazdy z tego przystanku</h3>
+<div class="accordionContent isLink">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-biskupin-linia-1-kierunek-biskupin-slupek-24416" class="accordionHeader">
+<p class="smallNumberWrapper">
+<span class="smallNumber">1</span>

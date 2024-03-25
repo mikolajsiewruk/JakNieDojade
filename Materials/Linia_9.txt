@@ -1,0 +1,513 @@
+span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Ślężna)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-park-poludniowy-linia-9-kierunek-sepolno-slupek-11242" class="label">
+<span class="onlyPrint">Przystanek -</span> Park Południowy
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-park-poludniowy-linia-9-kierunek-sepolno-slupek-11242" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Park Południowy</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<img src="./themes/img/time_icon.svg" class="onlyPrint" aria-hidden="true" width="9" height="9" alt>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Ślężna)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-pultuska-linia-9-kierunek-sepolno-slupek-11240" class="label">
+<span class="onlyPrint">Przystanek -</span> Pułtuska
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-pultuska-linia-9-kierunek-sepolno-slupek-11240" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Pułtuska</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 1'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Ślężna)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-weigla-szpital-linia-9-kierunek-sepolno-slupek-11238" class="label">
+<span class="onlyPrint">Przystanek -</span> Weigla (Szpital)
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-weigla-szpital-linia-9-kierunek-sepolno-slupek-11238" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Weigla (Szpital)</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 2'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Ślężna)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-jaworowa-linia-9-kierunek-sepolno-slupek-11236" class="label">
+<span class="onlyPrint">Przystanek -</span> Jaworowa
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-jaworowa-linia-9-kierunek-sepolno-slupek-11236" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Jaworowa</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 3'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Ślężna)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-wisniowa-linia-9-kierunek-sepolno-slupek-11234" class="label">
+<span class="onlyPrint">Przystanek -</span> Wiśniowa
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-wisniowa-linia-9-kierunek-sepolno-slupek-11234" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Wiśniowa</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 4'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Ślężna)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-uniwersytet-ekonomiczny-linia-9-kierunek-sepolno-slupek-11232" class="label">
+<span class="onlyPrint">Przystanek -</span> Uniwersytet Ekonomiczny
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-uniwersytet-ekonomiczny-linia-9-kierunek-sepolno-slupek-11232" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Uniwersytet Ekonomiczny</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 6'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Ślężna)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-sanocka-linia-9-kierunek-sepolno-slupek-11036" class="label">
+<span class="onlyPrint">Przystanek -</span> Sanocka
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-sanocka-linia-9-kierunek-sepolno-slupek-11036" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Sanocka</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 8'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Borowska)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-dworzec-autobusowy-linia-9-kierunek-sepolno-slupek-21002" class="label">
+<span class="onlyPrint">Przystanek -</span> Dworzec Autobusowy
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-dworzec-autobusowy-linia-9-kierunek-sepolno-slupek-21002" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Dworzec Autobusowy</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 11'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Peronowa)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-dworzec-glowny-linia-9-kierunek-sepolno-slupek-20268" class="label">
+<span class="onlyPrint">Przystanek -</span> Dworzec Główny
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-dworzec-glowny-linia-9-kierunek-sepolno-slupek-20268" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Dworzec Główny</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 14'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Kołłątaja)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-wzgorze-partyzantow-linia-9-kierunek-sepolno-slupek-10222" class="label">
+<span class="onlyPrint">Przystanek -</span> Wzgórze Partyzantów
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-wzgorze-partyzantow-linia-9-kierunek-sepolno-slupek-10222" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Wzgórze Partyzantów</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 16'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(bł. Czesława)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-galeria-dominikanska-linia-9-kierunek-sepolno-slupek-10021" class="label">
+<span class="onlyPrint">Przystanek -</span> Galeria Dominikańska
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-galeria-dominikanska-linia-9-kierunek-sepolno-slupek-10021" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Galeria Dominikańska</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 19'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(św. Katarzyny)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-pl-nowy-targ-linia-9-kierunek-sepolno-slupek-10027" class="label">
+<span class="onlyPrint">Przystanek -</span> Pl. Nowy Targ
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-pl-nowy-targ-linia-9-kierunek-sepolno-slupek-10027" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Pl. Nowy Targ</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 20'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Piaskowa)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-hala-targowa-linia-9-kierunek-sepolno-slupek-10023" class="label">
+<span class="onlyPrint">Przystanek -</span> Hala Targowa
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-hala-targowa-linia-9-kierunek-sepolno-slupek-10023" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Hala Targowa</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 21'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Sienkiewicza)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-pl-bema-linia-9-kierunek-sepolno-slupek-20657" class="label">
+<span class="onlyPrint">Przystanek -</span> Pl. Bema
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-pl-bema-linia-9-kierunek-sepolno-slupek-20657" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Pl. Bema</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 24'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Sienkiewicza)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-ogrod-botaniczny-linia-9-kierunek-sepolno-slupek-20801" class="label">
+<span class="onlyPrint">Przystanek -</span> Ogród Botaniczny
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-ogrod-botaniczny-linia-9-kierunek-sepolno-slupek-20801" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Ogród Botaniczny</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 26'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Sienkiewicza)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-gornickiego-linia-9-kierunek-sepolno-slupek-20803" class="label">
+<span class="onlyPrint">Przystanek -</span> Górnickiego
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-gornickiego-linia-9-kierunek-sepolno-slupek-20803" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Górnickiego</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 27'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Sienkiewicza)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-piastowska-linia-9-kierunek-sepolno-slupek-20805" class="label">
+<span class="onlyPrint">Przystanek -</span> Piastowska
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-piastowska-linia-9-kierunek-sepolno-slupek-20805" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Piastowska</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 28'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Sienkiewicza)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-grunwaldzka-linia-9-kierunek-sepolno-slupek-20807" class="label">
+<span class="onlyPrint">Przystanek -</span> Grunwaldzka
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-grunwaldzka-linia-9-kierunek-sepolno-slupek-20807" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Grunwaldzka</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 30'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(al. Kochanowskiego)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-kochanowskiego-linia-9-kierunek-sepolno-slupek-24201" class="label">
+<span class="onlyPrint">Przystanek -</span> Kochanowskiego
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-kochanowskiego-linia-9-kierunek-sepolno-slupek-24201" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Kochanowskiego</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 32'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(al. Różyckiego)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-chopina-linia-9-kierunek-sepolno-slupek-24203" class="label">
+<span class="onlyPrint">Przystanek -</span> Chopina
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-chopina-linia-9-kierunek-sepolno-slupek-24203" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Chopina</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 34'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(al. Różyckiego)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-karlowicza-linia-9-kierunek-sepolno-slupek-24205" class="label">
+<span class="onlyPrint">Przystanek -</span> Karłowicza
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-karlowicza-linia-9-kierunek-sepolno-slupek-24205" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Karłowicza</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 35'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(al. Paderewskiego)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-stadion-olimpijski-linia-9-kierunek-sepolno-slupek-24207" class="label">
+<span class="onlyPrint">Przystanek -</span> Stadion Olimpijski
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-stadion-olimpijski-linia-9-kierunek-sepolno-slupek-24207" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Stadion Olimpijski</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 36'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Mickiewicza)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-8-maja-linia-9-kierunek-sepolno-slupek-24209" class="label">
+<span class="onlyPrint">Przystanek -</span> 8 Maja
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-8-maja-linia-9-kierunek-sepolno-slupek-24209" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">8 Maja</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 38'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Mickiewicza)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-godebskiego-awf-wroclaw-linia-9-kierunek-sepolno-slupek-24211" class="label">
+<span class="onlyPrint">Przystanek -</span> Godebskiego (Awf Wrocław)
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-godebskiego-awf-wroclaw-linia-9-kierunek-sepolno-slupek-24211" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Godebskiego (Awf Wrocław)</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 39'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Mickiewicza)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-sepolno-linia-9-kierunek-sepolno-slupek-24214" class="label">
+<span class="onlyPrint">Przystanek -</span> Sępolno
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-sepolno-linia-9-kierunek-sepolno-slupek-24214" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Sępolno</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 40'
+</span>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="printPageWrapper">
+<button class="printPage" onclick="if (!window.__cfRLUnblockHandlers) return false; window.print(); return false;" data-cf-modified-610a2480387337b4aca74bbc->
+Wydrukuj rozkład
+<span class="sr-only">linii nr 9</span>
+</button>
+</div>
+</div>
+<div class="contentWrapper">
+<h3 class="titleSection leftBeam">Odjazdy z tego przystanku</h3>
+<div class="accordionContent isLink">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-park-poludniowy-linia-15-kierunek-park-poludniowy-slupek-11242" class="accordionHeader">
+<p class="smallNumberWrapper">
+<span class="smallNumber">15</span>

@@ -1,0 +1,424 @@
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Toruńska)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-kromera-linia-6-kierunek-krzyki-slupek-24002" class="label">
+<span class="onlyPrint">Przystanek -</span> Kromera
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-kromera-linia-6-kierunek-krzyki-slupek-24002" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Kromera</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<img src="./themes/img/time_icon.svg" class="onlyPrint" aria-hidden="true" width="9" height="9" alt>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Jedności Narodowej)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-mosty-warszawskie-linia-6-kierunek-krzyki-slupek-20630" class="label">
+<span class="onlyPrint">Przystanek -</span> Mosty Warszawskie
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-mosty-warszawskie-linia-6-kierunek-krzyki-slupek-20630" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Mosty Warszawskie</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 2'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Jedności Narodowej)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-daszynskiego-linia-6-kierunek-krzyki-slupek-20632" class="label">
+<span class="onlyPrint">Przystanek -</span> Daszyńskiego
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-daszynskiego-linia-6-kierunek-krzyki-slupek-20632" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Daszyńskiego</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 3'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Jedności Narodowej)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-nowowiejska-linia-6-kierunek-krzyki-slupek-20628" class="label">
+<span class="onlyPrint">Przystanek -</span> Nowowiejska
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-nowowiejska-linia-6-kierunek-krzyki-slupek-20628" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Nowowiejska</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 5'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Poniatowskiego)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-jednosci-narodowej-linia-6-kierunek-krzyki-slupek-20626" class="label">
+<span class="onlyPrint">Przystanek -</span> Jedności Narodowej
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-jednosci-narodowej-linia-6-kierunek-krzyki-slupek-20626" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Jedności Narodowej</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 7'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Poniatowskiego)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-na-szancach-linia-6-kierunek-krzyki-slupek-20624" class="label">
+<span class="onlyPrint">Przystanek -</span> Na Szańcach
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-na-szancach-linia-6-kierunek-krzyki-slupek-20624" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Na Szańcach</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 8'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Drobnera)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-pl-bema-linia-6-kierunek-krzyki-slupek-20658" class="label">
+<span class="onlyPrint">Przystanek -</span> Pl. Bema
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-pl-bema-linia-6-kierunek-krzyki-slupek-20658" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Pl. Bema</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 10'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Drobnera)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-dubois-linia-6-kierunek-krzyki-slupek-20612" class="label">
+<span class="onlyPrint">Przystanek -</span> Dubois
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-dubois-linia-6-kierunek-krzyki-slupek-20612" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Dubois</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 12'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Grodzka)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-uniwersytet-wroclawski-linia-6-kierunek-krzyki-slupek-10015" class="label">
+<span class="onlyPrint">Przystanek -</span> Uniwersytet Wrocławski
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-uniwersytet-wroclawski-linia-6-kierunek-krzyki-slupek-10015" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Uniwersytet Wrocławski</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 14'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Kazimierza Wlk.)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-rynek-linia-6-kierunek-krzyki-slupek-10006" class="label">
+<span class="onlyPrint">Przystanek -</span> Rynek
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-rynek-linia-6-kierunek-krzyki-slupek-10006" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Rynek</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 17'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Krupnicza)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-narodowe-forum-muzyki-linia-6-kierunek-krzyki-slupek-10241" class="label">
+<span class="onlyPrint">Przystanek -</span> Narodowe Forum Muzyki
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-narodowe-forum-muzyki-linia-6-kierunek-krzyki-slupek-10241" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Narodowe Forum Muzyki</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 19'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Podwale)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-renoma-linia-6-kierunek-krzyki-slupek-10250" class="label">
+<span class="onlyPrint">Przystanek -</span> Renoma
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-renoma-linia-6-kierunek-krzyki-slupek-10250" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Renoma</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 22'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Świdnicka)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-arkady-capitol-linia-6-kierunek-krzyki-slupek-10233" class="label">
+<span class="onlyPrint">Przystanek -</span> Arkady (Capitol)
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-arkady-capitol-linia-6-kierunek-krzyki-slupek-10233" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Arkady (Capitol)</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 24'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Powstańców Śl.)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-zaolzianska-linia-6-kierunek-krzyki-slupek-11201" class="label">
+<span class="onlyPrint">Przystanek -</span> Zaolziańska
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-zaolzianska-linia-6-kierunek-krzyki-slupek-11201" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Zaolziańska</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 26'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Powstańców Śl.)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-wielka-linia-6-kierunek-krzyki-slupek-11203" class="label">
+<span class="onlyPrint">Przystanek -</span> Wielka
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-wielka-linia-6-kierunek-krzyki-slupek-11203" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Wielka</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 27'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Powstańców Śl.)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-rondo-linia-6-kierunek-krzyki-slupek-11205" class="label">
+<span class="onlyPrint">Przystanek -</span> Rondo
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-rondo-linia-6-kierunek-krzyki-slupek-11205" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Rondo</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 29'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Powstańców Śl.)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-sztabowa-linia-6-kierunek-krzyki-slupek-11207" class="label">
+<span class="onlyPrint">Przystanek -</span> Sztabowa
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-sztabowa-linia-6-kierunek-krzyki-slupek-11207" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Sztabowa</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 30'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Powstańców Śl.)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-hallera-linia-6-kierunek-krzyki-slupek-11209" class="label">
+<span class="onlyPrint">Przystanek -</span> Hallera
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-hallera-linia-6-kierunek-krzyki-slupek-11209" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Hallera</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 32'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Powstańców Śl.)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-jastrzebia-linia-6-kierunek-krzyki-slupek-11211" class="label">
+<span class="onlyPrint">Przystanek -</span> Jastrzębia
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-jastrzebia-linia-6-kierunek-krzyki-slupek-11211" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Jastrzębia</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 33'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Powstańców Śl.)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-orla-linia-6-kierunek-krzyki-slupek-11213" class="label">
+<span class="onlyPrint">Przystanek -</span> Orla
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-orla-linia-6-kierunek-krzyki-slupek-11213" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Orla</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 34'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Karkonoska)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-krzyki-linia-6-kierunek-krzyki-slupek-11215" class="label">
+<span class="onlyPrint">Przystanek -</span> Krzyki
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-krzyki-linia-6-kierunek-krzyki-slupek-11215" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Krzyki</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 37'
+</span>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="printPageWrapper">
+<button class="printPage" onclick="if (!window.__cfRLUnblockHandlers) return false; window.print(); return false;" data-cf-modified-1d60520b430ae1fc04ea91b6->
+Wydrukuj rozkład
+<span class="sr-only">linii nr 6</span>

@@ -1,0 +1,539 @@
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Żmigrodzka)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-poswietne-linia-7-kierunek-klecina-slupek-23022" class="label">
+<span class="onlyPrint">Przystanek -</span> Poświętne
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-poswietne-linia-7-kierunek-klecina-slupek-23022" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Poświętne</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<img src="./themes/img/time_icon.svg" class="onlyPrint" aria-hidden="true" width="9" height="9" alt>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Żmigrodzka)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-wolowska-linia-7-kierunek-klecina-slupek-23020" class="label">
+<span class="onlyPrint">Przystanek -</span> Wołowska
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-wolowska-linia-7-kierunek-klecina-slupek-23020" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Wołowska</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 1'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Żmigrodzka)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-kepinska-linia-7-kierunek-klecina-slupek-23018" class="label">
+<span class="onlyPrint">Przystanek -</span> Kępińska
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-kepinska-linia-7-kierunek-klecina-slupek-23018" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Kępińska</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 2'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Żmigrodzka)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-kamienskiego-linia-7-kierunek-klecina-slupek-23016" class="label">
+<span class="onlyPrint">Przystanek -</span> Kamieńskiego
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-kamienskiego-linia-7-kierunek-klecina-slupek-23016" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Kamieńskiego</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 3'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Żmigrodzka)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-broniewskiego-linia-7-kierunek-klecina-slupek-23014" class="label">
+<span class="onlyPrint">Przystanek -</span> Broniewskiego
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-broniewskiego-linia-7-kierunek-klecina-slupek-23014" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Broniewskiego</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 5'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Trzebnicka)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-trzebnicka-linia-7-kierunek-klecina-slupek-20618" class="label">
+<span class="onlyPrint">Przystanek -</span> Trzebnicka
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-trzebnicka-linia-7-kierunek-klecina-slupek-20618" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Trzebnicka</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 8'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(pl. Powstańców Wielkopolskich)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-dworzec-nadodrze-linia-7-kierunek-klecina-slupek-20616" class="label">
+<span class="onlyPrint">Przystanek -</span> Dworzec Nadodrze
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-dworzec-nadodrze-linia-7-kierunek-klecina-slupek-20616" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Dworzec Nadodrze</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 10'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Chrobrego)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-paulinska-linia-7-kierunek-klecina-slupek-20614" class="label">
+<span class="onlyPrint">Przystanek -</span> Paulińska
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-paulinska-linia-7-kierunek-klecina-slupek-20614" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Paulińska</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 12'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Drobnera)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-dubois-linia-7-kierunek-klecina-slupek-20612" class="label">
+<span class="onlyPrint">Przystanek -</span> Dubois
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-dubois-linia-7-kierunek-klecina-slupek-20612" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Dubois</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 15'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Grodzka)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-uniwersytet-wroclawski-linia-7-kierunek-klecina-slupek-10015" class="label">
+<span class="onlyPrint">Przystanek -</span> Uniwersytet Wrocławski
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-uniwersytet-wroclawski-linia-7-kierunek-klecina-slupek-10015" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Uniwersytet Wrocławski</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 17'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Kazimierza Wlk.)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-rynek-linia-7-kierunek-klecina-slupek-10006" class="label">
+<span class="onlyPrint">Przystanek -</span> Rynek
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-rynek-linia-7-kierunek-klecina-slupek-10006" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Rynek</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 20'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Krupnicza)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-narodowe-forum-muzyki-linia-7-kierunek-klecina-slupek-10241" class="label">
+<span class="onlyPrint">Przystanek -</span> Narodowe Forum Muzyki
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-narodowe-forum-muzyki-linia-7-kierunek-klecina-slupek-10241" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Narodowe Forum Muzyki</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 22'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Podwale)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-renoma-linia-7-kierunek-klecina-slupek-10250" class="label">
+<span class="onlyPrint">Przystanek -</span> Renoma
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-renoma-linia-7-kierunek-klecina-slupek-10250" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Renoma</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 25'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Świdnicka)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-arkady-capitol-linia-7-kierunek-klecina-slupek-10233" class="label">
+<span class="onlyPrint">Przystanek -</span> Arkady (Capitol)
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-arkady-capitol-linia-7-kierunek-klecina-slupek-10233" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Arkady (Capitol)</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 27'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Powstańców Śl.)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-zaolzianska-linia-7-kierunek-klecina-slupek-11201" class="label">
+<span class="onlyPrint">Przystanek -</span> Zaolziańska
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-zaolzianska-linia-7-kierunek-klecina-slupek-11201" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Zaolziańska</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 29'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Powstańców Śl.)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-wielka-linia-7-kierunek-klecina-slupek-11203" class="label">
+<span class="onlyPrint">Przystanek -</span> Wielka
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-wielka-linia-7-kierunek-klecina-slupek-11203" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Wielka</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 30'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Powstańców Śl.)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-rondo-linia-7-kierunek-klecina-slupek-11205" class="label">
+<span class="onlyPrint">Przystanek -</span> Rondo
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-rondo-linia-7-kierunek-klecina-slupek-11205" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Rondo</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 32'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Powstańców Śl.)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-sztabowa-linia-7-kierunek-klecina-slupek-11207" class="label">
+<span class="onlyPrint">Przystanek -</span> Sztabowa
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-sztabowa-linia-7-kierunek-klecina-slupek-11207" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Sztabowa</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 33'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Powstańców Śl.)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-hallera-linia-7-kierunek-klecina-slupek-11209" class="label">
+<span class="onlyPrint">Przystanek -</span> Hallera
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-hallera-linia-7-kierunek-klecina-slupek-11209" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Hallera</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 35'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Powstańców Śl.)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-jastrzebia-linia-7-kierunek-klecina-slupek-11211" class="label">
+<span class="onlyPrint">Przystanek -</span> Jastrzębia
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-jastrzebia-linia-7-kierunek-klecina-slupek-11211" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Jastrzębia</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 36'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Powstańców Śl.)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-orla-linia-7-kierunek-klecina-slupek-11213" class="label">
+<span class="onlyPrint">Przystanek -</span> Orla
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-orla-linia-7-kierunek-klecina-slupek-11213" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Orla</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 37'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Karkonoska)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-krzyki-linia-7-kierunek-klecina-slupek-11215" class="label">
+<span class="onlyPrint">Przystanek -</span> Krzyki
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-krzyki-linia-7-kierunek-klecina-slupek-11215" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Krzyki</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 40'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Karkonoska)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-radio-i-telewizja-linia-7-kierunek-klecina-slupek-16401" class="label">
+<span class="onlyPrint">Przystanek -</span> Radio I Telewizja
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-radio-i-telewizja-linia-7-kierunek-klecina-slupek-16401" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Radio I Telewizja</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 41'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Przyjaźni)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-przyjazni-linia-7-kierunek-klecina-slupek-16403" class="label">
+<span class="onlyPrint">Przystanek -</span> Przyjaźni
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-przyjazni-linia-7-kierunek-klecina-slupek-16403" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Przyjaźni</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 43'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Przyjaźni)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-braterska-linia-7-kierunek-klecina-slupek-16405" class="label">
+<span class="onlyPrint">Przystanek -</span> Braterska
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-braterska-linia-7-kierunek-klecina-slupek-16405" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Braterska</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 44'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Przyjaźni)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-sasiedzka-linia-7-kierunek-klecina-slupek-16407" class="label">
+<span class="onlyPrint">Przystanek -</span> Sąsiedzka
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-sasiedzka-linia-7-kierunek-klecina-slupek-16407" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Sąsiedzka</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 45'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Wałbrzyska)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-klecina-linia-7-kierunek-klecina-slupek-16410" class="label">
+<span class="onlyPrint">Przystanek -</span> Klecina
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-klecina-linia-7-kierunek-klecina-slupek-16410" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Klecina</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 46'
+</span>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>

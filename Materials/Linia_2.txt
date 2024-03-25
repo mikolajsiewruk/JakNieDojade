@@ -1,0 +1,474 @@
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Olszewskiego)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-biskupin-linia-2-kierunek-krzyki-slupek-24416" class="label">
+<span class="onlyPrint">Przystanek -</span> Biskupin
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-biskupin-linia-2-kierunek-krzyki-slupek-24416" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Biskupin</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<img src="./themes/img/time_icon.svg" class="onlyPrint" aria-hidden="true" width="9" height="9" alt>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Olszewskiego)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-spoldzielcza-linia-2-kierunek-krzyki-slupek-24414" class="label">
+<span class="onlyPrint">Przystanek -</span> Spółdzielcza
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-spoldzielcza-linia-2-kierunek-krzyki-slupek-24414" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Spółdzielcza</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 1'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Olszewskiego)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-piramowicza-kampus-biskupin-linia-2-kierunek-krzyki-slupek-24412" class="label">
+<span class="onlyPrint">Przystanek -</span> Piramowicza (Kampus Biskupin)
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-piramowicza-kampus-biskupin-linia-2-kierunek-krzyki-slupek-24412" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Piramowicza (Kampus Biskupin)</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 2'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Olszewskiego)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-chelmonskiego-linia-2-kierunek-krzyki-slupek-24410" class="label">
+<span class="onlyPrint">Przystanek -</span> Chełmońskiego
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-chelmonskiego-linia-2-kierunek-krzyki-slupek-24410" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Chełmońskiego</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 3'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Wróblewskiego)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-tramwajowa-linia-2-kierunek-krzyki-slupek-24408" class="label">
+<span class="onlyPrint">Przystanek -</span> Tramwajowa
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-tramwajowa-linia-2-kierunek-krzyki-slupek-24408" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Tramwajowa</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 4'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Wróblewskiego)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-zoo-linia-2-kierunek-krzyki-slupek-24404" class="label">
+<span class="onlyPrint">Przystanek -</span> Zoo
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-zoo-linia-2-kierunek-krzyki-slupek-24404" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Zoo</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 6'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Wróblewskiego)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-hala-stulecia-linia-2-kierunek-krzyki-slupek-24402" class="label">
+<span class="onlyPrint">Przystanek -</span> Hala Stulecia
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-hala-stulecia-linia-2-kierunek-krzyki-slupek-24402" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Hala Stulecia</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 7'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Curie-Skłodowskiej)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-kliniki-politechnika-wroclawska-linia-2-kierunek-krzyki-slupek-20818" class="label">
+<span class="onlyPrint">Przystanek -</span> Kliniki - Politechnika Wrocławska
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-kliniki-politechnika-wroclawska-linia-2-kierunek-krzyki-slupek-20818" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Kliniki - Politechnika Wrocławska</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 9'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(rondo Reagana)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-pl-grunwaldzki-linia-2-kierunek-krzyki-slupek-20820" class="label">
+<span class="onlyPrint">Przystanek -</span> Pl. Grunwaldzki
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-pl-grunwaldzki-linia-2-kierunek-krzyki-slupek-20820" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Pl. Grunwaldzki</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 11'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Curie-Skłodowskiej)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-reja-linia-2-kierunek-krzyki-slupek-20814" class="label">
+<span class="onlyPrint">Przystanek -</span> Reja
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-reja-linia-2-kierunek-krzyki-slupek-20814" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Reja</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 12'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Wyszyńskiego)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-katedra-linia-2-kierunek-krzyki-slupek-20812" class="label">
+<span class="onlyPrint">Przystanek -</span> Katedra
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-katedra-linia-2-kierunek-krzyki-slupek-20812" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Katedra</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 14'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(pl. Powstańców Warszawy)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-urzad-wojewodzki-muzeum-narodowe-linia-2-kierunek-krzyki-slupek-20282" class="label">
+<span class="onlyPrint">Przystanek -</span> Urząd Wojewódzki (Muzeum Narodowe)
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-urzad-wojewodzki-muzeum-narodowe-linia-2-kierunek-krzyki-slupek-20282" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Urząd Wojewódzki (Muzeum Narodowe)</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 16'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Oławska)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-galeria-dominikanska-linia-2-kierunek-krzyki-slupek-10032" class="label">
+<span class="onlyPrint">Przystanek -</span> Galeria Dominikańska
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-galeria-dominikanska-linia-2-kierunek-krzyki-slupek-10032" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Galeria Dominikańska</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 20'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Skargi)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-wzgorze-partyzantow-linia-2-kierunek-krzyki-slupek-10221" class="label">
+<span class="onlyPrint">Przystanek -</span> Wzgórze Partyzantów
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-wzgorze-partyzantow-linia-2-kierunek-krzyki-slupek-10221" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Wzgórze Partyzantów</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 22'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Kołłątaja)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-dworzec-glowny-linia-2-kierunek-krzyki-slupek-10223" class="label">
+<span class="onlyPrint">Przystanek -</span> Dworzec Główny
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-dworzec-glowny-linia-2-kierunek-krzyki-slupek-10223" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Dworzec Główny</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 24'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Piłsudskiego)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-arkady-capitol-linia-2-kierunek-krzyki-slupek-10269" class="label">
+<span class="onlyPrint">Przystanek -</span> Arkady (Capitol)
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-arkady-capitol-linia-2-kierunek-krzyki-slupek-10269" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Arkady (Capitol)</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 27'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Powstańców Śl.)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-zaolzianska-linia-2-kierunek-krzyki-slupek-11201" class="label">
+<span class="onlyPrint">Przystanek -</span> Zaolziańska
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-zaolzianska-linia-2-kierunek-krzyki-slupek-11201" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Zaolziańska</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 29'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Powstańców Śl.)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-wielka-linia-2-kierunek-krzyki-slupek-11203" class="label">
+<span class="onlyPrint">Przystanek -</span> Wielka
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-wielka-linia-2-kierunek-krzyki-slupek-11203" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Wielka</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 30'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Powstańców Śl.)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-rondo-linia-2-kierunek-krzyki-slupek-11205" class="label">
+<span class="onlyPrint">Przystanek -</span> Rondo
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-rondo-linia-2-kierunek-krzyki-slupek-11205" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Rondo</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 32'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Powstańców Śl.)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-sztabowa-linia-2-kierunek-krzyki-slupek-11207" class="label">
+<span class="onlyPrint">Przystanek -</span> Sztabowa
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-sztabowa-linia-2-kierunek-krzyki-slupek-11207" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Sztabowa</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 33'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Powstańców Śl.)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-hallera-linia-2-kierunek-krzyki-slupek-11209" class="label">
+<span class="onlyPrint">Przystanek -</span> Hallera
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-hallera-linia-2-kierunek-krzyki-slupek-11209" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Hallera</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 35'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Powstańców Śl.)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-jastrzebia-linia-2-kierunek-krzyki-slupek-11211" class="label">
+<span class="onlyPrint">Przystanek -</span> Jastrzębia
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-jastrzebia-linia-2-kierunek-krzyki-slupek-11211" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Jastrzębia</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 36'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Powstańców Śl.)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-orla-linia-2-kierunek-krzyki-slupek-11213" class="label">
+<span class="onlyPrint">Przystanek -</span> Orla
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-orla-linia-2-kierunek-krzyki-slupek-11213" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Orla</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 37'
+</span>
+</div>
+</div>
+</li>
+<li class="listItem
+                                                                                                                                                            " data-li>
+<span class="colorDot"></span>
+<div class="listLinkWrapper">
+<span class="topLabel">(Karkonoska)</span>
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-krzyki-linia-2-kierunek-krzyki-slupek-11215" class="label">
+<span class="onlyPrint">Przystanek -</span> Krzyki
+</a>
+<div class="printWrapper">
+<a href="https://www.wroclaw.pl/komunikacja/przystanek-krzyki-linia-2-kierunek-krzyki-slupek-11215" class="linkIcon">
+<span class="sr-only">Sprawdź proponowane przesiadki na inne linie</span>
+<span class="sr-only">Krzyki</span>
+<span class="icon icon-bus-relocation" aria-hidden="true"></span>
+</a>
+<span class="timeItem">
+<span class="sr-only">Czas przejazdu</span> 40'
+</span>
+</div>
