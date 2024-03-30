@@ -35,12 +35,13 @@ def pathfinding(start:int, finish:int) ->list:
                     distances.append(f)
         q += min(distances)
         closest = neighbours[distances.index(min(distances))]
-        if t1[path[-1]][closest] != 0:
-            path.append(closest)
-        else:
-            continue
+        path.append(closest)
         neighbours.clear()
         distances.clear()
     return path
 
 print(pathfinding(1, 9))
+
+
+# niedziałający gdyż nieraz znajdowany node nie jest w ciągu, lecz jest rozgałęzieniem
+# wciąż brak opcji rozpatrywania kilku rozgałęzień jednocześnie - oddzielnie
