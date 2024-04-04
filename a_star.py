@@ -40,6 +40,33 @@ def pathfinding(start:int, finish:int) ->list:
         distances.clear()
     return path
 
+def xd(s,f):
+    closed=set()
+    opened=set()
+    opened.add(s)
+    q=0
+    path=[s]
+    x=s
+    neighbors=[]
+    while opened:
+        if x == f:
+            path.append(x)
+            return path
+        opened.remove(x)
+        closed.add(x)
+        for nodes in path:
+            for i in range(len(t1)):
+                if t1[i][nodes]!=0:
+                    neighbors.append(i)
+        for y in neighbors:
+            if y in opened:
+
+            m=min
+            ten=q+min(t1[y])
+
+
+
+
 print(pathfinding(1, 9))
 
 
