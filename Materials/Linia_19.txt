@@ -1384,14 +1384,7 @@ Więcej
 <span class="busNumber">19</span>
 </div>
 <div class="headerContent">
-<h1 class="mainTitle">
-Rozkład jazdy tramwaju 19, kierunek: Zoo
-</h1>
-<div class="infoBox">
-<a href="linie-na-przystanku-gornicza-wroclaw" class="signs">
-<span class="signs__busStop">
-Przystanek Górnicza
-</span>
+
 <span class="signs__post">Słupek: 12612</span>
 </a>
 <span class="infoBox__time">

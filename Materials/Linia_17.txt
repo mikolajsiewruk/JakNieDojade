@@ -1,5 +1,6 @@
 
 
+
 <!doctype html>
 <html lang="pl">
 <head>
@@ -1386,12 +1387,7 @@ Więcej
 <div class="headerContent">
 <h1 class="mainTitle">
 Rozkład jazdy tramwaju 17, kierunek: Klecina
-</h1>
-<div class="infoBox">
-<a href="linie-na-przystanku-sepolno-wroclaw" class="signs">
-<span class="signs__busStop">
-Przystanek Sępolno
-</span>
+
 <span class="signs__post">Słupek: 24214</span>
 </a>
 <span class="infoBox__time">

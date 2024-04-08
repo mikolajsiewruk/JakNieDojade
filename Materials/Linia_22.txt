@@ -1386,12 +1386,7 @@ Więcej
 <div class="headerContent">
 <h1 class="mainTitle">
 Rozkład jazdy tramwaju 22, kierunek: Tarnogaj
-</h1>
-<div class="infoBox">
-<a href="linie-na-przystanku-pilczyce-wroclaw" class="signs">
-<span class="signs__busStop">
-Przystanek Pilczyce
-</span>
+
 <span class="signs__post">Słupek: 12410</span>
 </a>
 <span class="infoBox__time">

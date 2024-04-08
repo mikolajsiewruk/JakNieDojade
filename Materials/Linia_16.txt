@@ -1386,11 +1386,7 @@ Więcej
 <div class="headerContent">
 <h1 class="mainTitle">
 Rozkład jazdy tramwaju 16, kierunek: Tarnogaj
-</h1>
-<div class="infoBox">
-<a href="linie-na-przystanku-karlowice-wroclaw" class="signs">
-<span class="signs__busStop">
-Przystanek Karłowice
+
 </span>
 <span class="signs__post">Słupek: 23011</span>
 </a>

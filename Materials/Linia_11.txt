@@ -1389,8 +1389,6 @@ Rozkład jazdy tramwaju 11, kierunek: Kromera
 </h1>
 <div class="infoBox">
 <a href="linie-na-przystanku-oporow-wroclaw" class="signs">
-<span class="signs__busStop">
-Przystanek Oporów
 </span>
 <span class="signs__post">Słupek: 11616</span>
 </a>

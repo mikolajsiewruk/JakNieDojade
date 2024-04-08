@@ -78,7 +78,7 @@
 <a href="linie-na-przystanku-bienkowice-wroclaw">BIEŃKOWICE</a>
 </li>
 <li class="listItem">
-<a href="linie-na-przystanku-biskupin-wroclw">BISKUPIN</a>
+<a href="linie-na-przystanku-biskupin-wroclaw">BISKUPIN</a>
 </li>
 <li class="listItem">
 <a href="linie-na-przystanku-blacharska-wroclaw">BLACHARSKA</a>

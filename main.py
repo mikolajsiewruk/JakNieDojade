@@ -8,7 +8,7 @@ class Database:
         self.cursor=self.connection.cursor()
         self.make_tables()
     def make_tables(self):
-        self.cursor.execute('''CREATE TABLE IF NOT EXISTS Przystanki(IdP INTEGER NOT NULL CONSTRAINT Przystanki_pk PRIMARY KEY AUTOINCREMENT,Nazwa TEXT NOT NULL,X REAL,Y REAL)''')
+        self.cursor.execute('''CREATE TABLE IF NOT EXISTS Przystanki (IdP INTEGER NOT NULL CONSTRAINT Przystanki_pk PRIMARY KEY AUTOINCREMENT,Nazwa TEXT NOT NULL,X REAL,Y REAL)''')
         self.connection.commit()
 d=Database()
 
@@ -19,7 +19,8 @@ if 'wroclaw">' in s:
     print(x[:-4])
 stops={}
 db=Database()
-f = open("Materials/Przystanki.txt","r",encoding="utf8")
+
+f = open("Testcases/Przystanki.txt", "r", encoding="utf8")
 i=0
 l=[]
 # dodawanie do bazy danych przystanków, uważać bo sie doda po raz kolejny
@@ -29,10 +30,13 @@ for lines in f:
         x = lines[lines.index(">") + 1:]
         print(x[:-5])
         v=x[:-5]
+        v=v.lower()
+        v=v.title()
+        print(v)
         dict={"id":i,"name":x[:-5]}
         l.append(dict)
-        db.cursor.execute(f"INSERT INTO Przystanki (Nazwa) VALUES ('{v}')")
-        db.connection.commit()
+        #db.cursor.execute(f"INSERT INTO Przystanki (Nazwa) VALUES ('{v}')")
+        #db.connection.commit()
 
 output=open("stops.json", "w")
 json.dump(l,output,indent=4)

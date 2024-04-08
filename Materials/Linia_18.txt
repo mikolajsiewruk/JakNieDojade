@@ -1385,13 +1385,7 @@ Więcej
 </div>
 <div class="headerContent">
 <h1 class="mainTitle">
-Rozkład jazdy tramwaju 18, kierunek: Gaj
-</h1>
-<div class="infoBox">
-<a href="linie-na-przystanku-tarczynski-arena-krolewiecka-wroclaw" class="signs">
-<span class="signs__busStop">
-Przystanek Tarczyński Arena (Królewiecka)
-</span>
+
 <span class="signs__post">Słupek: 18402</span>
 </a>
 <span class="infoBox__time">

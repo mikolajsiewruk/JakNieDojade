@@ -1386,12 +1386,7 @@ Więcej
 <div class="headerContent">
 <h1 class="mainTitle">
 Rozkład jazdy tramwaju 13, kierunek: Wrocław Nowy Dwór (P+R)
-</h1>
-<div class="infoBox">
-<a href="linie-na-przystanku-stadion-olimpijski-wroclaw" class="signs">
-<span class="signs__busStop">
-Przystanek Stadion Olimpijski
-</span>
+
 <span class="signs__post">Słupek: 24208</span>
 </a>
 <span class="infoBox__time">

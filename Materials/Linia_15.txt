@@ -1384,13 +1384,7 @@ Więcej
 <span class="busNumber">15</span>
 </div>
 <div class="headerContent">
-<h1 class="mainTitle">
-Rozkład jazdy tramwaju 15, kierunek: Park Południowy
-</h1>
-<div class="infoBox">
-<a href="linie-na-przystanku-poswietne-wroclaw" class="signs">
-<span class="signs__busStop">
-Przystanek Poświętne
+=
 </span>
 <span class="signs__post">Słupek: 23022</span>
 </a>

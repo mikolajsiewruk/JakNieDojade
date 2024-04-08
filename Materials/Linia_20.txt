@@ -1383,15 +1383,7 @@ Więcej
 <div class="busNumberWrapper">
 <span class="busNumber">20</span>
 </div>
-<div class="headerContent">
-<h1 class="mainTitle">
-Rozkład jazdy tramwaju 20, kierunek: Leśnica
-</h1>
-<div class="infoBox">
-<a href="linie-na-przystanku-oporow-wroclaw" class="signs">
-<span class="signs__busStop">
-Przystanek Oporów
-</span>
+
 <span class="signs__post">Słupek: 11618</span>
 </a>
 <span class="infoBox__time">
