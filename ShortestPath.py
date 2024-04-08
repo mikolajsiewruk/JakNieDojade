@@ -1,8 +1,12 @@
-t2 = [[0, 2, 0, 5, 0],
-      [2, 0, 1, 0, 7],
-      [0, 1, 0, 1, 0],
-      [5, 0, 1, 0, 4],
-      [0, 7, 0, 4, 0]]
+t2 = [[0,10,8,0,0,0,0,0,0],
+     [10,0,0,14,8,12,0,0,0],
+     [8,0,0,15,13,19,0,0,0],
+     [0,14,15,0,0,0,10,25,0],
+     [0,8,13,0,0,0,20,18,0],
+     [0,12,19,0,0,0,15,11,0],
+     [0,0,0,20,20,15,0,0,12],
+     [0,0,0,25,18,11,0,0,13],
+     [0,0,0,0,0,0,12,13,0]]
 
 
 class ShortestPath:
@@ -62,7 +66,8 @@ class ShortestPath:
                 if nodes["val"][1] == min(v):
                     current = nodes["node"]
         path = reconstruct(distances, start, end)
-        return distances, path
+        length=distances[end]["val"][1]
+        return distances, path, length
 
 
 s = ShortestPath()
