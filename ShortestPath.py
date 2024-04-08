@@ -1,47 +1,70 @@
+t2 = [[0, 2, 0, 5, 0],
+      [2, 0, 1, 0, 7],
+      [0, 1, 0, 1, 0],
+      [5, 0, 1, 0, 4],
+      [0, 7, 0, 4, 0]]
 
-t2=[[0,2,0,5,0],
-    [2,0,3,0,7],
-    [0,3,0,1,0],
-    [5,0,1,0,4],
-    [0,7,0,4,0]]
+
 class ShortestPath:
 
-# wyszukuje na razie tylko najkrótszą trasę od 1go do ostatniego, nie między dowolnymi
-# dodać klasy na graf, kolejkę, drzewo itd
-    def dijkstra(self,graph:list,start:int,end:int)-> list:
+    @staticmethod
+    def dijkstra(graph: list, start: int, end: int) -> tuple:
         """
-        Dijkstras algorithm for finding the shortest path in a graph.
+        Dijkstra's algorithm for finding the shortest path in a graph.
         :param graph: a graph of nodes in matrix form
         :param start: source
         :param end: target
         :return: list of shortest distances from node 0 to the last node
         """
-        unvisited=set()
+
+        # noinspection PyTypeChecker
+        def reconstruct(distances: list, start: int, end: int) -> list:
+            """
+            Dijkstra helper function. From a given list of shortest connections returns full path.
+            :param distances: List of dictionaries containing node number ("node") and list of [from which node,total distance] ("val")
+            :param start: source
+            :param end: target
+            :return: reconstructed path
+            """
+            path = []
+            curr = distances[end]  # set the pointer at the last node of the path
+            while str(curr["val"][
+                          0]) != '':  # from the last node add the values of "val"[0] key that keep track of the shortest path available.
+                path.append(curr["node"])
+                curr = distances[curr["val"][0]]
+            path.append(start)
+            path.reverse()
+            return path
+
+        unvisited = set()  # set containing all unvisited nodes
         for j in range(len(graph)):
             unvisited.add(j)
-        distances=[]
+        distances = []
         for i in range(len(graph)):
-            distances.append("inf")
-        distances[start]=0
+            if i == start:
+                distances.append({"node": i, "val": ['', 0]})
+            else:
+                distances.append({"node": i, "val": ['',
+                                                     'inf']})  # every node as a dictionary with "val" being an array [from which node,total distance]
+        current = start
+        while unvisited:
+            neighbors = [i for i in range(len(graph[current])) if (graph[current][i] != 0 and i in unvisited)]
+            for node in neighbors:
+                dist = distances[node]["val"][1]
+                new_dist = distances[current]["val"][1] + t2[current][node]
+                if dist == 'inf' or new_dist < dist:
+                    distances[node]["val"][1] = new_dist
+                    distances[node]["val"][0] = current
+            unvisited.remove(current)
+            valid = [nodes for nodes in distances if nodes["val"][1] != 'inf' and nodes["node"] in unvisited]
+            v = [nodes["val"][1] for nodes in distances if nodes["val"][1] != 'inf' and nodes["node"] in unvisited]
+            for nodes in valid:
+                if nodes["val"][1] == min(v):
+                    current = nodes["node"]
+        path = reconstruct(distances, start, end)
+        return distances, path
 
-        for j in range(len(graph)):
-            current=graph[start+j]
-            print(current)
-            cur_ind=start+j
-            print(cur_ind)
 
-            for i in range(len(current)):
-                if current[i]!=0 and i in unvisited:
-                    if distances[i]=="inf":
-                        print(distances[i],current[i],distances[cur_ind])
-                        distances[i]=current[i]+distances[cur_ind]
-                    elif distances[i]>current[i]+distances[cur_ind]:
-                        print(distances[i], current[i], distances[cur_ind])
-                        distances[i]=current[i]+distances[cur_ind]
+s = ShortestPath()
 
-        return distances
-s=ShortestPath()
-
-print(s.dijkstra(t2,0,4))
-
-
+print(s.dijkstra(t2, 0, 4))
