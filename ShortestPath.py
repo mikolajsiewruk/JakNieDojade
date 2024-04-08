@@ -51,18 +51,18 @@ class ShortestPath:
                 distances.append({"node": i, "val": ['',
                                                      'inf']})  # every node as a dictionary with "val" being an array [from which node,total distance]
         current = start
-        while unvisited:
+        while unvisited:  # searching process will continue until it checks all the nodes
             neighbors = [i for i in range(len(graph[current])) if (graph[current][i] != 0 and i in unvisited)]
-            for node in neighbors:
+            for node in neighbors: # consider all neighboring nodes
                 dist = distances[node]["val"][1]
-                new_dist = distances[current]["val"][1] + t2[current][node]
-                if dist == 'inf' or new_dist < dist:
+                new_dist = distances[current]["val"][1] + t2[current][node]  # calculate the distance from the current node to each neighbor
+                if dist == 'inf' or new_dist < dist:  # if the new path is shorter, switch
                     distances[node]["val"][1] = new_dist
                     distances[node]["val"][0] = current
-            unvisited.remove(current)
-            valid = [nodes for nodes in distances if nodes["val"][1] != 'inf' and nodes["node"] in unvisited]
-            v = [nodes["val"][1] for nodes in distances if nodes["val"][1] != 'inf' and nodes["node"] in unvisited]
-            for nodes in valid:
+            unvisited.remove(current)  # remove current node from unvisited
+            valid = [nodes for nodes in distances if nodes["val"][1] != 'inf' and nodes["node"] in unvisited]  # consider all nodes that connect to current node and are not yet visited
+            v = [nodes["val"][1] for nodes in distances if nodes["val"][1] != 'inf' and nodes["node"] in unvisited]  # take their path distances
+            for nodes in valid:  # from path distances select the one with the shortest distance
                 if nodes["val"][1] == min(v):
                     current = nodes["node"]
         path = reconstruct(distances, start, end)
