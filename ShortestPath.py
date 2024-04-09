@@ -1,13 +1,4 @@
-t2 = [[0,10,8,0,0,0,0,0,0],
-     [10,0,0,14,8,12,0,0,0],
-     [8,0,0,15,13,19,0,0,0],
-     [0,14,15,0,0,0,10,25,0],
-     [0,8,13,0,0,0,20,18,0],
-     [0,12,19,0,0,0,15,11,0],
-     [0,0,0,20,20,15,0,0,12],
-     [0,0,0,25,18,11,0,0,13],
-     [0,0,0,0,0,0,12,13,0]]
-
+import json
 
 class ShortestPath:
 
@@ -41,6 +32,8 @@ class ShortestPath:
             return path
 
         unvisited = set()  # set containing all unvisited nodes
+        reachable=[x for x in graph if x.count(0)<940] # temporary fix
+        visited = []
         for j in range(len(graph)):
             unvisited.add(j)
         distances = []
@@ -51,25 +44,41 @@ class ShortestPath:
                 distances.append({"node": i, "val": ['',
                                                      'inf']})  # every node as a dictionary with "val" being an array [from which node,total distance]
         current = start
+        prev=[]
         while unvisited:  # searching process will continue until it checks all the nodes
+            print(unvisited)
+            if current not in prev:
+                prev.append(current)
             neighbors = [i for i in range(len(graph[current])) if (graph[current][i] != 0 and i in unvisited)]
             for node in neighbors: # consider all neighboring nodes
                 dist = distances[node]["val"][1]
-                new_dist = distances[current]["val"][1] + t2[current][node]  # calculate the distance from the current node to each neighbor
+                new_dist = distances[current]["val"][1] + graph[current][node]  # calculate the distance from the current node to each neighbor
                 if dist == 'inf' or new_dist < dist:  # if the new path is shorter, switch
                     distances[node]["val"][1] = new_dist
                     distances[node]["val"][0] = current
             unvisited.remove(current)  # remove current node from unvisited
+            if current not in visited:
+                visited.append(current)
             valid = [nodes for nodes in distances if nodes["val"][1] != 'inf' and nodes["node"] in unvisited]  # consider all nodes that connect to current node and are not yet visited
             v = [nodes["val"][1] for nodes in distances if nodes["val"][1] != 'inf' and nodes["node"] in unvisited]  # take their path distances
+            if not valid:
+                current=visited[visited.index(current)-1]
+                print(current)
+                unvisited.add(current)
+            if not valid and len(visited)==len(reachable):
+                break
+
             for nodes in valid:  # from path distances select the one with the shortest distance
                 if nodes["val"][1] == min(v):
                     current = nodes["node"]
+            print(len(visited))
         path = reconstruct(distances, start, end)
         length=distances[end]["val"][1]
         return distances, path, length
 
-
+file = open("Dane/graph.json", "r")
+graph = json.load(file)
+t=graph[0]["graph"]
 s = ShortestPath()
 
-print(s.dijkstra(t2, 0, 4))
+print(s.dijkstra(t, 10, 252))

@@ -38,5 +38,5 @@ for lines in f:
         #db.cursor.execute(f"INSERT INTO Przystanki (Nazwa) VALUES ('{v}')")
         #db.connection.commit()
 
-output=open("stops.json", "w")
+output=open("Dane/stops.json", "w")
 json.dump(l,output,indent=4)
