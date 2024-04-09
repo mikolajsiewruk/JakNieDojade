@@ -17,7 +17,11 @@ dir=os.listdir(f"{d}\\Materials")
 lines1=[]
 files=[file for file in dir]
 
-def add_stops():
+def add_lines():
+    """
+    Add lines to JSON file. Stop ids and time from stop to stop.
+    :return:
+    """
     for file in files:
         f = open(f"Materials\{file}","r", encoding="utf-8")
         name=f.name
@@ -38,4 +42,4 @@ def add_stops():
             res.append(cursor.execute(f"SELECT IdP FROM Przystanki WHERE Nazwa = '{stop}'").fetchone()[0])
         line.append({"Nazwa":name,"Przystanki":res,"Czasy":times})
         lines1.append(line)
-    json.dump(lines1,output,indent=4)
+    # json.dump(lines1,output,indent=4) dont use until complete
