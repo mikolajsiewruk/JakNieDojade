@@ -81,4 +81,4 @@ graph = json.load(file)
 t=graph[0]["graph"]
 s = ShortestPath()
 
-print(s.dijkstra(t, 10, 252))
+print(s.dijkstra(t, 329, 624))
