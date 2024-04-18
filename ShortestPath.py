@@ -74,11 +74,11 @@ class ShortestPath:
             print(len(visited))
         path = reconstruct(distances, start, end)
         length=distances[end]["val"][1]
-        return distances, path, length
+        return path, length
 
-file = open("Dane/graph.json", "r")
+'''file = open("Dane/graph.json", "r")
 graph = json.load(file)
 t=graph[0]["graph"]
-s = ShortestPath()
+s = ShortestPath()'''
 
-print(s.dijkstra(t, 329, 624))
+#print(s.dijkstra(t, 329, 624))
