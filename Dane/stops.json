@@ -89,3670 +89,3666 @@
     },
     {
         "id": 23,
-        "name": "BISKUPIN"
-    },
-    {
-        "id": 24,
         "name": "BLACHARSKA"
     },
     {
-        "id": 25,
+        "id": 24,
         "name": "BLIZANOWICE"
     },
     {
-        "id": 26,
+        "id": 25,
         "name": "BROCH\u00d3W"
     },
     {
-        "id": 27,
+        "id": 26,
         "name": "BROCH\u00d3W (Stacja kolejowa)"
     },
     {
-        "id": 28,
+        "id": 27,
         "name": "BRZEZINA (p\u0119tla)"
     },
     {
-        "id": 29,
+        "id": 28,
         "name": "Babimojska"
     },
     {
-        "id": 30,
+        "id": 29,
         "name": "Bacciarellego"
     },
     {
-        "id": 31,
+        "id": 30,
         "name": "Bagatela"
     },
     {
-        "id": 32,
+        "id": 31,
         "name": "Bajana"
     },
     {
-        "id": 33,
+        "id": 32,
         "name": "Bardzka"
     },
     {
-        "id": 34,
+        "id": 33,
         "name": "Ba\u0142tycka"
     },
     {
-        "id": 35,
+        "id": 34,
         "name": "Ba\u0142tycka (szko\u0142a)"
     },
     {
-        "id": 36,
+        "id": 35,
         "name": "Berenta"
     },
     {
-        "id": 37,
+        "id": 36,
         "name": "Bezpieczna"
     },
     {
-        "id": 38,
+        "id": 37,
         "name": "Bia\u0142owieska"
     },
     {
-        "id": 39,
+        "id": 38,
         "name": "Bia\u0142ych Go\u017adzik\u00f3w"
     },
     {
-        "id": 40,
+        "id": 39,
         "name": "Biegasa"
     },
     {
-        "id": 41,
+        "id": 40,
         "name": "Bielany Wroc\u0142awskie - Boczna"
     },
     {
-        "id": 42,
+        "id": 41,
         "name": "Bielany Wroc\u0142awskie - Ko\u015bci\u00f3\u0142"
     },
     {
-        "id": 43,
+        "id": 42,
         "name": "Bielany Wroc\u0142awskie - Kwiatowa"
     },
     {
-        "id": 44,
+        "id": 43,
         "name": "Bielany Wroc\u0142awskie - Makro"
     },
     {
-        "id": 45,
+        "id": 44,
         "name": "Bielany Wroc\u0142awskie - PKP"
     },
     {
-        "id": 46,
+        "id": 45,
         "name": "Bielany Wroc\u0142awskie - skrzy\u017cowanie"
     },
     {
-        "id": 47,
+        "id": 46,
         "name": "Bielawa"
     },
     {
-        "id": 48,
+        "id": 47,
         "name": "Bierdzany"
     },
     {
-        "id": 49,
+        "id": 48,
         "name": "Bierutowska"
     },
     {
-        "id": 50,
+        "id": 49,
         "name": "Bierutowska 65"
     },
     {
-        "id": 51,
+        "id": 50,
         "name": "Bierutowska 75"
     },
     {
-        "id": 52,
+        "id": 51,
         "name": "Bierzyce"
     },
     {
-        "id": 53,
+        "id": 52,
         "name": "Bierzyce - wie\u015b"
     },
     {
-        "id": 54,
+        "id": 53,
         "name": "Biestrzyk\u00f3w - Wroc\u0142awska"
     },
     {
-        "id": 55,
+        "id": 54,
         "name": "Biskupice Podg. DSC Poland/Dong Yang"
     },
     {
-        "id": 56,
+        "id": 55,
         "name": "Biskupice Podg. LG Chem"
     },
     {
-        "id": 57,
+        "id": 56,
         "name": "Biskupice Podg. LG Electronics"
     },
     {
-        "id": 58,
+        "id": 57,
         "name": "Biskupice Podg. LG Energy Solution Wr. I"
     },
     {
-        "id": 59,
+        "id": 58,
         "name": "Biskupice Podg. LG Innotek"
     },
     {
-        "id": 60,
+        "id": 59,
         "name": "Blizanowicka"
     },
     {
-        "id": 61,
+        "id": 60,
         "name": "Bociania"
     },
     {
-        "id": 62,
+        "id": 61,
         "name": "Bojanowska"
     },
     {
-        "id": 63,
+        "id": 62,
         "name": "Borowa - skrzy."
     },
     {
-        "id": 64,
+        "id": 63,
         "name": "Borowa - stacja kolejowa"
     },
     {
-        "id": 65,
+        "id": 64,
         "name": "Borowa - szko\u0142a"
     },
     {
-        "id": 66,
+        "id": 65,
         "name": "Borowska (Aquapark)"
     },
     {
-        "id": 67,
+        "id": 66,
         "name": "Borowska (Szpital)"
     },
     {
-        "id": 68,
+        "id": 67,
         "name": "Braterska"
     },
     {
-        "id": 69,
+        "id": 68,
         "name": "Brochowska"
     },
     {
-        "id": 70,
+        "id": 69,
         "name": "Brodzka"
     },
     {
-        "id": 71,
+        "id": 70,
         "name": "Broniewskiego"
     },
     {
-        "id": 72,
+        "id": 71,
         "name": "Brzezia \u0141\u0105ka - G\u0142\u00f3wna"
     },
     {
-        "id": 73,
+        "id": 72,
         "name": "Brzezia \u0141\u0105ka - G\u0142\u00f3wna p\u0119tla"
     },
     {
-        "id": 74,
+        "id": 73,
         "name": "Brzezia \u0141\u0105ka - Wroc\u0142awska"
     },
     {
-        "id": 75,
+        "id": 74,
         "name": "Brzezia \u0141\u0105ka - cmentarz"
     },
     {
-        "id": 76,
+        "id": 75,
         "name": "Brzezia \u0141\u0105ka - skrzy. G\u0142\u00f3wna"
     },
     {
-        "id": 77,
+        "id": 76,
         "name": "Brzezia \u0141\u0105ka - skrzy. Orzechowa"
     },
     {
-        "id": 78,
+        "id": 77,
         "name": "Brzezia \u0141\u0105ka - skrzy. Sportowa"
     },
     {
-        "id": 79,
+        "id": 78,
         "name": "Brzezina - Biedronka"
     },
     {
-        "id": 80,
+        "id": 79,
         "name": "Brzezina - Ko\u015bci\u00f3\u0142"
     },
     {
-        "id": 81,
+        "id": 80,
         "name": "Brzezina - Osiedle"
     },
     {
-        "id": 82,
+        "id": 81,
         "name": "Brzezina - Zacisze"
     },
     {
-        "id": 83,
+        "id": 82,
         "name": "Brzezina - ul. Chrobrego"
     },
     {
-        "id": 84,
+        "id": 83,
         "name": "Brzezinka \u015aredzka - PKP"
     },
     {
-        "id": 85,
+        "id": 84,
         "name": "Brzezinka \u015aredzka - ul. G\u0142\u00f3wna"
     },
     {
-        "id": 86,
+        "id": 85,
         "name": "Brzezinka \u015aredzka - ul. Kolejowa"
     },
     {
-        "id": 87,
+        "id": 86,
         "name": "Brzezinka \u015aredzka - ul. Parkowa"
     },
     {
-        "id": 88,
+        "id": 87,
         "name": "Brzezi\u0144ska"
     },
     {
-        "id": 89,
+        "id": 88,
         "name": "Br\u00fccknera"
     },
     {
-        "id": 90,
+        "id": 89,
         "name": "Budziszy\u0144ska"
     },
     {
-        "id": 91,
+        "id": 90,
         "name": "Budziwojowice"
     },
     {
-        "id": 92,
+        "id": 91,
         "name": "Buforowa-Rondo"
     },
     {
-        "id": 93,
+        "id": 92,
         "name": "Bujwida"
     },
     {
-        "id": 94,
+        "id": 93,
         "name": "Bukowina"
     },
     {
-        "id": 95,
+        "id": 94,
         "name": "Bukowina - skrzy."
     },
     {
-        "id": 96,
+        "id": 95,
         "name": "Bukowskiego"
     },
     {
-        "id": 97,
+        "id": 96,
         "name": "Bulwar Dedala"
     },
     {
-        "id": 98,
+        "id": 97,
         "name": "Byk\u00f3w - Ja\u015bminowa"
     },
     {
-        "id": 99,
+        "id": 98,
         "name": "Byk\u00f3w - Ogrodowa"
     },
     {
-        "id": 100,
+        "id": 99,
         "name": "Bystrzycka"
     },
     {
-        "id": 101,
+        "id": 100,
         "name": "Bzowa (Centrum Historii Zajezdnia)"
     },
     {
-        "id": 102,
+        "id": 101,
         "name": "B\u0105k\u00f3w"
     },
     {
-        "id": 103,
+        "id": 102,
         "name": "B\u0142onie"
     },
     {
-        "id": 104,
+        "id": 103,
         "name": "C.H. Aleja Bielany"
     },
     {
-        "id": 105,
+        "id": 104,
         "name": "C.H. Korona"
     },
     {
-        "id": 106,
+        "id": 105,
         "name": "Ceglana"
     },
     {
-        "id": 107,
+        "id": 106,
         "name": "Cesarzowice skrz."
     },
     {
-        "id": 108,
+        "id": 107,
         "name": "Chachaja"
     },
     {
-        "id": 109,
+        "id": 108,
         "name": "Che\u0142mo\u0144skiego"
     },
     {
-        "id": 110,
+        "id": 109,
         "name": "Chi\u0144ska"
     },
     {
-        "id": 111,
+        "id": 110,
         "name": "Chociebuska (C. K. Nowy Pafawag)"
     },
     {
-        "id": 112,
+        "id": 111,
         "name": "Chopina"
     },
     {
-        "id": 113,
+        "id": 112,
         "name": "Chwa\u0142kowska"
     },
     {
-        "id": 114,
+        "id": 113,
         "name": "Ch\u0142odna"
     },
     {
-        "id": 115,
+        "id": 114,
         "name": "Ciechoci\u0144ska"
     },
     {
-        "id": 116,
+        "id": 115,
         "name": "Cynamonowa"
     },
     {
-        "id": 117,
+        "id": 116,
         "name": "Czajkowskiego"
     },
     {
-        "id": 118,
+        "id": 117,
         "name": "Cz\u0119stochowska"
     },
     {
-        "id": 119,
+        "id": 118,
         "name": "DH Astra"
     },
     {
-        "id": 120,
+        "id": 119,
         "name": "DWORZEC AUTOBUSOWY"
     },
     {
-        "id": 121,
+        "id": 120,
         "name": "DWORZEC G\u0141\u00d3WNY"
     },
     {
-        "id": 122,
+        "id": 121,
         "name": "DWORZEC NADODRZE"
     },
     {
-        "id": 123,
+        "id": 122,
         "name": "Damrota"
     },
     {
-        "id": 124,
+        "id": 123,
         "name": "Daszy\u0144skiego"
     },
     {
-        "id": 125,
+        "id": 124,
         "name": "Dembowskiego (Kosiby)"
     },
     {
-        "id": 126,
+        "id": 125,
         "name": "Dobroszycka"
     },
     {
-        "id": 127,
+        "id": 126,
         "name": "Dobrosz\u00f3w - skrzy. W\u0119gierska"
     },
     {
-        "id": 128,
+        "id": 127,
         "name": "Dobrosz\u00f3w Ole\u015bnicki"
     },
     {
-        "id": 129,
+        "id": 128,
         "name": "Dolmed"
     },
     {
-        "id": 130,
+        "id": 129,
         "name": "Dolnobrzeska"
     },
     {
-        "id": 131,
+        "id": 130,
         "name": "Domaszczyn - Ko\u015bci\u00f3\u0142"
     },
     {
-        "id": 132,
+        "id": 131,
         "name": "Domaszczyn - Stawowa"
     },
     {
-        "id": 133,
+        "id": 132,
         "name": "Domaszczyn - Trzebnicka"
     },
     {
-        "id": 134,
+        "id": 133,
         "name": "Domaszczyn - Wroc\u0142awska Skrzy\u017cowanie"
     },
     {
-        "id": 135,
+        "id": 134,
         "name": "Domaszczyn - Wroc\u0142awska sklep"
     },
     {
-        "id": 136,
+        "id": 135,
         "name": "Domaszczyn - skrzy."
     },
     {
-        "id": 137,
+        "id": 136,
         "name": "Drukarska"
     },
     {
-        "id": 138,
+        "id": 137,
         "name": "Drzewieckiego"
     },
     {
-        "id": 139,
+        "id": 138,
         "name": "Dubois"
     },
     {
-        "id": 140,
+        "id": 139,
         "name": "Dworska"
     },
     {
-        "id": 141,
+        "id": 140,
         "name": "Dworzec G\u0142\u00f3wny (Dworcowa)"
     },
     {
-        "id": 142,
+        "id": 141,
         "name": "Dworzec G\u0142\u00f3wny (Stawowa)"
     },
     {
-        "id": 143,
+        "id": 142,
         "name": "Dworzec \u015awiebodzki"
     },
     {
-        "id": 144,
+        "id": 143,
         "name": "Dyrekcyjna"
     },
     {
-        "id": 145,
+        "id": 144,
         "name": "Dzia\u0142dowska"
     },
     {
-        "id": 146,
+        "id": 145,
         "name": "Dzia\u0142kowa"
     },
     {
-        "id": 147,
+        "id": 146,
         "name": "Dzielna"
     },
     {
-        "id": 148,
+        "id": 147,
         "name": "D\u0105browica"
     },
     {
-        "id": 149,
+        "id": 148,
         "name": "D\u0142uga (ogrody dzia\u0142kowe)"
     },
     {
-        "id": 150,
+        "id": 149,
         "name": "D\u0142ugo\u0142\u0119ka - Broniewskiego (na wys. nr 11)"
     },
     {
-        "id": 151,
+        "id": 150,
         "name": "D\u0142ugo\u0142\u0119ka - Kasztanowa"
     },
     {
-        "id": 152,
+        "id": 151,
         "name": "D\u0142ugo\u0142\u0119ka - Ko\u015bci\u00f3\u0142"
     },
     {
-        "id": 153,
+        "id": 152,
         "name": "D\u0142ugo\u0142\u0119ka - Nowy Urz\u0105d"
     },
     {
-        "id": 154,
+        "id": 153,
         "name": "D\u0142ugo\u0142\u0119ka - Parkowa skrzy. Konopnicka"
     },
     {
-        "id": 155,
+        "id": 154,
         "name": "D\u0142ugo\u0142\u0119ka - Parkowa/skrzy."
     },
     {
-        "id": 156,
+        "id": 155,
         "name": "D\u0142ugo\u0142\u0119ka - SELGROS p\u0119tla"
     },
     {
-        "id": 157,
+        "id": 156,
         "name": "D\u0142ugo\u0142\u0119ka - Wiejska"
     },
     {
-        "id": 158,
+        "id": 157,
         "name": "EPI"
     },
     {
-        "id": 159,
+        "id": 158,
         "name": "Eluarda"
     },
     {
-        "id": 160,
+        "id": 159,
         "name": "FAT"
     },
     {
-        "id": 161,
+        "id": 160,
         "name": "Fabryczna"
     },
     {
-        "id": 162,
+        "id": 161,
         "name": "Ferma - stadnina koni"
     },
     {
-        "id": 163,
+        "id": 162,
         "name": "Fieldorfa"
     },
     {
-        "id": 164,
+        "id": 163,
         "name": "Fieldorfa (Szpital)"
     },
     {
-        "id": 165,
+        "id": 164,
         "name": "Fio\u0142kowa"
     },
     {
-        "id": 166,
+        "id": 165,
         "name": "GAJ"
     },
     {
-        "id": 167,
+        "id": 166,
         "name": "GAJ - p\u0119tla"
     },
     {
-        "id": 168,
+        "id": 167,
         "name": "GALERIA DOMINIKA\u0143SKA"
     },
     {
-        "id": 169,
+        "id": 168,
         "name": "GA\u0141\u00d3W (p\u0119tla)"
     },
     {
-        "id": 170,
+        "id": 169,
         "name": "GIE\u0141DOWA (Centrum Hurtu)"
     },
     {
-        "id": 171,
+        "id": 170,
         "name": "GRABISZYNEK"
     },
     {
-        "id": 172,
+        "id": 171,
         "name": "GRABISZY\u0143SKA (Cmentarz II)"
     },
     {
-        "id": 173,
+        "id": 172,
         "name": "GRABISZY\u0143SKA (Cmentarz)"
     },
     {
-        "id": 174,
+        "id": 173,
         "name": "Gagarina"
     },
     {
-        "id": 175,
+        "id": 174,
         "name": "Gajowa"
     },
     {
-        "id": 176,
+        "id": 175,
         "name": "Gajowicka"
     },
     {
-        "id": 177,
+        "id": 176,
         "name": "Gajowicka (szko\u0142a)"
     },
     {
-        "id": 178,
+        "id": 177,
         "name": "Gazowa"
     },
     {
-        "id": 179,
+        "id": 178,
         "name": "Ga\u0142czy\u0144skiego"
     },
     {
-        "id": 180,
+        "id": 179,
         "name": "Ga\u0142owska"
     },
     {
-        "id": 181,
+        "id": 180,
         "name": "Ga\u0142\u00f3w Przedszkole"
     },
     {
-        "id": 182,
+        "id": 181,
         "name": "Ga\u0142\u00f3w przy posesji nr 2"
     },
     {
-        "id": 183,
+        "id": 182,
         "name": "Glinianki"
     },
     {
-        "id": 184,
+        "id": 183,
         "name": "Godebskiego (AWF Wroc\u0142aw)"
     },
     {
-        "id": 185,
+        "id": 184,
         "name": "Godzieszowa (na wys. nr 3)"
     },
     {
-        "id": 186,
+        "id": 185,
         "name": "Godzieszowa (na wys. nr 8)"
     },
     {
-        "id": 187,
+        "id": 186,
         "name": "Godzieszowa - transformator"
     },
     {
-        "id": 188,
+        "id": 187,
         "name": "Gorlicka"
     },
     {
-        "id": 189,
+        "id": 188,
         "name": "Gospodarska"
     },
     {
-        "id": 190,
+        "id": 189,
         "name": "Grabiszy\u0144ska"
     },
     {
-        "id": 191,
+        "id": 190,
         "name": "Grabowa"
     },
     {
-        "id": 192,
+        "id": 191,
         "name": "Graniczna"
     },
     {
-        "id": 193,
+        "id": 192,
         "name": "Graniczna (Strachowicka)"
     },
     {
-        "id": 194,
+        "id": 193,
         "name": "Grochowa"
     },
     {
-        "id": 195,
+        "id": 194,
         "name": "Gromadzka"
     },
     {
-        "id": 196,
+        "id": 195,
         "name": "Grota-Roweckiego"
     },
     {
-        "id": 197,
+        "id": 196,
         "name": "Grudzi\u0105dzka"
     },
     {
-        "id": 198,
+        "id": 197,
         "name": "Grunwaldzka"
     },
     {
-        "id": 199,
+        "id": 198,
         "name": "Grzybowa"
     },
     {
-        "id": 200,
+        "id": 199,
         "name": "Gwia\u017adzista"
     },
     {
-        "id": 201,
+        "id": 200,
         "name": "G\u00f3ra Kapliczna"
     },
     {
-        "id": 202,
+        "id": 201,
         "name": "G\u00f3rnickiego"
     },
     {
-        "id": 203,
+        "id": 202,
         "name": "G\u00f3rnicza"
     },
     {
-        "id": 204,
+        "id": 203,
         "name": "G\u0105dowianka"
     },
     {
-        "id": 205,
+        "id": 204,
         "name": "G\u0105d\u00f3w"
     },
     {
-        "id": 206,
+        "id": 205,
         "name": "G\u0105d\u00f3w - \u015awierkowa"
     },
     {
-        "id": 207,
+        "id": 206,
         "name": "G\u0105siorowskiego"
     },
     {
-        "id": 208,
+        "id": 207,
         "name": "G\u0105sior\u00f3w"
     },
     {
-        "id": 209,
+        "id": 208,
         "name": "G\u0119sia"
     },
     {
-        "id": 210,
+        "id": 209,
         "name": "G\u0142ogowska"
     },
     {
-        "id": 211,
+        "id": 210,
         "name": "G\u0142oska - ul. \u015aredzka"
     },
     {
-        "id": 212,
+        "id": 211,
         "name": "G\u0142ubczycka"
     },
     {
-        "id": 213,
+        "id": 212,
         "name": "G\u0142\u00f3wna"
     },
     {
-        "id": 214,
+        "id": 213,
         "name": "Hala Stulecia"
     },
     {
-        "id": 215,
+        "id": 214,
         "name": "Hala Targowa"
     },
     {
-        "id": 216,
+        "id": 215,
         "name": "Halicka"
     },
     {
-        "id": 217,
+        "id": 216,
         "name": "Hallera"
     },
     {
-        "id": 218,
+        "id": 217,
         "name": "Hartmana"
     },
     {
-        "id": 219,
+        "id": 218,
         "name": "Hermanowska"
     },
     {
-        "id": 220,
+        "id": 219,
         "name": "Hippiczna"
     },
     {
-        "id": 221,
+        "id": 220,
         "name": "Hubska (Dawida)"
     },
     {
-        "id": 222,
+        "id": 221,
         "name": "Husarska"
     },
     {
-        "id": 223,
+        "id": 222,
         "name": "Hutmen"
     },
     {
-        "id": 224,
+        "id": 223,
         "name": "Hynka"
     },
     {
-        "id": 225,
+        "id": 224,
         "name": "IWINY - p\u0119tla"
     },
     {
-        "id": 226,
+        "id": 225,
         "name": "Inflancka"
     },
     {
-        "id": 227,
+        "id": 226,
         "name": "Inowroc\u0142awska"
     },
     {
-        "id": 228,
+        "id": 227,
         "name": "In\u017cynierska"
     },
     {
-        "id": 229,
+        "id": 228,
         "name": "Irysowa"
     },
     {
-        "id": 230,
+        "id": 229,
         "name": "Iwiny - Brochowska/Polna"
     },
     {
-        "id": 231,
+        "id": 230,
         "name": "Iwiny - Kolejowa"
     },
     {
-        "id": 232,
+        "id": 231,
         "name": "Iwiny - Ko\u015bciuszki 21"
     },
     {
-        "id": 233,
+        "id": 232,
         "name": "Iwiny - S\u0142oneczna"
     },
     {
-        "id": 234,
+        "id": 233,
         "name": "Iwiny - rondo"
     },
     {
-        "id": 235,
+        "id": 234,
         "name": "JAN\u00d3WEK (WO\u015a)"
     },
     {
-        "id": 236,
+        "id": 235,
         "name": "JARNO\u0141T\u00d3W"
     },
     {
-        "id": 237,
+        "id": 236,
         "name": "Jagodzi\u0144ska"
     },
     {
-        "id": 238,
+        "id": 237,
         "name": "Jaksonowice (na wys. nr 27)"
     },
     {
-        "id": 239,
+        "id": 238,
         "name": "Jaksonowice - skrzy."
     },
     {
-        "id": 240,
+        "id": 239,
         "name": "Januszkowice - Wierzbowa"
     },
     {
-        "id": 241,
+        "id": 240,
         "name": "Januszkowice - Wroc\u0142awska"
     },
     {
-        "id": 242,
+        "id": 241,
         "name": "Januszkowice - skrzy. K\u0119pa"
     },
     {
-        "id": 243,
+        "id": 242,
         "name": "Jan\u00f3wek"
     },
     {
-        "id": 244,
+        "id": 243,
         "name": "Jarno\u0142towska (Samotworska)"
     },
     {
-        "id": 245,
+        "id": 244,
         "name": "Jaroci\u0144ska"
     },
     {
-        "id": 246,
+        "id": 245,
         "name": "Jarz\u0119binowa"
     },
     {
-        "id": 247,
+        "id": 246,
         "name": "Jasi\u0144skiej"
     },
     {
-        "id": 248,
+        "id": 247,
         "name": "Jastrz\u0119bia"
     },
     {
-        "id": 249,
+        "id": 248,
         "name": "Jaszkotle - Palmowa"
     },
     {
-        "id": 250,
+        "id": 249,
         "name": "Jaszkotle - ko\u015bci\u00f3\u0142"
     },
     {
-        "id": 251,
+        "id": 250,
         "name": "Jaworowa"
     },
     {
-        "id": 252,
+        "id": 251,
         "name": "Jedno\u015bci Narodowej"
     },
     {
-        "id": 253,
+        "id": 252,
         "name": "Jeleniog\u00f3rska"
     },
     {
-        "id": 254,
+        "id": 253,
         "name": "Jerzmanowo (Cmentarz I)"
     },
     {
-        "id": 255,
+        "id": 254,
         "name": "Jerzmanowo (Cmentarz II)"
     },
     {
-        "id": 256,
+        "id": 255,
         "name": "Jerzmanowo (Cmentarz)"
     },
     {
-        "id": 257,
+        "id": 256,
         "name": "Jerzmanowska nr 17"
     },
     {
-        "id": 258,
+        "id": 257,
         "name": "Jerzmanowska nr 9"
     },
     {
-        "id": 259,
+        "id": 258,
         "name": "Joannit\u00f3w"
     },
     {
-        "id": 260,
+        "id": 259,
         "name": "Jordanowska"
     },
     {
-        "id": 261,
+        "id": 260,
         "name": "Jutrosi\u0144ska"
     },
     {
-        "id": 262,
+        "id": 261,
         "name": "J\u0119drzejowska"
     },
     {
-        "id": 263,
+        "id": 262,
         "name": "KAMIE\u0143SKIEGO (p\u0119tla)"
     },
     {
-        "id": 264,
+        "id": 263,
         "name": "KAR\u0141OWICE"
     },
     {
-        "id": 265,
+        "id": 264,
         "name": "KIE\u0141CZOWSKA (LZN)"
     },
     {
-        "id": 266,
+        "id": 265,
         "name": "KLECINA"
     },
     {
-        "id": 267,
+        "id": 266,
         "name": "KLECINA (Stacja kolejowa)"
     },
     {
-        "id": 268,
+        "id": 267,
         "name": "KMINKOWA"
     },
     {
-        "id": 269,
+        "id": 268,
         "name": "KOSZAROWA (Szpital)"
     },
     {
-        "id": 270,
+        "id": 269,
         "name": "KOSZAROWA (Uniwersytet)"
     },
     {
-        "id": 271,
+        "id": 270,
         "name": "KOWALE"
     },
     {
-        "id": 272,
+        "id": 271,
         "name": "KOZAN\u00d3W"
     },
     {
-        "id": 273,
+        "id": 272,
         "name": "KOZAN\u00d3W (Dokerska)"
     },
     {
-        "id": 274,
+        "id": 273,
         "name": "KRAKOWSKA (Centrum handlowe)"
     },
     {
-        "id": 275,
+        "id": 274,
         "name": "KROMERA"
     },
     {
-        "id": 276,
+        "id": 275,
         "name": "KRZYKI"
     },
     {
-        "id": 277,
+        "id": 276,
         "name": "KRZY\u017bANOWICE"
     },
     {
-        "id": 278,
+        "id": 277,
         "name": "KSI\u0118\u017bE MA\u0141E"
     },
     {
-        "id": 279,
+        "id": 278,
         "name": "KSI\u0118\u017bE WIELKIE"
     },
     {
-        "id": 280,
+        "id": 279,
         "name": "KU\u0179NIKI"
     },
     {
-        "id": 281,
+        "id": 280,
         "name": "KU\u0179NIKI (Stacja kolejowa)"
     },
     {
-        "id": 282,
+        "id": 281,
         "name": "Kaczorowskiego"
     },
     {
-        "id": 283,
+        "id": 282,
         "name": "Kad\u0142ub N\u017b"
     },
     {
-        "id": 284,
+        "id": 283,
         "name": "Kad\u0142ub wie\u015b"
     },
     {
-        "id": 285,
+        "id": 284,
         "name": "Kad\u0142ubka"
     },
     {
-        "id": 286,
+        "id": 285,
         "name": "Kajdasza"
     },
     {
-        "id": 287,
+        "id": 286,
         "name": "Kamienna"
     },
     {
-        "id": 288,
+        "id": 287,
         "name": "Kamiennog\u00f3rska (O\u015brodek dla niewidomych)"
     },
     {
-        "id": 289,
+        "id": 288,
         "name": "Kamie\u0144 - Bursztynowa"
     },
     {
-        "id": 290,
+        "id": 289,
         "name": "Kamie\u0144 - Diamentowa"
     },
     {
-        "id": 291,
+        "id": 290,
         "name": "Kamie\u0144 - skrzy."
     },
     {
-        "id": 292,
+        "id": 291,
         "name": "Kamie\u0144 - skrzy. Diamentowa"
     },
     {
-        "id": 293,
+        "id": 292,
         "name": "Kamie\u0144 - skrzy. Kryszta\u0142owa"
     },
     {
-        "id": 294,
+        "id": 293,
         "name": "Kamie\u0144 - skrzy. Rubinowa"
     },
     {
-        "id": 295,
+        "id": 294,
         "name": "Kamie\u0144skiego"
     },
     {
-        "id": 296,
+        "id": 295,
         "name": "Kamie\u0144skiego (Szpital)"
     },
     {
-        "id": 297,
+        "id": 296,
         "name": "Karwiany - skrzy. (Wroc\u0142awska/Majowa)"
     },
     {
-        "id": 298,
+        "id": 297,
         "name": "Karwi\u0144ska"
     },
     {
-        "id": 299,
+        "id": 298,
         "name": "Kar\u0142owicza"
     },
     {
-        "id": 300,
+        "id": 299,
         "name": "Kasprowicza"
     },
     {
-        "id": 301,
+        "id": 300,
         "name": "Katedra"
     },
     {
-        "id": 302,
+        "id": 301,
         "name": "Kie\u0142czowska"
     },
     {
-        "id": 303,
+        "id": 302,
         "name": "Kie\u0142czowska (Cmentarz)"
     },
     {
-        "id": 304,
+        "id": 303,
         "name": "Kie\u0142cz\u00f3w - Akacjowa"
     },
     {
-        "id": 305,
+        "id": 304,
         "name": "Kie\u0142cz\u00f3w - Biedronka"
     },
     {
-        "id": 306,
+        "id": 305,
         "name": "Kie\u0142cz\u00f3w - Boczna"
     },
     {
-        "id": 307,
+        "id": 306,
         "name": "Kie\u0142cz\u00f3w - Mleczna"
     },
     {
-        "id": 308,
+        "id": 307,
         "name": "Kie\u0142cz\u00f3w - Rzeczna"
     },
     {
-        "id": 309,
+        "id": 308,
         "name": "Kie\u0142cz\u00f3w - Sosnowa"
     },
     {
-        "id": 310,
+        "id": 309,
         "name": "Kie\u0142cz\u00f3w - WODROL"
     },
     {
-        "id": 311,
+        "id": 310,
         "name": "Kie\u0142cz\u00f3w - Wroc\u0142awska"
     },
     {
-        "id": 312,
+        "id": 311,
         "name": "Kie\u0142cz\u00f3w - Zgodna"
     },
     {
-        "id": 313,
+        "id": 312,
         "name": "Kie\u0142cz\u00f3w - cmentarz"
     },
     {
-        "id": 314,
+        "id": 313,
         "name": "Kie\u0142cz\u00f3w - osiedle"
     },
     {
-        "id": 315,
+        "id": 314,
         "name": "Kie\u0142cz\u00f3w - p\u0119tla (Plac Jana Gdaka)"
     },
     {
-        "id": 316,
+        "id": 315,
         "name": "Kie\u0142cz\u00f3w - p\u0119tla/Wroc\u0142awska"
     },
     {
-        "id": 317,
+        "id": 316,
         "name": "Kie\u0142cz\u00f3w - \u0141adna"
     },
     {
-        "id": 318,
+        "id": 317,
         "name": "Kie\u0142cz\u00f3wek"
     },
     {
-        "id": 319,
+        "id": 318,
         "name": "Kie\u0142cz\u00f3wek - Sielska Zagroda"
     },
     {
-        "id": 320,
+        "id": 319,
         "name": "Kie\u0142cz\u00f3wek - p\u0119tla"
     },
     {
-        "id": 321,
+        "id": 320,
         "name": "Kie\u0142cz\u00f3wek - skrzy. Imbirowa"
     },
     {
-        "id": 322,
+        "id": 321,
         "name": "Klasztorna"
     },
     {
-        "id": 323,
+        "id": 322,
         "name": "Kleczkowska"
     },
     {
-        "id": 324,
+        "id": 323,
         "name": "Klimasa"
     },
     {
-        "id": 325,
+        "id": 324,
         "name": "Kliniki - Politechnika Wroc\u0142awska"
     },
     {
-        "id": 326,
+        "id": 325,
         "name": "Kl\u0119ka"
     },
     {
-        "id": 327,
+        "id": 326,
         "name": "Kmieca"
     },
     {
-        "id": 328,
+        "id": 327,
         "name": "Kochanowskiego"
     },
     {
-        "id": 329,
+        "id": 328,
         "name": "Kolbuszowska (Stadion)"
     },
     {
-        "id": 330,
+        "id": 329,
         "name": "Kolejowa"
     },
     {
-        "id": 331,
+        "id": 330,
         "name": "Kolista"
     },
     {
-        "id": 332,
+        "id": 331,
         "name": "Kolumba"
     },
     {
-        "id": 333,
+        "id": 332,
         "name": "Komandorska"
     },
     {
-        "id": 334,
+        "id": 333,
         "name": "Kominiarska"
     },
     {
-        "id": 335,
+        "id": 334,
         "name": "Kominiarska (plac sportowy)"
     },
     {
-        "id": 336,
+        "id": 335,
         "name": "Komorowice"
     },
     {
-        "id": 337,
+        "id": 336,
         "name": "Komuny Paryskiej"
     },
     {
-        "id": 338,
+        "id": 337,
         "name": "Komuny Paryskiej (szko\u0142a)"
     },
     {
-        "id": 339,
+        "id": 338,
         "name": "Konduktorska"
     },
     {
-        "id": 340,
+        "id": 339,
         "name": "Konopackiej"
     },
     {
-        "id": 341,
+        "id": 340,
         "name": "Kopa\u0144skiego"
     },
     {
-        "id": 342,
+        "id": 341,
         "name": "Kosmonaut\u00f3w (Szpital)"
     },
     {
-        "id": 343,
+        "id": 342,
         "name": "Koszarowa"
     },
     {
-        "id": 344,
+        "id": 343,
         "name": "Kowale (Stacja kolejowa)"
     },
     {
-        "id": 345,
+        "id": 344,
         "name": "Kowalska"
     },
     {
-        "id": 346,
+        "id": 345,
         "name": "Kowalska 56"
     },
     {
-        "id": 347,
+        "id": 346,
         "name": "Kowalska I"
     },
     {
-        "id": 348,
+        "id": 347,
         "name": "Kowie\u0144ska"
     },
     {
-        "id": 349,
+        "id": 348,
         "name": "Kozanowska"
     },
     {
-        "id": 350,
+        "id": 349,
         "name": "Kozia"
     },
     {
-        "id": 351,
+        "id": 350,
         "name": "Ko\u0142obrzeska"
     },
     {
-        "id": 352,
+        "id": 351,
         "name": "Ko\u0144cowa"
     },
     {
-        "id": 353,
+        "id": 352,
         "name": "Ko\u015bcielna"
     },
     {
-        "id": 354,
+        "id": 353,
         "name": "Ko\u015bciuszki"
     },
     {
-        "id": 355,
+        "id": 354,
         "name": "Ko\u015bnego (Jarno\u0142towska)"
     },
     {
-        "id": 356,
+        "id": 355,
         "name": "Ko\u015bnego (Jerzmanowska)"
     },
     {
-        "id": 357,
+        "id": 356,
         "name": "Krajobrazowa"
     },
     {
-        "id": 358,
+        "id": 357,
         "name": "Krakowiany - skrzy."
     },
     {
-        "id": 359,
+        "id": 358,
         "name": "Krakowska"
     },
     {
-        "id": 360,
+        "id": 359,
         "name": "Krasi\u0144skiego"
     },
     {
-        "id": 361,
+        "id": 360,
         "name": "Kromera (Czajkowskiego)"
     },
     {
-        "id": 362,
+        "id": 361,
         "name": "Krucza"
     },
     {
-        "id": 363,
+        "id": 362,
         "name": "Krucza (Mielecka)"
     },
     {
-        "id": 364,
+        "id": 363,
         "name": "Krynicka"
     },
     {
-        "id": 365,
+        "id": 364,
         "name": "Krzemieniecka"
     },
     {
-        "id": 366,
+        "id": 365,
         "name": "Krzeptowska"
     },
     {
-        "id": 367,
+        "id": 366,
         "name": "Krzept\u00f3w - Boisko"
     },
     {
-        "id": 368,
+        "id": 367,
         "name": "Krzept\u00f3w - Dolina Krzeptowa"
     },
     {
-        "id": 369,
+        "id": 368,
         "name": "Krzept\u00f3w - p\u0119tla"
     },
     {
-        "id": 370,
+        "id": 369,
         "name": "Krzept\u00f3w - skrzy."
     },
     {
-        "id": 371,
+        "id": 370,
         "name": "Kr\u00f3lewiecka"
     },
     {
-        "id": 372,
+        "id": 371,
         "name": "Kr\u00f3lewiecka (Park)"
     },
     {
-        "id": 373,
+        "id": 372,
         "name": "Kr\u00f3lewiecka (Staw)"
     },
     {
-        "id": 374,
+        "id": 373,
         "name": "Kr\u00f3lewska"
     },
     {
-        "id": 375,
+        "id": 374,
         "name": "Kr\u0119pice"
     },
     {
-        "id": 376,
+        "id": 375,
         "name": "Kr\u0119pice - Wroc\u0142awska"
     },
     {
-        "id": 377,
+        "id": 376,
         "name": "Kr\u0119picka"
     },
     {
-        "id": 378,
+        "id": 377,
         "name": "Kr\u0119picka - szko\u0142a"
     },
     {
-        "id": 379,
+        "id": 378,
         "name": "Ksi\u0119ginice P&amp;R"
     },
     {
-        "id": 380,
+        "id": 379,
         "name": "Ksi\u0119ginice ul. Sportowa"
     },
     {
-        "id": 381,
+        "id": 380,
         "name": "Ksi\u0119ska"
     },
     {
-        "id": 382,
+        "id": 381,
         "name": "Kurlandzka"
     },
     {
-        "id": 383,
+        "id": 382,
         "name": "Kurpi\u00f3w"
     },
     {
-        "id": 384,
+        "id": 383,
         "name": "Kutrzeby"
     },
     {
-        "id": 385,
+        "id": 384,
         "name": "Kwiatkowskiego"
     },
     {
-        "id": 386,
+        "id": 385,
         "name": "Kwiatkowskiego (Rondo)"
     },
     {
-        "id": 387,
+        "id": 386,
         "name": "Kwidzy\u0144ska"
     },
     {
-        "id": 388,
+        "id": 387,
         "name": "Kwiska"
     },
     {
-        "id": 389,
+        "id": 388,
         "name": "K\u0105tna"
     },
     {
-        "id": 390,
+        "id": 389,
         "name": "K\u0105towa"
     },
     {
-        "id": 391,
+        "id": 390,
         "name": "K\u0119b\u0142owice"
     },
     {
-        "id": 392,
+        "id": 391,
         "name": "K\u0119pa Mieszcza\u0144ska"
     },
     {
-        "id": 393,
+        "id": 392,
         "name": "K\u0119pi\u0144ska"
     },
     {
-        "id": 394,
+        "id": 393,
         "name": "K\u0119trzy\u0144ska"
     },
     {
-        "id": 395,
+        "id": 394,
         "name": "K\u0141OKOCZYCE"
     },
     {
-        "id": 396,
+        "id": 395,
         "name": "LE\u015aNICA"
     },
     {
-        "id": 397,
+        "id": 396,
         "name": "LITEWSKA"
     },
     {
-        "id": 398,
+        "id": 397,
         "name": "LITOMSKA (ZUS)"
     },
     {
-        "id": 399,
+        "id": 398,
         "name": "Las Mokrza\u0144ski"
     },
     {
-        "id": 400,
+        "id": 399,
         "name": "Las Osobowicki"
     },
     {
-        "id": 401,
+        "id": 400,
         "name": "Las Raty\u0144ski"
     },
     {
-        "id": 402,
+        "id": 401,
         "name": "Lawendowa"
     },
     {
-        "id": 403,
+        "id": 402,
         "name": "Lekarska"
     },
     {
-        "id": 404,
+        "id": 403,
         "name": "Le\u015bnica - Hermes"
     },
     {
-        "id": 405,
+        "id": 404,
         "name": "Libelta"
     },
     {
-        "id": 406,
+        "id": 405,
         "name": "Lipa Piotrowska"
     },
     {
-        "id": 407,
+        "id": 406,
         "name": "Lipska"
     },
     {
-        "id": 408,
+        "id": 407,
         "name": "Lubelska"
     },
     {
-        "id": 409,
+        "id": 408,
         "name": "Lubiat\u00f3w"
     },
     {
-        "id": 410,
+        "id": 409,
         "name": "Lutos\u0142awskiego"
     },
     {
-        "id": 411,
+        "id": 410,
         "name": "Lutynia - Kolonia"
     },
     {
-        "id": 412,
+        "id": 411,
         "name": "Lutynia - Stra\u017c"
     },
     {
-        "id": 413,
+        "id": 412,
         "name": "Lutynia Centrum"
     },
     {
-        "id": 414,
+        "id": 413,
         "name": "Lutynia I"
     },
     {
-        "id": 415,
+        "id": 414,
         "name": "Lutynia Osiedle ul. Wschodnia"
     },
     {
-        "id": 416,
+        "id": 415,
         "name": "Lutynia Rondo"
     },
     {
-        "id": 417,
+        "id": 416,
         "name": "METALOWC\u00d3W (O\u015brodek sportu)"
     },
     {
-        "id": 418,
+        "id": 417,
         "name": "MI\u0143SKA (Rondo Rotm. Pileckiego)"
     },
     {
-        "id": 419,
+        "id": 418,
         "name": "MOKRY DW\u00d3R"
     },
     {
-        "id": 420,
+        "id": 419,
         "name": "MUCHOB\u00d3R MA\u0141Y (Stacja kolejowa)"
     },
     {
-        "id": 421,
+        "id": 420,
         "name": "MULICKA"
     },
     {
-        "id": 422,
+        "id": 421,
         "name": "Magellana"
     },
     {
-        "id": 423,
+        "id": 422,
         "name": "Malinowa"
     },
     {
-        "id": 424,
+        "id": 423,
         "name": "Malinowskiego"
     },
     {
-        "id": 425,
+        "id": 424,
         "name": "Malwowa"
     },
     {
-        "id": 426,
+        "id": 425,
         "name": "Marcepanowa"
     },
     {
-        "id": 427,
+        "id": 426,
         "name": "Marchewkowa"
     },
     {
-        "id": 428,
+        "id": 427,
         "name": "Marszowice"
     },
     {
-        "id": 429,
+        "id": 428,
         "name": "Marszowicka"
     },
     {
-        "id": 430,
+        "id": 429,
         "name": "Ma\u0142kowice - G\u0142\u00f3wna"
     },
     {
-        "id": 431,
+        "id": 430,
         "name": "Ma\u0142omicka"
     },
     {
-        "id": 432,
+        "id": 431,
         "name": "Ma\u0142opanewska"
     },
     {
-        "id": 433,
+        "id": 432,
         "name": "Ma\u0142opolska (O\u015brodek dla niewidomych)"
     },
     {
-        "id": 434,
+        "id": 433,
         "name": "Ma\u015blice Ma\u0142e (Brodnicka)"
     },
     {
-        "id": 435,
+        "id": 434,
         "name": "Ma\u015blicka (Osiedle)"
     },
     {
-        "id": 436,
+        "id": 435,
         "name": "Ma\u015blicka (Staw)"
     },
     {
-        "id": 437,
+        "id": 436,
         "name": "Metalowc\u00f3w"
     },
     {
-        "id": 438,
+        "id": 437,
         "name": "Michalczyka"
     },
     {
-        "id": 439,
+        "id": 438,
         "name": "Mickiewicza"
     },
     {
-        "id": 440,
+        "id": 439,
         "name": "Mielecka"
     },
     {
-        "id": 441,
+        "id": 440,
         "name": "Miko\u0142owska"
     },
     {
-        "id": 442,
+        "id": 441,
         "name": "Milenijna (Hala Orbita)"
     },
     {
-        "id": 443,
+        "id": 442,
         "name": "Milicka"
     },
     {
-        "id": 444,
+        "id": 443,
         "name": "Miodowa"
     },
     {
-        "id": 445,
+        "id": 444,
         "name": "Mirk\u00f3w - Jagiello\u0144ska"
     },
     {
-        "id": 446,
+        "id": 445,
         "name": "Mirk\u00f3w - Kie\u0142czowska (na wys. nr 14)"
     },
     {
-        "id": 447,
+        "id": 446,
         "name": "Mirk\u00f3w - Sportowa"
     },
     {
-        "id": 448,
+        "id": 447,
         "name": "Mirk\u00f3w - skrzy. Polna"
     },
     {
-        "id": 449,
+        "id": 448,
         "name": "Mi\u0119dzyrzecka"
     },
     {
-        "id": 450,
+        "id": 449,
         "name": "Mi\u0119kinia - Urz\u0105d Gminy"
     },
     {
-        "id": 451,
+        "id": 450,
         "name": "Mi\u0119kinia - p\u0119tla"
     },
     {
-        "id": 452,
+        "id": 451,
         "name": "Mi\u0119kinia - stacja PKP"
     },
     {
-        "id": 453,
+        "id": 452,
         "name": "Mi\u0119kinia Cegielnia"
     },
     {
-        "id": 454,
+        "id": 453,
         "name": "Mi\u0142oszycka"
     },
     {
-        "id": 455,
+        "id": 454,
         "name": "Mochnackiego"
     },
     {
-        "id": 456,
+        "id": 455,
         "name": "Modli\u0144ska"
     },
     {
-        "id": 457,
+        "id": 456,
         "name": "Modra"
     },
     {
-        "id": 458,
+        "id": 457,
         "name": "Mokra"
     },
     {
-        "id": 459,
+        "id": 458,
         "name": "Mokronos Dolny - Parkowa/Stawowa"
     },
     {
-        "id": 460,
+        "id": 459,
         "name": "Mokronos Dolny - Stawowa/Szcz\u0119\u015bliwa"
     },
     {
-        "id": 461,
+        "id": 460,
         "name": "Mokronos G\u00f3rny - Wroc\u0142awska/Gwarna"
     },
     {
-        "id": 462,
+        "id": 461,
         "name": "Mokry Dw\u00f3r - Starodworska"
     },
     {
-        "id": 463,
+        "id": 462,
         "name": "Mokrza\u0144ska"
     },
     {
-        "id": 464,
+        "id": 463,
         "name": "Moniuszki"
     },
     {
-        "id": 465,
+        "id": 464,
         "name": "Monopolowa"
     },
     {
-        "id": 466,
+        "id": 465,
         "name": "Monte Cassino"
     },
     {
-        "id": 467,
+        "id": 466,
         "name": "Morelowskiego"
     },
     {
-        "id": 468,
+        "id": 467,
         "name": "Morwowa"
     },
     {
-        "id": 469,
+        "id": 468,
         "name": "Mosty Pomorskie"
     },
     {
-        "id": 470,
+        "id": 469,
         "name": "Mosty Warszawskie"
     },
     {
-        "id": 471,
+        "id": 470,
         "name": "Mroz\u00f3w - Wyzwolenia"
     },
     {
-        "id": 472,
+        "id": 471,
         "name": "Mroz\u00f3w - \u015awietlica"
     },
     {
-        "id": 473,
+        "id": 472,
         "name": "Mro\u017ana"
     },
     {
-        "id": 474,
+        "id": 473,
         "name": "Muchob\u00f3r Wielki"
     },
     {
-        "id": 475,
+        "id": 474,
         "name": "Muchob\u00f3r Wielki (Ro\u015blinna)"
     },
     {
-        "id": 476,
+        "id": 475,
         "name": "M\u0142odych Technik\u00f3w"
     },
     {
-        "id": 477,
+        "id": 476,
         "name": "most Grunwaldzki"
     },
     {
-        "id": 478,
+        "id": 477,
         "name": "most Milenijny"
     },
     {
-        "id": 479,
+        "id": 478,
         "name": "most Osobowicki"
     },
     {
-        "id": 480,
+        "id": 479,
         "name": "Na Grobli (Hydropolis)"
     },
     {
-        "id": 481,
+        "id": 480,
         "name": "Na Niskich \u0141\u0105kach"
     },
     {
-        "id": 482,
+        "id": 481,
         "name": "Na Ostatnim Groszu"
     },
     {
-        "id": 483,
+        "id": 482,
         "name": "Na Sza\u0144cach"
     },
     {
-        "id": 484,
+        "id": 483,
         "name": "Narodowe Forum Muzyki"
     },
     {
-        "id": 485,
+        "id": 484,
         "name": "Niedzia\u0142kowskiego"
     },
     {
-        "id": 486,
+        "id": 485,
         "name": "Nied\u017awiedzia"
     },
     {
-        "id": 487,
+        "id": 486,
         "name": "Nowa Wie\u015b Wr. - Relaksowa (na wys. nr 13)"
     },
     {
-        "id": 488,
+        "id": 487,
         "name": "Nowa Wie\u015b Wr. - p\u0119tla"
     },
     {
-        "id": 489,
+        "id": 488,
         "name": "Nowodworska"
     },
     {
-        "id": 490,
+        "id": 489,
         "name": "Nowowiejska"
     },
     {
-        "id": 491,
+        "id": 490,
         "name": "Nowy Dom"
     },
     {
-        "id": 492,
+        "id": 491,
         "name": "Nyska"
     },
     {
-        "id": 493,
+        "id": 492,
         "name": "OPATOWICE"
     },
     {
-        "id": 494,
+        "id": 493,
         "name": "OPOR\u00d3W"
     },
     {
-        "id": 495,
+        "id": 494,
         "name": "OSIEDLE SOBIESKIEGO"
     },
     {
-        "id": 496,
+        "id": 495,
         "name": "OSOBOWICE"
     },
     {
-        "id": 497,
+        "id": 496,
         "name": "OSOBOWICKA (Cmentarz II)"
     },
     {
-        "id": 498,
+        "id": 497,
         "name": "OSOBOWICKA (Cmentarz)"
     },
     {
-        "id": 499,
+        "id": 498,
         "name": "Obornicka (Obwodnica)"
     },
     {
-        "id": 500,
+        "id": 499,
         "name": "Obornicka (Wo\u0142owska)"
     },
     {
-        "id": 501,
+        "id": 500,
         "name": "Obo\u017ana"
     },
     {
-        "id": 502,
+        "id": 501,
         "name": "Odolanowska"
     },
     {
-        "id": 503,
+        "id": 502,
         "name": "Odrodzenia Polski"
     },
     {
-        "id": 504,
+        "id": 503,
         "name": "Ogr\u00f3d Botaniczny"
     },
     {
-        "id": 505,
+        "id": 504,
         "name": "Ojca Beyzyma"
     },
     {
-        "id": 506,
+        "id": 505,
         "name": "Okrzei"
     },
     {
-        "id": 507,
+        "id": 506,
         "name": "Ok\u00f3lna"
     },
     {
-        "id": 508,
+        "id": 507,
         "name": "Olbrachtowska"
     },
     {
-        "id": 509,
+        "id": 508,
         "name": "Ole\u015bniczka"
     },
     {
-        "id": 510,
+        "id": 509,
         "name": "Ole\u015bniczka - skrzy."
     },
     {
-        "id": 511,
+        "id": 510,
         "name": "Olszty\u0144ska"
     },
     {
-        "id": 512,
+        "id": 511,
         "name": "Opatowicka nr 127"
     },
     {
-        "id": 513,
+        "id": 512,
         "name": "Opatowicka nr 59"
     },
     {
-        "id": 514,
+        "id": 513,
         "name": "Opatowicka nr 85"
     },
     {
-        "id": 515,
+        "id": 514,
         "name": "Opera"
     },
     {
-        "id": 516,
+        "id": 515,
         "name": "Orla"
     },
     {
-        "id": 517,
+        "id": 516,
         "name": "Orli\u0144skiego"
     },
     {
-        "id": 518,
+        "id": 517,
         "name": "Orzechowa"
     },
     {
-        "id": 519,
+        "id": 518,
         "name": "Os. Przyja\u017ani"
     },
     {
-        "id": 520,
+        "id": 519,
         "name": "Osiniecka"
     },
     {
-        "id": 521,
+        "id": 520,
         "name": "Ossolineum (Uniwersytecka)"
     },
     {
-        "id": 522,
+        "id": 521,
         "name": "Ostowa (Muzeum Militarne)"
     },
     {
-        "id": 523,
+        "id": 522,
         "name": "Ostrowskiego"
     },
     {
-        "id": 524,
+        "id": 523,
         "name": "Oty\u0144ska"
     },
     {
-        "id": 525,
+        "id": 524,
         "name": "Owczarska"
     },
     {
-        "id": 526,
+        "id": 525,
         "name": "O\u0142awska"
     },
     {
-        "id": 527,
+        "id": 526,
         "name": "O\u0142taszyn"
     },
     {
-        "id": 528,
+        "id": 527,
         "name": "O\u017cynowa"
     },
     {
-        "id": 529,
+        "id": 528,
         "name": "PARK PO\u0141UDNIOWY"
     },
     {
-        "id": 530,
+        "id": 529,
         "name": "PAW\u0141OWICE (Widawska)"
     },
     {
-        "id": 531,
+        "id": 530,
         "name": "PETRUSEWICZA"
     },
     {
-        "id": 532,
+        "id": 531,
         "name": "PILCZYCE"
     },
     {
-        "id": 533,
+        "id": 532,
         "name": "PL. GRUNWALDZKI"
     },
     {
-        "id": 534,
+        "id": 533,
         "name": "PL. JANA PAW\u0141A II"
     },
     {
-        "id": 535,
+        "id": 534,
         "name": "PL. SOLIDARNO\u015aCI"
     },
     {
-        "id": 536,
+        "id": 535,
         "name": "PL. STASZICA"
     },
     {
-        "id": 537,
+        "id": 536,
         "name": "POLANOWICE"
     },
     {
-        "id": 538,
+        "id": 537,
         "name": "PORT LOTNICZY"
     },
     {
-        "id": 539,
+        "id": 538,
         "name": "PO\u015aWI\u0118CKA (O\u015brodek zdrowia)"
     },
     {
-        "id": 540,
+        "id": 539,
         "name": "PO\u015aWI\u0118TNE"
     },
     {
-        "id": 541,
+        "id": 540,
         "name": "PRACZE ODRZA\u0143SKIE"
     },
     {
-        "id": 542,
+        "id": 541,
         "name": "PRACZE ODRZA\u0143SKIE (Stacja kolejowa)"
     },
     {
-        "id": 543,
+        "id": 542,
         "name": "PRACZE WIDAWSKIE"
     },
     {
-        "id": 544,
+        "id": 543,
         "name": "PSIE POLE (Stacja kolejowa)"
     },
     {
-        "id": 545,
+        "id": 544,
         "name": "Palacha"
     },
     {
-        "id": 546,
+        "id": 545,
         "name": "Paprotna"
     },
     {
-        "id": 547,
+        "id": 546,
         "name": "Parafialna"
     },
     {
-        "id": 548,
+        "id": 547,
         "name": "Park Biznesu"
     },
     {
-        "id": 549,
+        "id": 548,
         "name": "Park Brochowski"
     },
     {
-        "id": 550,
+        "id": 549,
         "name": "Park Popowicki"
     },
     {
-        "id": 551,
+        "id": 550,
         "name": "Park Stab\u0142owicki"
     },
     {
-        "id": 552,
+        "id": 551,
         "name": "Park Staromiejski"
     },
     {
-        "id": 553,
+        "id": 552,
         "name": "Park Szczytnicki"
     },
     {
-        "id": 554,
+        "id": 553,
         "name": "Park Tysi\u0105clecia"
     },
     {
-        "id": 555,
+        "id": 554,
         "name": "Park Wschodni"
     },
     {
-        "id": 556,
+        "id": 555,
         "name": "Park Zachodni"
     },
     {
-        "id": 557,
+        "id": 556,
         "name": "Partynice (tor wy\u015bcig\u00f3w konnych)"
     },
     {
-        "id": 558,
+        "id": 557,
         "name": "Partyzant\u00f3w"
     },
     {
-        "id": 559,
+        "id": 558,
         "name": "Pasikurowice - Energetyczna"
     },
     {
-        "id": 560,
+        "id": 559,
         "name": "Pasikurowice - Wroc\u0142awska (na wys. nr 14)"
     },
     {
-        "id": 561,
+        "id": 560,
         "name": "Pasikurowice - cmentarz"
     },
     {
-        "id": 562,
+        "id": 561,
         "name": "Pasikurowice - n/\u017c"
     },
     {
-        "id": 563,
+        "id": 562,
         "name": "Pasikurowice - skrzy. Malinowa"
     },
     {
-        "id": 564,
+        "id": 563,
         "name": "Pauli\u0144ska"
     },
     {
-        "id": 565,
+        "id": 564,
         "name": "Paw\u0142owice"
     },
     {
-        "id": 566,
+        "id": 565,
         "name": "Paw\u0142owicka"
     },
     {
-        "id": 567,
+        "id": 566,
         "name": "Pereca"
     },
     {
-        "id": 568,
+        "id": 567,
         "name": "Perzowa"
     },
     {
-        "id": 569,
+        "id": 568,
         "name": "Pe\u0142czy\u0144ska (Stacja kolejowa)"
     },
     {
-        "id": 570,
+        "id": 569,
         "name": "Piastowska"
     },
     {
-        "id": 571,
+        "id": 570,
         "name": "Piecowice"
     },
     {
-        "id": 572,
+        "id": 571,
         "name": "Pietrzykowice"
     },
     {
-        "id": 573,
+        "id": 572,
         "name": "Pietrzykowice - Sportowa/G\u0142\u00f3wna"
     },
     {
-        "id": 574,
+        "id": 573,
         "name": "Pietrzykowice - Sportowa/p\u0119tla"
     },
     {
-        "id": 575,
+        "id": 574,
         "name": "Pietrzykowice - Wroc\u0142awska/Stawowa"
     },
     {
-        "id": 576,
+        "id": 575,
         "name": "Pietrzykowice - zak\u0142ad"
     },
     {
-        "id": 577,
+        "id": 576,
         "name": "Pilczycka (Anima)"
     },
     {
-        "id": 578,
+        "id": 577,
         "name": "Pio\u0142unowa"
     },
     {
-        "id": 579,
+        "id": 578,
         "name": "Piramowicza (Kampus Biskupin)"
     },
     {
-        "id": 580,
+        "id": 579,
         "name": "Pisarzowice - Graniczna"
     },
     {
-        "id": 581,
+        "id": 580,
         "name": "Pisarzowice - Kolejowa"
     },
     {
-        "id": 582,
+        "id": 581,
         "name": "Pisarzowice - Odrza\u0144ska"
     },
     {
-        "id": 583,
+        "id": 582,
         "name": "Pisarzowice - Szkolna"
     },
     {
-        "id": 584,
+        "id": 583,
         "name": "Piwnika-Ponurego"
     },
     {
-        "id": 585,
+        "id": 584,
         "name": "Pi\u0142sudskiego"
     },
     {
-        "id": 586,
+        "id": 585,
         "name": "Pl. Hirszfelda"
     },
     {
-        "id": 587,
+        "id": 586,
         "name": "Poczta G\u0142\u00f3wna"
     },
     {
-        "id": 588,
+        "id": 587,
         "name": "Pola"
     },
     {
-        "id": 589,
+        "id": 588,
         "name": "Poleska"
     },
     {
-        "id": 590,
+        "id": 589,
         "name": "Polkowicka"
     },
     {
-        "id": 591,
+        "id": 590,
         "name": "Pomorska"
     },
     {
-        "id": 592,
+        "id": 591,
         "name": "Poprzeczna"
     },
     {
-        "id": 593,
+        "id": 592,
         "name": "Port Popowice"
     },
     {
-        "id": 594,
+        "id": 593,
         "name": "Po\u0142abian"
     },
     {
-        "id": 595,
+        "id": 594,
         "name": "Po\u015bwi\u0119cka"
     },
     {
-        "id": 596,
+        "id": 595,
         "name": "Prudnicka"
     },
     {
-        "id": 597,
+        "id": 596,
         "name": "Prusa"
     },
     {
-        "id": 598,
+        "id": 597,
         "name": "Pruszowice"
     },
     {
-        "id": 599,
+        "id": 598,
         "name": "Pruszowice - las"
     },
     {
-        "id": 600,
+        "id": 599,
         "name": "Przebi\u015bniegowa"
     },
     {
-        "id": 601,
+        "id": 600,
         "name": "Przedwio\u015bnie (Stacja kolejowa)"
     },
     {
-        "id": 602,
+        "id": 601,
         "name": "Przybyszewskiego"
     },
     {
-        "id": 603,
+        "id": 602,
         "name": "Przyby\u0142y"
     },
     {
-        "id": 604,
+        "id": 603,
         "name": "Przyja\u017ani"
     },
     {
-        "id": 605,
+        "id": 604,
         "name": "Przystankowa"
     },
     {
-        "id": 606,
+        "id": 605,
         "name": "Psary - Parkowa"
     },
     {
-        "id": 607,
+        "id": 606,
         "name": "Psary - Szko\u0142a"
     },
     {
-        "id": 608,
+        "id": 607,
         "name": "Psary - Wolno\u015bci"
     },
     {
-        "id": 609,
+        "id": 608,
         "name": "Psie Pole"
     },
     {
-        "id": 610,
+        "id": 609,
         "name": "Psie Pole (Gorlicka)"
     },
     {
-        "id": 611,
+        "id": 610,
         "name": "Psie Pole (Rondo Lotnik\u00f3w Polskich)"
     },
     {
-        "id": 612,
+        "id": 611,
         "name": "Pustecka"
     },
     {
-        "id": 613,
+        "id": 612,
         "name": "Pu\u0142askiego"
     },
     {
-        "id": 614,
+        "id": 613,
         "name": "Pu\u0142tuska"
     },
     {
-        "id": 615,
+        "id": 614,
         "name": "P\u00f3\u0142nocna"
     },
     {
-        "id": 616,
+        "id": 615,
         "name": "P\u0142aska"
     },
     {
-        "id": 617,
+        "id": 616,
         "name": "pl. Bema"
     },
     {
-        "id": 618,
+        "id": 617,
         "name": "pl. Dani\u0142owskiego"
     },
     {
-        "id": 619,
+        "id": 618,
         "name": "pl. Legion\u00f3w"
     },
     {
-        "id": 620,
+        "id": 619,
         "name": "pl. Nowy Targ"
     },
     {
-        "id": 621,
+        "id": 620,
         "name": "pl. Orl\u0105t Lwowskich"
     },
     {
-        "id": 622,
+        "id": 621,
         "name": "pl. Srebrny"
     },
     {
-        "id": 623,
+        "id": 622,
         "name": "pl. Strzegomski (Muzeum Wsp\u00f3\u0142czesne)"
     },
     {
-        "id": 624,
+        "id": 623,
         "name": "pl. Strzelecki"
     },
     {
-        "id": 625,
+        "id": 624,
         "name": "pl. Wr\u00f3blewskiego"
     },
     {
-        "id": 626,
+        "id": 625,
         "name": "pl. Zgody (Muzeum Etnograficzne)"
     },
     {
-        "id": 627,
+        "id": 626,
         "name": "RAC\u0141AWICKA"
     },
     {
-        "id": 628,
+        "id": 627,
         "name": "RATY\u0143"
     },
     {
-        "id": 629,
+        "id": 628,
         "name": "ROD Bajki"
     },
     {
-        "id": 630,
+        "id": 629,
         "name": "ROD Bielany"
     },
     {
-        "id": 631,
+        "id": 630,
         "name": "ROD Mieczyk"
     },
     {
-        "id": 632,
+        "id": 631,
         "name": "ROD O\u015bwiata"
     },
     {
-        "id": 633,
+        "id": 632,
         "name": "ROD Pod D\u0119bem"
     },
     {
-        "id": 634,
+        "id": 633,
         "name": "ROD Storczyk"
     },
     {
-        "id": 635,
+        "id": 634,
         "name": "ROD Zgoda"
     },
     {
-        "id": 636,
+        "id": 635,
         "name": "ROD \u0179r\u00f3d\u0142o Zdrowia"
     },
     {
-        "id": 637,
+        "id": 636,
         "name": "RUBCZAKA (Stacja kolejowa)"
     },
     {
-        "id": 638,
+        "id": 637,
         "name": "Rac\u0142awicka (szko\u0142a)"
     },
     {
-        "id": 639,
+        "id": 638,
         "name": "Radakowice - \u015awietlica"
     },
     {
-        "id": 640,
+        "id": 639,
         "name": "Radio i Telewizja"
     },
     {
-        "id": 641,
+        "id": 640,
         "name": "Rakowiecka"
     },
     {
-        "id": 642,
+        "id": 641,
         "name": "Rak\u00f3w - osiedle"
     },
     {
-        "id": 643,
+        "id": 642,
         "name": "Rak\u00f3w - skrzy."
     },
     {
-        "id": 644,
+        "id": 643,
         "name": "Rak\u00f3w I"
     },
     {
-        "id": 645,
+        "id": 644,
         "name": "Rak\u00f3w II"
     },
     {
-        "id": 646,
+        "id": 645,
         "name": "Rak\u00f3w III"
     },
     {
-        "id": 647,
+        "id": 646,
         "name": "Rak\u00f3w IV"
     },
     {
-        "id": 648,
+        "id": 647,
         "name": "Ramisz\u00f3w"
     },
     {
-        "id": 649,
+        "id": 648,
         "name": "Ramisz\u00f3w Stacja"
     },
     {
-        "id": 650,
+        "id": 649,
         "name": "Raty\u0144 - skrzy\u017cowanie"
     },
     {
-        "id": 651,
+        "id": 650,
         "name": "Rdestowa"
     },
     {
-        "id": 652,
+        "id": 651,
         "name": "Redycka"
     },
     {
-        "id": 653,
+        "id": 652,
         "name": "Reja"
     },
     {
-        "id": 654,
+        "id": 653,
         "name": "Renoma"
     },
     {
-        "id": 655,
+        "id": 654,
         "name": "Rod\u0142a"
     },
     {
-        "id": 656,
+        "id": 655,
         "name": "Rogowska (O\u015brodek sportu)"
     },
     {
-        "id": 657,
+        "id": 656,
         "name": "Rogowska (P+R)"
     },
     {
-        "id": 658,
+        "id": 657,
         "name": "Rogowska (ogrody dzia\u0142kowe)"
     },
     {
-        "id": 659,
+        "id": 658,
         "name": "Rondo"
     },
     {
-        "id": 660,
+        "id": 659,
         "name": "Rondo Obro\u0144c\u00f3w Grodna"
     },
     {
-        "id": 661,
+        "id": 660,
         "name": "Rubczaka"
     },
     {
-        "id": 662,
+        "id": 661,
         "name": "Rymarska"
     },
     {
-        "id": 663,
+        "id": 662,
         "name": "Rynek"
     },
     {
-        "id": 664,
+        "id": 663,
         "name": "Rzemie\u015blnicza"
     },
     {
-        "id": 665,
+        "id": 664,
         "name": "Rzeplin - Al. Lipowa "
     },
     {
-        "id": 666,
+        "id": 665,
         "name": "Rzeplin - p\u0119tla"
     },
     {
-        "id": 667,
+        "id": 666,
         "name": "R\u00f3\u017canka"
     },
     {
-        "id": 668,
+        "id": 667,
         "name": "R\u0118DZIN"
     },
     {
-        "id": 669,
+        "id": 668,
         "name": "R\u0118DZI\u0143SKA"
     },
     {
-        "id": 670,
+        "id": 669,
         "name": "R\u0119dzi\u0144ska (Cmentarz)"
     },
     {
-        "id": 671,
+        "id": 670,
         "name": "R\u0119kodzielnicza"
     },
     {
-        "id": 672,
+        "id": 671,
         "name": "rondo \u015aw. Ojca Pio"
     },
     {
-        "id": 673,
+        "id": 672,
         "name": "SO\u0141TYSOWICE"
     },
     {
-        "id": 674,
+        "id": 673,
         "name": "SPISKA (O\u015brodek sportu)"
     },
     {
-        "id": 675,
+        "id": 674,
         "name": "STAB\u0141OWICKA (O\u015brodek zdrowia)"
     },
     {
-        "id": 676,
+        "id": 675,
         "name": "SZYMAN\u00d3W-p\u0119tla"
     },
     {
-        "id": 677,
+        "id": 676,
         "name": "Samotworska"
     },
     {
-        "id": 678,
+        "id": 677,
         "name": "Samotw\u00f3r - D\u0119bowa"
     },
     {
-        "id": 679,
+        "id": 678,
         "name": "Samotw\u00f3r - Le\u015bna"
     },
     {
-        "id": 680,
+        "id": 679,
         "name": "Sanocka"
     },
     {
-        "id": 681,
+        "id": 680,
         "name": "Semaforowa"
     },
     {
-        "id": 682,
+        "id": 681,
         "name": "Serbska (C.K. Agora)"
     },
     {
-        "id": 683,
+        "id": 682,
         "name": "Serowarska"
     },
     {
-        "id": 684,
+        "id": 683,
         "name": "Siedlec - Wroc\u0142awska/sklep"
     },
     {
-        "id": 685,
+        "id": 684,
         "name": "Siedlec - Wroc\u0142awska/szko\u0142a"
     },
     {
-        "id": 686,
+        "id": 685,
         "name": "Siedlec - skrzy. Osiedlowa"
     },
     {
-        "id": 687,
+        "id": 686,
         "name": "Siedlec - stacja"
     },
     {
-        "id": 688,
+        "id": 687,
         "name": "Skarbowc\u00f3w"
     },
     {
-        "id": 689,
+        "id": 688,
         "name": "Skar\u017cy\u0144skiego"
     },
     {
-        "id": 690,
+        "id": 689,
         "name": "Ska\u0142a - wie\u015b"
     },
     {
-        "id": 691,
+        "id": 690,
         "name": "Ska\u0142ka"
     },
     {
-        "id": 692,
+        "id": 691,
         "name": "Ska\u0142ka - skrzy. Ma\u0142kowice"
     },
     {
-        "id": 693,
+        "id": 692,
         "name": "Ska\u0142ka - skrzy. W362"
     },
     {
-        "id": 694,
+        "id": 693,
         "name": "Skierniewicka"
     },
     {
-        "id": 695,
+        "id": 694,
         "name": "Smocza"
     },
     {
-        "id": 696,
+        "id": 695,
         "name": "Smolec - Ch\u0142opska/Cisowa"
     },
     {
-        "id": 697,
+        "id": 696,
         "name": "Smolec - Ch\u0142opska/G\u0142\u00f3wna"
     },
     {
-        "id": 698,
+        "id": 697,
         "name": "Smolec - Ch\u0142opska/Wrzosowa"
     },
     {
-        "id": 699,
+        "id": 698,
         "name": "Smolec - Ch\u0142opska/\u015aliwkowa"
     },
     {
-        "id": 700,
+        "id": 699,
         "name": "Smolec - D\u0119bowa (sklep)"
     },
     {
-        "id": 701,
+        "id": 700,
         "name": "Smolec - G\u0142\u00f3wna (na wys. nr 52)"
     },
     {
-        "id": 702,
+        "id": 701,
         "name": "Smolec - G\u0142\u00f3wna (na wys. nr 83)"
     },
     {
-        "id": 703,
+        "id": 702,
         "name": "Smolec - G\u0142\u00f3wna/Dworcowa"
     },
     {
-        "id": 704,
+        "id": 703,
         "name": "Smolec - Lipowa/p\u0119tla"
     },
     {
-        "id": 705,
+        "id": 704,
         "name": "Smolec - Wi\u015bniowa"
     },
     {
-        "id": 706,
+        "id": 705,
         "name": "Smolec - Wroc\u0142awska"
     },
     {
-        "id": 707,
+        "id": 706,
         "name": "Smolecka"
     },
     {
-        "id": 708,
+        "id": 707,
         "name": "Solskiego"
     },
     {
-        "id": 709,
+        "id": 708,
         "name": "Sosnowiecka"
     },
     {
-        "id": 710,
+        "id": 709,
         "name": "Sowia"
     },
     {
-        "id": 711,
+        "id": 710,
         "name": "So\u0142tysowicka"
     },
     {
-        "id": 712,
+        "id": 711,
         "name": "Sp\u00f3\u0142dzielcza"
     },
     {
-        "id": 713,
+        "id": 712,
         "name": "Stab\u0142owice"
     },
     {
-        "id": 714,
+        "id": 713,
         "name": "Stab\u0142owicka"
     },
     {
-        "id": 715,
+        "id": 714,
         "name": "Stadion Olimpijski"
     },
     {
-        "id": 716,
+        "id": 715,
         "name": "Stalowa"
     },
     {
-        "id": 717,
+        "id": 716,
         "name": "Stanis\u0142awowska (W.K. Formaty)"
     },
     {
-        "id": 718,
+        "id": 717,
         "name": "Stanki"
     },
     {
-        "id": 719,
+        "id": 718,
         "name": "Starodworska"
     },
     {
-        "id": 720,
+        "id": 719,
         "name": "Starod\u0119bowa"
     },
     {
-        "id": 721,
+        "id": 720,
         "name": "Staro\u015bci\u0144ska"
     },
     {
-        "id": 722,
+        "id": 721,
         "name": "Stoszowska"
     },
     {
-        "id": 723,
+        "id": 722,
         "name": "Strachowice General Aviation"
     },
     {
-        "id": 724,
+        "id": 723,
         "name": "Strachowicka"
     },
     {
-        "id": 725,
+        "id": 724,
         "name": "Strachowskiego"
     },
     {
-        "id": 726,
+        "id": 725,
         "name": "Strumykowa"
     },
     {
-        "id": 727,
+        "id": 726,
         "name": "Strzegomska (Muzeum Wsp\u00f3\u0142czesne)"
     },
     {
-        "id": 728,
+        "id": 727,
         "name": "Strzegomska (krzy\u017c\u00f3wka)"
     },
     {
-        "id": 729,
+        "id": 728,
         "name": "Strzegomska 148"
     },
     {
-        "id": 730,
+        "id": 729,
         "name": "St\u0119pin"
     },
     {
-        "id": 731,
+        "id": 730,
         "name": "St\u0119pin - Ko\u015bci\u00f3\u0142"
     },
     {
-        "id": 732,
+        "id": 731,
         "name": "Sucha"
     },
     {
-        "id": 733,
+        "id": 732,
         "name": "Suchy Dw\u00f3r - skrzy. (Wroc\u0142awska/G\u0142\u00f3wna)"
     },
     {
-        "id": 734,
+        "id": 733,
         "name": "Suchy Dw\u00f3r - skrzy. M\u0119d\u0142\u00f3w"
     },
     {
-        "id": 735,
+        "id": 734,
         "name": "Sudecka"
     },
     {
-        "id": 736,
+        "id": 735,
         "name": "Suwalska"
     },
     {
-        "id": 737,
+        "id": 736,
         "name": "Swojczyce"
     },
     {
-        "id": 738,
+        "id": 737,
         "name": "Syrokomli"
     },
     {
-        "id": 739,
+        "id": 738,
         "name": "Szczeci\u0144ska"
     },
     {
-        "id": 740,
+        "id": 739,
         "name": "Szczepin"
     },
     {
-        "id": 741,
+        "id": 740,
         "name": "Szczodre - Szko\u0142a"
     },
     {
-        "id": 742,
+        "id": 741,
         "name": "Szczodre - Trzebnicka"
     },
     {
-        "id": 743,
+        "id": 742,
         "name": "Szczodre - Trzebnicka (na wys. nr 3a)"
     },
     {
-        "id": 744,
+        "id": 743,
         "name": "Szczodre - p\u0119tla"
     },
     {
-        "id": 745,
+        "id": 744,
         "name": "Szczodre - stawy"
     },
     {
-        "id": 746,
+        "id": 745,
         "name": "Szewczenki"
     },
     {
-        "id": 747,
+        "id": 746,
         "name": "Szkocka"
     },
     {
-        "id": 748,
+        "id": 747,
         "name": "Szkolna"
     },
     {
-        "id": 749,
+        "id": 748,
         "name": "Szko\u0142a \u017berniki"
     },
     {
-        "id": 750,
+        "id": 749,
         "name": "Sztabowa"
     },
     {
-        "id": 751,
+        "id": 750,
         "name": "Szukalice"
     },
     {
-        "id": 752,
+        "id": 751,
         "name": "Szybowcowa"
     },
     {
-        "id": 753,
+        "id": 752,
         "name": "Szyman\u00f3w"
     },
     {
-        "id": 754,
+        "id": 753,
         "name": "Szyman\u00f3w (Letnia)"
     },
     {
-        "id": 755,
+        "id": 754,
         "name": "Szyman\u00f3w (Widawska)"
     },
     {
-        "id": 756,
+        "id": 755,
         "name": "Szyman\u00f3w - skrzy\u017c."
     },
     {
-        "id": 757,
+        "id": 756,
         "name": "S\u0105siedzka"
     },
     {
-        "id": 758,
+        "id": 757,
         "name": "S\u0118POLNO"
     },
     {
-        "id": 759,
+        "id": 758,
         "name": "S\u0142oneczna"
     },
     {
-        "id": 760,
+        "id": 759,
         "name": "S\u0142onimskiego"
     },
     {
-        "id": 761,
+        "id": 760,
         "name": "S\u0142owia\u0144ska"
     },
     {
-        "id": 762,
+        "id": 761,
         "name": "skwer Krasi\u0144skiego"
     },
     {
-        "id": 763,
+        "id": 762,
         "name": "TARCZY\u0143SKI ARENA (Kr\u00f3lewiecka)"
     },
     {
-        "id": 764,
+        "id": 763,
         "name": "TARNOGAJ"
     },
     {
-        "id": 765,
+        "id": 764,
         "name": "TRESTNO (p\u0119tla)"
     },
     {
-        "id": 766,
+        "id": 765,
         "name": "TYNIECKA (p\u0119tla)"
     },
     {
-        "id": 767,
+        "id": 766,
         "name": "Tarczy\u0144ski Arena (Lotnicza)"
     },
     {
-        "id": 768,
+        "id": 767,
         "name": "Tarnogajska"
     },
     {
-        "id": 769,
+        "id": 768,
         "name": "Tczewska"
     },
     {
-        "id": 770,
+        "id": 769,
         "name": "Tokary - centrum"
     },
     {
-        "id": 771,
+        "id": 770,
         "name": "Tokary - osiedle"
     },
     {
-        "id": 772,
+        "id": 771,
         "name": "Topolowa"
     },
     {
-        "id": 773,
+        "id": 772,
         "name": "Tramwajowa"
     },
     {
-        "id": 774,
+        "id": 773,
         "name": "Trawowa"
     },
     {
-        "id": 775,
+        "id": 774,
         "name": "Trestno - ko\u015bci\u00f3\u0142"
     },
     {
-        "id": 776,
+        "id": 775,
         "name": "Trestno - \u015bwietlica"
     },
     {
-        "id": 777,
+        "id": 776,
         "name": "Trzebnicka"
     },
     {
-        "id": 778,
+        "id": 777,
         "name": "Trzmielowicka"
     },
     {
-        "id": 779,
+        "id": 778,
         "name": "Tunelowa"
     },
     {
-        "id": 780,
+        "id": 779,
         "name": "Turoszowska"
     },
     {
-        "id": 781,
+        "id": 780,
         "name": "Tymiankowa"
     },
     {
-        "id": 782,
+        "id": 781,
         "name": "Tyniecka"
     },
     {
-        "id": 783,
+        "id": 782,
         "name": "Tyrmanda"
     },
     {
-        "id": 784,
+        "id": 783,
         "name": "T\u0119czowa"
     },
     {
-        "id": 785,
+        "id": 784,
         "name": "Uniwersytet Dolno\u015bl\u0105ski DSW"
     },
     {
-        "id": 786,
+        "id": 785,
         "name": "Uniwersytet Ekonomiczny"
     },
     {
-        "id": 787,
+        "id": 786,
         "name": "Uniwersytet Wroc\u0142awski"
     },
     {
-        "id": 788,
+        "id": 787,
         "name": "Urz\u0105d Wojew\u00f3dzki (Impart)"
     },
     {
-        "id": 789,
+        "id": 788,
         "name": "Urz\u0105d Wojew\u00f3dzki (Muzeum Narodowe)"
     },
     {
-        "id": 790,
+        "id": 789,
         "name": "Vivaldiego"
     },
     {
-        "id": 791,
+        "id": 790,
         "name": "Volvo"
     },
     {
-        "id": 792,
+        "id": 791,
         "name": "Volvo - brama II"
     },
     {
-        "id": 793,
+        "id": 792,
         "name": "WA\u0141BRZYSKA"
     },
     {
-        "id": 794,
+        "id": 793,
         "name": "WOJN\u00d3W (p\u0119tla)"
     },
     {
-        "id": 795,
+        "id": 794,
         "name": "Wallenroda"
     },
     {
-        "id": 796,
+        "id": 795,
         "name": "Waniliowa"
     },
     {
-        "id": 797,
+        "id": 796,
         "name": "Wapienna"
     },
     {
-        "id": 798,
+        "id": 797,
         "name": "Warmi\u0144ska"
     },
     {
-        "id": 799,
+        "id": 798,
         "name": "Wawrzyniaka"
     },
     {
-        "id": 800,
+        "id": 799,
         "name": "Weigla (Szpital)"
     },
     {
-        "id": 801,
+        "id": 800,
         "name": "Wejherowska (Hala Orbita)"
     },
     {
-        "id": 802,
+        "id": 801,
         "name": "We\u0142niana"
     },
     {
-        "id": 803,
+        "id": 802,
         "name": "Wiaduktowa"
     },
     {
-        "id": 804,
+        "id": 803,
         "name": "Widawa"
     },
     {
-        "id": 805,
+        "id": 804,
         "name": "Widna"
     },
     {
-        "id": 806,
+        "id": 805,
         "name": "Wiejska"
     },
     {
-        "id": 807,
+        "id": 806,
         "name": "Wielka"
     },
     {
-        "id": 808,
+        "id": 807,
         "name": "Wielkopolska"
     },
     {
-        "id": 809,
+        "id": 808,
         "name": "Wilczyce"
     },
     {
-        "id": 810,
+        "id": 809,
         "name": "Wilczyce - Borowa"
     },
     {
-        "id": 811,
+        "id": 810,
         "name": "Wilczyce - Dworska"
     },
     {
-        "id": 812,
+        "id": 811,
         "name": "Wilczyce - D\u0119bowa"
     },
     {
-        "id": 813,
+        "id": 812,
         "name": "Wilczyce - Sosnowa"
     },
     {
-        "id": 814,
+        "id": 813,
         "name": "Wilczyce - Wilczycka (Clarena)"
     },
     {
-        "id": 815,
+        "id": 814,
         "name": "Wilczyce - Wilczycka (Stary M\u0142yn)"
     },
     {
-        "id": 816,
+        "id": 815,
         "name": "Wilczyce - Wroc\u0142awska (na wys. nr 1F)"
     },
     {
-        "id": 817,
+        "id": 816,
         "name": "Wilczyce - szko\u0142a"
     },
     {
-        "id": 818,
+        "id": 817,
         "name": "Wilkszyn (p\u0119tla)"
     },
     {
-        "id": 819,
+        "id": 818,
         "name": "Wilkszyn - Mi\u0142oszyn"
     },
     {
-        "id": 820,
+        "id": 819,
         "name": "Wilkszyn - Polna"
     },
     {
-        "id": 821,
+        "id": 820,
         "name": "Wilkszy\u0144ska"
     },
     {
-        "id": 822,
+        "id": 821,
         "name": "Wita Stwosza"
     },
     {
-        "id": 823,
+        "id": 822,
         "name": "Witelona"
     },
     {
-        "id": 824,
+        "id": 823,
         "name": "Witkowska"
     },
     {
-        "id": 825,
+        "id": 824,
         "name": "Wi\u015bla\u0144ska"
     },
     {
-        "id": 826,
+        "id": 825,
         "name": "Wi\u015bniowa"
     },
     {
-        "id": 827,
+        "id": 826,
         "name": "Wojanowska"
     },
     {
-        "id": 828,
+        "id": 827,
         "name": "Wojn\u00f3w"
     },
     {
-        "id": 829,
+        "id": 828,
         "name": "Wojszyce"
     },
     {
-        "id": 830,
+        "id": 829,
         "name": "Wojszycka"
     },
     {
-        "id": 831,
+        "id": 830,
         "name": "Wolska"
     },
     {
-        "id": 832,
+        "id": 831,
         "name": "Wo\u0142owska"
     },
     {
-        "id": 833,
+        "id": 832,
         "name": "Wroc\u0142aw Miko\u0142aj\u00f3w (Zachodnia)"
     },
     {
-        "id": 834,
+        "id": 833,
         "name": "Wroc\u0142aw Nowy Dw\u00f3r (P+R)"
     },
     {
-        "id": 835,
+        "id": 834,
         "name": "Wroc\u0142aw Popowice (17.po\u0142udnik)"
     },
     {
-        "id": 836,
+        "id": 835,
         "name": "Wroc\u0142aw Szczepin"
     },
     {
-        "id": 837,
+        "id": 836,
         "name": "Wroc\u0142awski Park Przemys\u0142owy"
     },
     {
-        "id": 838,
+        "id": 837,
         "name": "Wroc\u0142awski Park Technologiczny"
     },
     {
-        "id": 839,
+        "id": 838,
         "name": "Wr\u00f3blowice"
     },
     {
-        "id": 840,
+        "id": 839,
         "name": "Wr\u00f3blowice Innowacyjna"
     },
     {
-        "id": 841,
+        "id": 840,
         "name": "Wschowska"
     },
     {
-        "id": 842,
+        "id": 841,
         "name": "Wysoka"
     },
     {
-        "id": 843,
+        "id": 842,
         "name": "Wysoka - Chabrowa"
     },
     {
-        "id": 844,
+        "id": 843,
         "name": "Wysoka - Lipowa"
     },
     {
-        "id": 845,
+        "id": 844,
         "name": "Wysoka - Lipowa/Je\u017cynowa"
     },
     {
-        "id": 846,
+        "id": 845,
         "name": "Wysoka - Lipowa/Parkowa"
     },
     {
-        "id": 847,
+        "id": 846,
         "name": "Wysoka - Radosna"
     },
     {
-        "id": 848,
+        "id": 847,
         "name": "Wysoka - osiedle"
     },
     {
-        "id": 849,
+        "id": 848,
         "name": "Wyszy\u0144skiego"
     },
     {
-        "id": 850,
+        "id": 849,
         "name": "Wy\u015bcigowa"
     },
     {
-        "id": 851,
+        "id": 850,
         "name": "Wzg\u00f3rze Partyzant\u00f3w"
     },
     {
-        "id": 852,
+        "id": 851,
         "name": "W\u0119gr\u00f3w (na wys. nr 27)"
     },
     {
-        "id": 853,
+        "id": 852,
         "name": "W\u0119gr\u00f3w (na wys. nr 7)"
     },
     {
-        "id": 854,
+        "id": 853,
         "name": "ZAKRZ\u00d3W"
     },
     {
-        "id": 855,
+        "id": 854,
         "name": "ZOO"
     },
     {
-        "id": 856,
+        "id": 855,
         "name": "ZWYCI\u0118SKA"
     },
     {
-        "id": 857,
+        "id": 856,
         "name": "Zabrodzie - p\u0119tla"
     },
     {
-        "id": 858,
+        "id": 857,
         "name": "Zab\u00f3r Ma\u0142y"
     },
     {
-        "id": 859,
+        "id": 858,
         "name": "Zab\u00f3r Wielki"
     },
     {
-        "id": 860,
+        "id": 859,
         "name": "Zacisze"
     },
     {
-        "id": 861,
+        "id": 860,
         "name": "Zagony"
     },
     {
-        "id": 862,
+        "id": 861,
         "name": "Zagrodnicza"
     },
     {
-        "id": 863,
+        "id": 862,
         "name": "Zag\u0142oby"
     },
     {
-        "id": 864,
+        "id": 863,
         "name": "Zag\u0142\u0119biowska"
     },
     {
-        "id": 865,
+        "id": 864,
         "name": "Zajazdowa"
     },
     {
-        "id": 866,
+        "id": 865,
         "name": "Zajezdnia BOREK"
     },
     {
-        "id": 867,
+        "id": 866,
         "name": "Zajezdnia GAJ"
     },
     {
-        "id": 868,
+        "id": 867,
         "name": "Zajezdnia Obornicka"
     },
     {
-        "id": 869,
+        "id": 868,
         "name": "Zajezdnia O\u0141BIN"
     },
     {
-        "id": 870,
+        "id": 869,
         "name": "Zaj\u0105czkowska"
     },
     {
-        "id": 871,
+        "id": 870,
         "name": "Zakrzowska"
     },
     {
-        "id": 872,
+        "id": 871,
         "name": "Zak\u0142adowa"
     },
     {
-        "id": 873,
+        "id": 872,
         "name": "Zalewowa"
     },
     {
-        "id": 874,
+        "id": 873,
         "name": "Zamkowa"
     },
     {
-        "id": 875,
+        "id": 874,
         "name": "Zaolzia\u0144ska"
     },
     {
-        "id": 876,
+        "id": 875,
         "name": "Zaporoska"
     },
     {
-        "id": 877,
+        "id": 876,
         "name": "Zapr\u0119\u017cyn"
     },
     {
-        "id": 878,
+        "id": 877,
         "name": "Zarembowicza"
     },
     {
-        "id": 879,
+        "id": 878,
         "name": "Zbo\u017cowa"
     },
     {
-        "id": 880,
+        "id": 879,
         "name": "Zemska"
     },
     {
-        "id": 881,
+        "id": 880,
         "name": "Zgorzelisko"
     },
     {
-        "id": 882,
+        "id": 881,
         "name": "Zieli\u0144skiego"
     },
     {
-        "id": 883,
+        "id": 882,
         "name": "Zielna"
     },
     {
-        "id": 884,
+        "id": 883,
         "name": "Ziemniaczana"
     },
     {
-        "id": 885,
+        "id": 884,
         "name": "Zimowa"
     },
     {
-        "id": 886,
+        "id": 885,
         "name": "Z\u0142otnicka"
     },
     {
-        "id": 887,
+        "id": 886,
         "name": "Z\u0142otniki"
     },
     {
-        "id": 888,
+        "id": 887,
         "name": "Z\u0142otostocka"
     },
     {
-        "id": 889,
+        "id": 888,
         "name": "\u0106wiczebna"
     },
     {
-        "id": 890,
+        "id": 889,
         "name": "\u0141osice"
     },
     {
-        "id": 891,
+        "id": 890,
         "name": "\u0141osice - plac zabaw"
     },
     {
-        "id": 892,
+        "id": 891,
         "name": "\u0141ososiowicka"
     },
     {
-        "id": 893,
+        "id": 892,
         "name": "\u0141ow\u0119cice - Staw"
     },
     {
-        "id": 894,
+        "id": 893,
         "name": "\u0141ozina - Cmentarz"
     },
     {
-        "id": 895,
+        "id": 894,
         "name": "\u0141ozina - Ko\u015bci\u00f3\u0142"
     },
     {
-        "id": 896,
+        "id": 895,
         "name": "\u0141ozina - Milicka/poczta"
     },
     {
-        "id": 897,
+        "id": 896,
         "name": "\u0141ozina - Milicka/szko\u0142a"
     },
     {
-        "id": 898,
+        "id": 897,
         "name": "\u0141ozina - Nowego Osiedla I"
     },
     {
-        "id": 899,
+        "id": 898,
         "name": "\u0141ozina - Nowego Osiedla II"
     },
     {
-        "id": 900,
+        "id": 899,
         "name": "\u0141ozina - Wroc\u0142awska (na wys. nr 18)"
     },
     {
-        "id": 901,
+        "id": 900,
         "name": "\u0141ozina - skrzy."
     },
     {
-        "id": 902,
+        "id": 901,
         "name": "\u0141ugowa"
     },
     {
-        "id": 903,
+        "id": 902,
         "name": "\u0141u\u017cycka"
     },
     {
-        "id": 904,
+        "id": 903,
         "name": "\u015aLAZOWA"
     },
     {
-        "id": 905,
+        "id": 904,
         "name": "\u015aWIDNICKA (Dom Europy)"
     },
     {
-        "id": 906,
+        "id": 905,
         "name": "\u015aWINIARY"
     },
     {
-        "id": 907,
+        "id": 906,
         "name": "\u015aliczna"
     },
     {
-        "id": 908,
+        "id": 907,
         "name": "\u015aliwice"
     },
     {
-        "id": 909,
+        "id": 908,
         "name": "\u015aliwowa"
     },
     {
-        "id": 910,
+        "id": 909,
         "name": "\u015alusarska"
     },
     {
-        "id": 911,
+        "id": 910,
         "name": "\u015al\u0119za - D\u0119bowa"
     },
     {
-        "id": 912,
+        "id": 911,
         "name": "\u015al\u0119za - Szyszkowa"
     },
     {
-        "id": 913,
+        "id": 912,
         "name": "\u015al\u0119za - autostrada"
     },
     {
-        "id": 914,
+        "id": 913,
         "name": "\u015al\u0119za - skrzy\u017cowanie"
     },
     {
-        "id": 915,
+        "id": 914,
         "name": "\u015aniadeckich"
     },
     {
-        "id": 916,
+        "id": 915,
         "name": "\u015anie\u017cna"
     },
     {
-        "id": 917,
+        "id": 916,
         "name": "\u015aredzka"
     },
     {
-        "id": 918,
+        "id": 917,
         "name": "\u015arubowa"
     },
     {
-        "id": 919,
+        "id": 918,
         "name": "\u015awidnicka"
     },
     {
-        "id": 920,
+        "id": 919,
         "name": "\u015awieradowska"
     },
     {
-        "id": 921,
+        "id": 920,
         "name": "\u015awistackiego"
     },
     {
-        "id": 922,
+        "id": 921,
         "name": "\u015awit"
     },
     {
-        "id": 923,
+        "id": 922,
         "name": "\u015awi\u0119tokrzyska"
     },
     {
-        "id": 924,
+        "id": 923,
         "name": "\u0179r\u00f3d\u0142a"
     },
     {
-        "id": 925,
+        "id": 924,
         "name": "\u017bAR"
     },
     {
-        "id": 926,
+        "id": 925,
         "name": "\u017belazna"
     },
     {
-        "id": 927,
+        "id": 926,
         "name": "\u017bernicka"
     },
     {
-        "id": 928,
+        "id": 927,
         "name": "\u017berniki"
     },
     {
-        "id": 929,
+        "id": 928,
         "name": "\u017bmigrodzka (Obwodnica)"
     },
     {
-        "id": 930,
+        "id": 929,
         "name": "\u017bmudzka"
     },
     {
-        "id": 931,
+        "id": 930,
         "name": "\u017burawiniec"
     },
     {
-        "id": 932,
+        "id": 931,
         "name": "\u017b\u00f3rawina - Niepodleg\u0142o\u015bci (Mostek)"
     },
     {
-        "id": 933,
+        "id": 932,
         "name": "\u017b\u00f3rawina - Orange"
     },
     {
-        "id": 934,
+        "id": 933,
         "name": "\u017b\u00f3rawina - Wroc\u0142awska"
     },
     {
-        "id": 935,
+        "id": 934,
         "name": "\u017b\u00f3rawina - ko\u015bci\u00f3\u0142 \u015aw. Tr\u00f3jcy"
     },
     {
-        "id": 936,
+        "id": 935,
         "name": "\u017b\u00f3rawina - osiedle"
     },
     {
-        "id": 937,
+        "id": 936,
         "name": "\u017b\u00f3rawina - skrzy."
     },
     {
-        "id": 938,
+        "id": 937,
         "name": "\u017b\u00f3rawina - skrzy. Niepodleg\u0142o\u015bci"
     },
     {
-        "id": 939,
+        "id": 938,
         "name": "8 Maj"
     }
 ]
