@@ -1,5 +1,5 @@
 import unittest
-from ShortestPath import ShortestPath
+from Algorithms.ShortestPath import ShortestPath
 
 
 class Test_shortestpath(unittest.TestCase):
