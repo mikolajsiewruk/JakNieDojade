@@ -1,0 +1,1 @@
+# Modlitwa za repozytorium na githubie
