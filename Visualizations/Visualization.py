@@ -48,4 +48,3 @@ class Visualizer:
 
 v = Visualizer()
 v.graph("D:\PyCharm\PyCharm 2023.2.4\JakNieDojade\Dane\graph.json")
-xd
