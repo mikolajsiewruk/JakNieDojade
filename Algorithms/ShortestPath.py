@@ -6,7 +6,7 @@ class ShortestPath:
     def dijkstra(graph: list, start: int, end: int) -> tuple:
         """
         Dijkstra's algorithm for finding the shortest path in a graph.
-        :param graph: a graph of nodes in matrix form
+        :param graph: a graph of nodes in adjacency matrix form
         :param start: source
         :param end: target
         :return: list of shortest distances from node 0 to the last node

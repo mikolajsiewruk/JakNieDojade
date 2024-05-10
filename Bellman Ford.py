@@ -30,7 +30,7 @@ class ShortestPathFinder:
 
         # Relaxation loop
         for _ in range(len(self.connections) - 1):
-            for start_stop, end_stop, travel_time in self.connections:
+            for start_stop, end_stop, travel_time in self.connections: # tu powinno być odwoływanie do adjacency matrix a nie połączeń w formie tuple (1,2,3)
                 if distances[start_stop] != float('inf') and distances[start_stop] + travel_time < distances[end_stop]:
                     distances[end_stop] = distances[start_stop] + travel_time
 
