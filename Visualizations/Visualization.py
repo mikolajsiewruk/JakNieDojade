@@ -42,9 +42,9 @@ class Visualizer:
         for k in range(len(list(G.nodes))):
             sizes[k] = node_size[nodes[k]]
 
-        nx.draw(G, pos, node_size=sizes)
+        nx.draw_networkx(G, pos, node_size=sizes,with_labels=False)
         plt.show()
 
 
 v = Visualizer()
-v.graph("D:\PyCharm\PyCharm 2023.2.4\JakNieDojade\Dane\graph.json")
+v.graph("C:\\Users\\DELL\\PycharmProjects\\JakNieDojade\\Dane\\graph.json")
