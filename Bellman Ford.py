@@ -1,6 +1,5 @@
 import json
-import numpy as np
-
+import time as tm
 class ShortestPath:
     """
     A class to find the shortest path between two stops using the Bellman-Ford algorithm.
@@ -65,8 +64,7 @@ with open("Dane/graph.json", "r") as file:
     graph_data = json.load(file)
 
 # Extract adjacency matrix from JSON data
-adjacency_matrix = np.array(graph_data['adjacency_matrix'])
-
+adjacency_matrix = graph_data[0]['graph']
 # Create an instance of ShortestPathFinder
 path_finder = ShortestPath(adjacency_matrix)
 

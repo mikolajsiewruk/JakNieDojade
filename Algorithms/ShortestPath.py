@@ -1,4 +1,5 @@
 import json
+import time as tm
 
 class ShortestPath:
 
@@ -46,7 +47,6 @@ class ShortestPath:
         current = start
         prev=[]
         while unvisited:  # searching process will continue until it checks all the nodes
-            print(unvisited)
             if current not in prev:
                 prev.append(current)
             neighbors = [i for i in range(len(graph[current])) if (graph[current][i] != 0 and i in unvisited)]
@@ -63,7 +63,6 @@ class ShortestPath:
             v = [nodes["val"][1] for nodes in distances if nodes["val"][1] != 'inf' and nodes["node"] in unvisited]  # take their path distances
             if not valid:
                 current=visited[visited.index(current)-1]
-                print(current)
                 unvisited.add(current)
             if not valid and len(visited)==len(reachable):
                 break
@@ -71,14 +70,73 @@ class ShortestPath:
             for nodes in valid:  # from path distances select the one with the shortest distance
                 if nodes["val"][1] == min(v):
                     current = nodes["node"]
-            print(len(visited))
         path = reconstruct(distances, start, end)
-        length=distances[end]["val"][1]
-        return distances, path, length
+        length = distances[end]["val"][1]
+        return path, length
 
-file = open("Dane/graph.json", "r")
+    def bellman_ford(self, graph: list,start: int, end: int):
+        """
+        Finds the shortest path between two stops using the Bellman-Ford algorithm.
+
+        Args:
+        - start (int): Index of the starting stop.
+        - end (int): Index of the ending stop.
+
+        Returns:
+        - tuple: A tuple containing the shortest path from the starting stop to the ending stop and the total travel time.
+        """
+        num_stops = len(graph)
+        # Initialize distances from the starting stop to all other stops as infinity
+        distances = [float('inf')] * num_stops
+        distances[start] = 0
+
+        # Relaxation loop
+        for _ in range(num_stops - 1):
+            for current_stop in range(num_stops):
+                for next_stop in range(num_stops):
+                    if graph[current_stop][next_stop] != 0 and distances[current_stop] != float('inf'):
+                        if distances[current_stop] + graph[current_stop][next_stop] < distances[next_stop]:
+                            distances[next_stop] = distances[current_stop] + graph[current_stop][next_stop]
+
+        # Check for negative cycles
+        '''for current_stop in range(num_stops):
+            for next_stop in range(num_stops):
+                if graph[current_stop][next_stop] != 0 and distances[current_stop] + graph[current_stop][next_stop] < distances[next_stop]:
+                    print("The transportation network contains a negative cycle")
+                    return [], float('inf')'''
+
+        # Constructing the path and calculating total travel time
+        path = [end]
+        current_stop = end
+        length = 0
+        while current_stop != start:
+            for next_stop in range(num_stops):
+                if graph[next_stop][current_stop] != 0 and distances[next_stop] == distances[current_stop] - graph[next_stop][current_stop]:
+                    path.insert(0, next_stop)
+                    length += graph[next_stop][current_stop]
+                    current_stop = next_stop
+                    break
+
+        return path, length
+
+    def timer(self,graph:list,start:int,end:int)->tuple:
+        """
+        Returns time of searching the shortest path with Dijkstra's algorithm and Bellman-Ford algorithm.
+        """
+        start_d = tm.perf_counter_ns()
+        self.dijkstra(graph,start,end)
+        end_d = tm.perf_counter_ns()
+
+        start_bf = tm.perf_counter_ns()
+        self.bellman_ford(graph,start,end)
+        end_bf = tm.perf_counter_ns()
+
+        return end_d-start_d, end_bf-start_bf
+
+file = open("D:\PyCharm\PyCharm 2023.2.4\JakNieDojade\Dane\graph.json", "r")
 graph = json.load(file)
 t=graph[0]["graph"]
 s = ShortestPath()
 
-print(s.dijkstra(t, 329, 624))
+print(s.dijkstra(t, 10, 939))
+print(s.bellman_ford(t,10,939))
