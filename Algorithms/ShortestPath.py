@@ -133,7 +133,7 @@ class ShortestPath:
 
         return end_d-start_d, end_bf-start_bf
 
-file = open("D:\PyCharm\PyCharm 2023.2.4\JakNieDojade\Dane\graph.json", "r")
+file = open("D:\PyCharm\PyCharm 2023.2.4\JakNieDojade\Dane\graph1.json", "r")
 graph = json.load(file)
 t=graph[0]["graph"]
 s = ShortestPath()

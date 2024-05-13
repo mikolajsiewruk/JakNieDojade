@@ -69,6 +69,4 @@ for di in data:
             table[stops[i]][stops[i+1]]=times[i]
             table[stops[i+1]][stops[i]]= times[i]
 
-print(table[395])
-'''with open("lol.txt","w") as file:
-    file.write(str(table))'''
+print(table)
