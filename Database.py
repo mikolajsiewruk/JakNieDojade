@@ -36,7 +36,7 @@ class Database:
 
         lines1 =[]
         for files in os.listdir(dir):
-            file = open(f"D:\PyCharm\PyCharm 2023.2.4\JakNieDojade\Autobusy\\{files}","r",encoding="UTF-8")
+            file = open(f"D:\PyCharm\PyCharm 2023.2.4\JakNieDojade\Materials\\{files}","r",encoding="UTF-8")
 
             name = file.name
             line = []
@@ -45,21 +45,25 @@ class Database:
             cur = 0
 
             for lines in file:
-                if 'Przystanek' in lines and "onlyPrint" in lines:
+                if 'Przystanek ' in lines and "onlyPrint" in lines:
                     stops.append(lines[lines.rfind(">") + 2:-1])
                 if "Czas przejazdu" in lines and "'" in lines:
                     times.append(int(lines[lines.rfind(">") + 2:-2]) - cur)
                     cur = int(lines[lines.rfind(">") + 2:-2])
 
             res = []
+            print(stops)
             for stop in stops:
+                print(stop)
                 if 'ROD' in stop:
                     stop = stop.title()
+                if "P&amp;R" in stop:
+                    stop = stop.replace("P&amp;R","PR")
                 temp = self.cursor.execute(f"SELECT IdP,Nazwa FROM Przystanki WHERE Nazwa = '{stop}'").fetchone()
                 res.append(temp[0])
             line.append({"Nazwa": name[-13:], "Przystanki": res, "Czasy": times})
             lines1.append(line)
-            json.dump(lines1, open("D:\PyCharm\PyCharm 2023.2.4\JakNieDojade\Dane\\bus.json",'w'), indent=4)
+            json.dump(lines1, open("D:\PyCharm\PyCharm 2023.2.4\JakNieDojade\Dane\\bus114.json",'w'), indent=4)
 
     def add_info_to_graph(self):
         graph = json.load(open("D:\PyCharm\PyCharm 2023.2.4\JakNieDojade\Dane\graph.json",'r'))
@@ -86,4 +90,30 @@ class Database:
 
 d = Database()
 
-d.add_info_to_graph()
+d.add_lines_to_json("D:\PyCharm\PyCharm 2023.2.4\JakNieDojade\Materials")
+# dir = "D:\PyCharm\PyCharm 2023.2.4\JakNieDojade\Bugs"
+# for files in os.listdir(dir):
+#     file = open(f"D:\PyCharm\PyCharm 2023.2.4\JakNieDojade\Bugs\\{files}", "r", encoding="UTF-8")
+#
+#     name = file.name
+#     line = []
+#     stops = []
+#     times = []
+#     cur = 0
+#
+#     for lines in file:
+#         if lines[0].isupper():
+#             stops.append(lines)
+#
+#     res = []
+#     print(stops)
+#     for stop in stops:
+#         print(stop)
+#         if 'ROD' in stop:
+#             stop = stop.title()
+#         if "P&amp;R" in stop:
+#             stop = stop.replace("P&amp;R", "PR")
+#         temp = d.cursor.execute(f"SELECT IdP,Nazwa FROM Przystanki WHERE Nazwa = '{stop}'").fetchone()
+#         res.append(temp[0])
+#     line.append({"Nazwa": name[-13:], "Przystanki": res, "Czasy": times})
+
