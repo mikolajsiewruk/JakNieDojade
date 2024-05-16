@@ -49,8 +49,8 @@ class Database:
         """
         used_stops = set()  # used for checking if all stops from the database were used in the process of extraction from html templates
         lines1 = []
-
-        for files in os.listdir(dir):
+        valid_files = [file for file in os.listdir(dir) if file.endswith("txt")]
+        for files in valid_files:
             path = os.path.join(dir, files)
             file = open(path, "r", encoding="UTF-8")
 
