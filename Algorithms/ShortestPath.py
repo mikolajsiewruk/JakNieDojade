@@ -33,7 +33,7 @@ class ShortestPath:
             return path
 
         unvisited = set()  # set containing all unvisited nodes
-        reachable=[x for x in graph if x.count(0)<940] # temporary fix
+        reachable=[x for x in graph if x.count(0)<len(graph)] # temporary fix
         visited = []
         for j in range(len(graph)):
             unvisited.add(j)
@@ -133,10 +133,10 @@ class ShortestPath:
 
         return end_d-start_d, end_bf-start_bf
 
-file = open("D:\PyCharm\PyCharm 2023.2.4\JakNieDojade\Dane\graph1.json", "r")
+file = open("D:\PyCharm\PyCharm 2023.2.4\JakNieDojade\Dane\graphtest1.json", "r")
 graph = json.load(file)
-t=graph[0]["graph"]
+t=graph
 s = ShortestPath()
 
-print(s.dijkstra(t, 10, 939))
-print(s.bellman_ford(t,10,939))
+print(s.dijkstra(t, 5, 15))
+#print(s.bellman_ford(t,10,939))
