@@ -48,9 +48,8 @@ class Visualizer:
         for j in range(len(graph)):
             counter = 0  # count the amount of connections from every node
             for k in range(len(graph)):
-                if j != k:
-                    if graph[j][k] != 0:
-                        counter += 1
+                if j != k and graph[j][k] != 0:
+                    counter += 1
             if counter >= 5:  # for big nodes
                 node_sizes[j] = counter * 15
             else:  # for small nodes
