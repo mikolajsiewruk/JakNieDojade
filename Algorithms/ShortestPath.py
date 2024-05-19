@@ -133,10 +133,10 @@ class ShortestPath:
 
         return end_d-start_d, end_bf-start_bf
 
-file = open("D:\PyCharm\PyCharm 2023.2.4\JakNieDojade\Dane\graphtest1.json", "r")
+"""file = open("D:\PyCharm\PyCharm 2023.2.4\JakNieDojade\Dane\graphtest1.json", "r")
 graph = json.load(file)
 t=graph
 s = ShortestPath()
 
 print(s.dijkstra(t, 5, 15))
-#print(s.bellman_ford(t,10,939))
+#print(s.bellman_ford(t,10,939))"""
