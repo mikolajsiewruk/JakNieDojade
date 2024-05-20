@@ -35,3 +35,43 @@ CREATE VIEW IF NOT EXISTS Stop_functions AS
 
 CREATE VIEW IF NOT EXISTS Polozenie AS
     SELECT MIN(X) AS Poludnie, MAX(X) AS Polnoc, MIN(Y) AS Zachod, MAX(Y) AS Wschod FROM Przystanki;
+
+
+SELECT COUNT(*) AS num_nulls
+FROM Przystanki
+WHERE Nazwa IS NULL
+    OR X IS NULL
+    OR Y IS NULL
+    OR Przystanki.Szkola IS NULL
+    OR Przystanki.Praca IS NULL
+    OR Przystanki.Zakupy IS NULL
+    OR Przystanki.Rozrywka IS NULL
+    OR Przystanki.Restauracje IS NULL
+    OR Przystanki.Spotkania IS NULL
+    OR Przystanki.Zdrowie IS NULL
+    OR Przystanki.Kultura IS NULL
+    OR Przystanki.Osiedle IS NULL;
+
+SELECT COUNT(*) AS num_wrong_numbers
+FROM Przystanki
+WHERE Przystanki.Szkola NOT IN (0,1)
+    OR Przystanki.Praca NOT IN (0,1)
+    OR Przystanki.Zakupy NOT IN (0,1)
+    OR Przystanki.Rozrywka NOT IN (0,1)
+    OR Przystanki.Restauracje NOT IN (0,1)
+    OR Przystanki.Spotkania NOT IN (0,1)
+    OR Przystanki.Zdrowie NOT IN (0,1)
+    OR Przystanki.Kultura NOT IN (0,1);
+
+
+SELECT COUNT(*) AS num_useless_stops
+FROM Przystanki
+WHERE Przystanki.Szkola = 0
+    AND Przystanki.Praca = 0
+    AND Przystanki.Zakupy = 0
+    AND Przystanki.Rozrywka = 0
+    AND Przystanki.Restauracje = 0
+    AND Przystanki.Spotkania = 0
+    AND Przystanki.Zdrowie = 0
+    AND Przystanki.Kultura = 0;
+
