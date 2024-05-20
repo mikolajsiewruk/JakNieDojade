@@ -22,6 +22,13 @@ CREATE VIEW IF NOT EXISTS Stops_by_area AS
     GROUP BY Osiedle
     ORDER BY Stops DESC;
 
+/* create view for counting stops in a given area where there are more than 5 stops */
+CREATE VIEW IF NOT EXISTS Stops_by_area_5 AS
+    SELECT Osiedle,COUNT(Osiedle) AS Stops FROM Przystanki
+    GROUP BY Osiedle
+    HAVING COUNT(*) >= 5
+    ORDER BY Stops DESC;
+
 CREATE TABLE Osiedla
 (
     IdO INTEGER PRIMARY KEY  AUTOINCREMENT,
