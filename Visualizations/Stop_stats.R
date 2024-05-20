@@ -8,7 +8,7 @@ headers <- as.vector(colnames(data))
 for (i in 1:length(headers)) {
     counts <- c(counts, data[[headers[i]]])
 }
-colors <- color_vector <- c("red", "green", "blue", "yellow", "orange", "purple", "pink", "brown", "cyan")
+colors <- c("red", "green", "blue", "yellow", "orange", "purple", "pink", "brown", "cyan")
 
 x <- barplot(counts, names.arg = headers, col = colors,ylim = c(0,500),main = "Number of stops per category")
 
