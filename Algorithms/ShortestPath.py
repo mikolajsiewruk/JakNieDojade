@@ -133,6 +133,92 @@ class ShortestPath:
 
         return end_d-start_d, end_bf-start_bf
 
+    def match_lines_to_path(self, path: list, lines: list) -> list:
+        """
+        Matches public transportation lines to a path.
+        :param path: a path represented by a list with numbers of nodes in a graph.
+        :param lines: a list of public transportation lines represented by dictionaries.
+        :returns: returns a list of tuples [(stops,line)]
+        """
+        def find_matching_subsequence(list1, list2) -> list:
+            """
+            Helper function for finding a subsequence in list1 and list2 starting in the first node of list1.
+            """
+            first_element = list1[0]
+
+            # check if there are no subsequences
+            try:
+                start_index = list2.index(first_element)
+            except ValueError:
+                return []
+
+            # Check if list1 is a subsequence starting from this index in list2
+            if list2[start_index:start_index + len(list1)] == list1:
+                return list2[start_index:start_index + len(list1)]
+
+            longest_subsequence = []
+            for i in range(len(list1)):
+                # check for longest subsequence if starting index is in line2
+                if start_index + i < len(list2) and list1[i] == list2[start_index + i]:
+                    longest_subsequence.append(list1[i])
+                else:
+                    break
+
+            return longest_subsequence
+
+        route = []
+        lines_temp = lines.copy()  # copies in case other uses of path and lines are needed
+        path_temp = path.copy()
+
+        # loop over path removing stops
+        while len(path_temp) > 0:
+            longest_overlap = []
+            longest_line = ''
+            for line in lines_temp:
+                stops = line[0]["Przystanki"]
+                overlap = find_matching_subsequence(path_temp,stops)  # find current overlap using helper function
+
+                # check for overlaps in reversed line stops
+                stops.reverse()
+                overlap_reversed = find_matching_subsequence(path_temp,stops)
+                stops.reverse()
+
+                # swap for reversed version if it's longer
+                if len(overlap) < len(overlap_reversed):
+                    overlap = overlap_reversed
+
+                # check if current overlap is longer than previous one
+                if len(overlap) > len(longest_overlap):
+                    longest_overlap = overlap
+                    longest_line = line[0]["Nazwa"]
+                    longest_line_dict = line
+
+            name = f"{longest_overlap[0]}-{longest_overlap[-1]}"  # initialize name for dictionary (it can't store lists as key)
+            route.append((name,longest_line))  # add info to dictionary
+
+            # remove current longest overlap from path, to -1 makes sure the next iteration starts from the right stop
+            for elem in longest_overlap[:-1]:
+                path_temp.remove(elem)
+
+            # checks if path has 1 element, which means we have finished matching lines, thus removes the last element
+            if len(path_temp) == 1:
+                path_temp.remove(longest_overlap[-1])
+
+            lines_temp.remove(longest_line_dict)  # remove current longest line from the list to speed up the process
+
+        return route
+
+
+
+
+file1 = open("D:\PyCharm\PyCharm 2023.2.4\JakNieDojade\Dane\graph.json", "r")
+graph = json.load(file1)
+s = ShortestPath()
+path = s.dijkstra(graph,10,910)[0]
+file = open("D:\\PyCharm\\PyCharm 2023.2.4\\JakNieDojade\\Dane\\test2.json","r")
+lines = json.load(file)
+s.match_lines_to_path(path,lines)
+print(s.match_lines_to_path(path,lines))
 """file = open("D:\PyCharm\PyCharm 2023.2.4\JakNieDojade\Dane\graphtest1.json", "r")
 graph = json.load(file)
 t=graph
