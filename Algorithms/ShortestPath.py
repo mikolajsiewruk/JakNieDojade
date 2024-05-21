@@ -142,7 +142,7 @@ class ShortestPath:
         """
         def find_matching_subsequence(list1, list2) -> list:
             """
-            Helper function for finding a subsequence in list1 and list2 starting in the first node of list1.
+            Helper function for finding a subsequence  starting in the first node of list1
             """
             first_element = list1[0]
 
