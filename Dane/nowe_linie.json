@@ -1,0 +1,29 @@
+[
+  [{"Nazwa": "Tramwaj_na_Maslice",
+  "Przystanki": [739,914,424,652,925,423,425,916,361,917],
+  "Czasy": [1,1,1,1,1,1,1,1,1]
+  }],
+  [{"Nazwa":  "Tramwaj_na_Swojczyce",
+  "Przystanki": [734,454,323,411,917],
+  "Czasy": [1,1,1,1]}],
+  [{"Nazwa": "Tramwaj_Borowska_Szpital",
+  "Przystanki": [164,145,919,920],
+  "Czasy":  [1,1,1]}],
+  [{"Nazwa": "Tramwaj_na_Klecine",
+  "Przystanki": [67,921,922,923,924],
+  "Czasy": [1,1,1,1]}],
+  [{"Nazwa": "Tramwaj_na_Jagodno",
+  "Przystanki": [457,18,91,330,413,232,925],
+  "Czasy": [1,1,1,1,1,1]}],
+  [{
+    "Nazwa": "Tramwaj_na_Ołtaszyn",
+    "Przystanki":[516,926,927,928,829,654,929,930,821,931],
+    "Czasy" :[1,1,1,1,1,1,1,1,1]
+  }],
+  [{"Nazwa": "Tramwaj_na_Gajowice",
+  "Przystanki": [173,932,352,845,933,759,934],
+  "Czasy": [1,1,1,1,1,1]}],
+  [{"Nazwa": "Tramwaj_na_Gądów",
+  "Przystanki": [377,935,137,219,99,272],
+  "Czasy": [1,1,1,1,1]}]
+]
