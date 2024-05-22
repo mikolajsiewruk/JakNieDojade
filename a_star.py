@@ -1,76 +1,71 @@
-t1=[[0,3,0,5,10,0,0,0,0,0],
-    [3,0,2,1,3,0,4,0,0,0],
-    [0,2,0,0,3,2,0,4,0,0],
-    [5,1,0,0,0,5,7,1,0,0],
-    [10,3,3,0,0,1,2,2,0,1],
-    [0,0,2,5,1,0,3,3,0,0],
-    [0,4,0,7,2,3,0,2,1,0],
-    [0,0,4,1,2,3,2,0,1,4],
-    [0,0,0,0,0,0,1,1,0,1],
-    [0,0,0,0,1,0,0,4,1,0]]
+import sqlite3
+import numpy as np
+import json
 
-# NOTE TO MY FUTURE SELF
 
-# Zrobione według barcelońskiego pseudokodu
-# idk co tu się odpierdala, nie mam na to aktualnie siły pozdro
-# kod nie działa bo nie ma rekonstrukcji ścieżki btw
-# a no i brakuje heurystyki ale to najmniejszy problem
-# pls kill me
+def f_value(node, x_goal, y_goal):
+    g_value = node[2]
+    h_value = np.sqrt((node[3]-x_goal)**2 + (node[4]-y_goal)**2)
+    f_value = g_value + h_value
+    return f_value
 
-# ogl potrzebuje jakoś mądrzej zapisywać wartości g i h każdego node'a w open i w closed
-# bo aktualnie to jest tak że elementowi open[2] przypada g_of_open[2] i h_of_open[2]
-# idiotyzm
-# a no i idk jak z tym, który node jest rodzicem którego, niby jest lista parenthood
-# ale aktualnie nieprzydatna
-# powodzenia
+def reconstruct_path(closed_list, current):
+    route = []
+    value = current[2]
+    while current is not None:
+        route.append(current[1])
+        parent = current[0]
+        current = next((node for node in closed_list if node[1] == parent), None)
+    return route[::-1], value
+
 def a_star(start, goal):
-    open = []
-    closed = []
-    open.append(start)
-    g_of_open = []
-    h_of_open = []
-    f_of_open = []
-    g_of_open.append(0)
-    h_of_open.append(1)
-    f_of_open.append(h_of_open[0])
-    g_of_closed = []
-    neighbours =[]
-    parenthood = []
-    while open:
-        index = f_of_open.index(min(f_of_open))
-        current = open[index]
-        if current == goal:
-            break
-        for i in range(len(t1)):
-            if t1[i][current] != 0:
-                neighbours.append(i)
-        for neighbour in neighbours:
-            neighbour_cost = []
-            neighbour_cost.append(g_of_open[index] + t1[current][neighbour])
-            if neighbour in open:
-                index_neigh_in_open = open.index(neighbour)
-                index_neigh_in_neigh = neighbours.index(neighbour)
-                if g_of_open[index_neigh_in_open] <= neighbour_cost[index_neigh_in_neigh]:
-                    continue
-            elif neighbour in closed:
-                index_neigh_in_open = closed.index(neighbour)
-                index_neigh_in_neigh = neighbours.index(neighbour)
-                if g_of_closed[index_neigh_in_open] <= neighbour_cost[index_neigh_in_neigh]:
-                    continue
-                closed.remove(neighbour)
-                open.append(neighbour)
+    open_list = []
+    x_start = cursor.execute(f"select X from Przystanki where IdP = '{start}';").fetchone()[0]
+    y_start = cursor.execute(f"select Y from Przystanki where IdP = '{start}';").fetchone()[0]
+    open_list.append([None, start, 0, x_start, y_start]) # parent, node and node's g value, x coordinate, y coordinate
+    closed_list = []
+    x_goal = cursor.execute(f"select X from Przystanki where IdP = '{goal}';").fetchone()[0]
+    y_goal = cursor.execute(f"select Y from Przystanki where IdP = '{goal}';").fetchone()[0]
+    current = None
+    while open_list:
+        lowest_f = f_value(open_list[0], x_goal, y_goal)
+        current = open_list[0]
+        for node in open_list:
+            if f_value(node, x_goal, y_goal) < lowest_f:
+                lowest_f = f_value(node, x_goal, y_goal)
+                current = node
+        if current[1] == goal:
+            closed_list.append(current)
+            return reconstruct_path(closed_list, current)
+        open_list.remove(current)
+        closed_list.append(current)
+        for i in range(len(graph[0])):
+            if graph[current[1]][i] == 0 or any(element[1] == i for element in closed_list):
+                continue
             else:
-                open.append(neighbour)
-                h_of_open.append(3) #### do heuristic to append
-            g_of_open.append(neighbour_cost)
+                if any(element[1] == i for element in open_list):
+                    neigbour_g = current[2] + graph[current[1]][i]
+                    for j in range(len(open_list)):
+                        if open_list[j][1] == i:
+                            if open_list[j][2] > neigbour_g:
+                                x = cursor.execute(f"select X from Przystanki where IdP = '{j}';").fetchone()[0]
+                                y = cursor.execute(f"select Y from Przystanki where IdP = '{j}';").fetchone()[0]
+                                open_list[j] = [current[1], j, neigbour_g, x, y]
+                else:
+                    neigbour_g = current[2] + graph[current[1]][i]
+                    x = cursor.execute(f"select X from Przystanki where IdP = '{i}';").fetchone()[0]
+                    y = cursor.execute(f"select Y from Przystanki where IdP = '{i}';").fetchone()[0]
+                    open_list.append([current[1], i, neigbour_g, x, y])
 
-            fuckthis = True
-            for family in parenthood:
-                if family[1] == neighbour:
-                    family[0] = current
-                    fuckthis = False
-            if fuckthis:
-                parenthood.append([current, neighbour])
-        closed.append(current)
-    if current != goal:
-        return False
+    return False
+
+
+connection = sqlite3.connect("mpk.db")
+cursor = connection.cursor()
+
+file = open("/Users/dominik/Documents/moje/programowanie/Phyton/Jakniedojade/JakNieDojade/Dane/graph.json", "r")
+graph = json.load(file)
+
+path = a_star(1, 815)
+print(path)
+
