@@ -145,6 +145,8 @@ class ShortestPath:
             Helper function for finding a subsequence  starting in the first node of list1
             """
             first_element = list1[0]
+            list2 = list(dict.fromkeys(list2))  # remove duplicates from the list cause this caused bugs
+            # list2 = list(list2)
 
             # check if there are no subsequences
             try:
@@ -192,7 +194,8 @@ class ShortestPath:
                     longest_overlap = overlap
                     longest_line = line[0]["Nazwa"]
                     longest_line_dict = line
-
+            print(longest_line_dict)
+            print(longest_overlap)
             name = f"{longest_overlap[0]}-{longest_overlap[-1]}"  # initialize name for dictionary (it can't store lists as key)
             route.append((name,longest_line))  # add info to dictionary
 
@@ -214,7 +217,8 @@ class ShortestPath:
 file1 = open("D:\PyCharm\PyCharm 2023.2.4\JakNieDojade\Dane\graph.json", "r")
 graph = json.load(file1)
 s = ShortestPath()
-path = s.dijkstra(graph,10,910)[0]
+path = s.dijkstra(graph,257,527)[0]
+print(path)
 file = open("D:\\PyCharm\\PyCharm 2023.2.4\\JakNieDojade\\Dane\\test2.json","r")
 lines = json.load(file)
 s.match_lines_to_path(path,lines)
