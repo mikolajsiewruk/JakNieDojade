@@ -146,7 +146,6 @@ class ShortestPath:
             """
             first_element = list1[0]
             list2 = list(dict.fromkeys(list2))  # remove duplicates from the list cause this caused bugs
-            # list2 = list(list2)
 
             # check if there are no subsequences
             try:
