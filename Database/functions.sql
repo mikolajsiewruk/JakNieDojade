@@ -85,3 +85,8 @@ WHERE Przystanki.Szkola = 0
     AND Przystanki.Zdrowie = 0
     AND Przystanki.Kultura = 0;
 
+
+CREATE VIEW Przystanki_percentages AS
+    SELECT * FROM Przystanki INNER JOIN Osiedla ON Przystanki.Osiedle = Osiedla.Name;
+
+CREATE TABLE Osiedla (IdO INTEGER PRIMARY KEY AUTOINCREMENT ,Name TEXT, Population REAL,Percentage REAL)
