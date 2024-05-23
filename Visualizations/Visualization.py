@@ -7,7 +7,7 @@ from Algorithms import ShortestPath
 
 class Visualizer:
     def __init__(self):
-        self.db = sqlite3.connect("D:\PyCharm\PyCharm 2023.2.4\JakNieDojade\mpk.db")
+        self.db = sqlite3.connect("C:\\Users\\paula\\PycharmProjects\\JakNieDojade\\mpk.db")
         self.cursor = self.db.cursor()
 
     def get_nodes_from_graph(self, graph: list, start=0, end=0) -> tuple:
@@ -70,11 +70,11 @@ class Visualizer:
             # check if edge is in path
             # networkx doesn't allow duplicates thus also check for revers node IDs in an edge.
             if edge in connections_in_path or (edge[1], edge[0]) in connections_in_path:
-                vertice_colors[edge] = 'red'  # possible changes here
-                vertice_width[edge] = 5  # possible changes here
+                vertice_colors[edge] = 'purple'  # possible changes here
+                vertice_width[edge] = 4  # possible changes here
             else:
-                vertice_colors[edge] = 'black'  # possible changes here
-                vertice_width[edge] = 3  # possible changes here
+                vertice_colors[edge] = 'pink'  # possible changes here
+                vertice_width[edge] = 2  # possible changes here
         return vertice_colors, vertice_width
 
     def get_pos(self, networkx_graph: nx.Graph) -> dict:
@@ -119,17 +119,21 @@ class Visualizer:
 
         pos = self.get_pos(G)
         sizes = [node_sizes[node] for node in G.nodes]
-        colors = [vertice_colors[edge] for edge in G.edges]
-        widths = [vertice_width[edge] for edge in G.edges]
+        colors = [vertice_colors[edge] for edge in G.edges()]
+        widths = [vertice_width[edge] for edge in G.edges()]
         labels = self.get_labels(G, node_sizes)
 
         plt.figure(figsize=(20, 20))
-        nx.draw_networkx(G, pos, node_size=sizes, edge_color=colors, width=widths, labels=labels, font_size=6,
-                         font_color='red', font_weight='bold')
+        nx.draw_networkx_nodes(G, pos, node_size=sizes, node_color='grey')
+        nx.draw_networkx_edges(G, pos, edge_color=colors, width=widths)
+        nx.draw_networkx_labels(G, pos, labels=labels, font_size=6, font_color='black', font_weight='bold',
+                                verticalalignment='center', horizontalalignment='left',
+                                bbox=dict(facecolor='white', alpha=0.4, edgecolor='none',
+                                          boxstyle='round,pad=0.2'))
         plt.savefig('xd.png')
 
 
 v = Visualizer()
-file = open("D:\PyCharm\PyCharm 2023.2.4\JakNieDojade\Dane\graph.json", "r")
+file = open("C:\\Users\\paula\\PycharmProjects\\JakNieDojade\\Dane\\graph.json", "r")
 graph = json.load(file)
 v.draw_graph(graph)
