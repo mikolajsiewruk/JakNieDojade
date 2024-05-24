@@ -23,6 +23,7 @@ def a_star(graph: list, start: int, goal: int) -> tuple:
         g_value = node[2]
         h_value = np.sqrt((node[3] - x_goal) ** 2 + (node[4] - y_goal) ** 2)
         f_value = g_value + h_value
+        print(f_value)
         return f_value
 
     def reconstruct_path(closed_list: list, current: list) -> tuple:
@@ -51,7 +52,6 @@ def a_star(graph: list, start: int, goal: int) -> tuple:
     y_goal = cursor.execute(f"select Y from Przystanki where IdP = '{goal}';").fetchone()[0]
 
     while len(open_list) != 0:  # executing as long as there are neighbours to nodes
-
         # determining the neighbour in open_list with the lowest f-value
         lowest_f = f_value(open_list[0])
         current = open_list[0]
@@ -64,7 +64,6 @@ def a_star(graph: list, start: int, goal: int) -> tuple:
         if current[1] == goal:
             closed_list.append(current)
             return reconstruct_path(closed_list, current)
-
         open_list.remove(current)
         closed_list.append(current)
         # for each node in the graph
@@ -82,7 +81,7 @@ def a_star(graph: list, start: int, goal: int) -> tuple:
                             if open_list[j][2] > neighbour_g:
                                 x = cursor.execute(f"select X from Przystanki where IdP = '{j}';").fetchone()[0]
                                 y = cursor.execute(f"select Y from Przystanki where IdP = '{j}';").fetchone()[0]
-                                open_list[j] = [current[1], j, neighbour_g, x, y]
+                                open_list[j] = [current[1], i, neighbour_g, x, y]
 
                 # if the neighbour is not in the open list, add it to open list
                 else:
@@ -101,6 +100,6 @@ cursor = connection.cursor()
 file = open("/Users/dominik/Documents/moje/programowanie/Phyton/Jakniedojade/JakNieDojade/Dane/graph.json", "r")
 graf = json.load(file)
 
-path = a_star(graf, 1, 815)
+path = a_star(graf, 257, 527)
 print(path)
 

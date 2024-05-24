@@ -199,7 +199,7 @@ class ShortestPath:
                                 if open_list[j][2] > neighbour_g:
                                     x = cursor.execute(f"select X from Przystanki where IdP = '{j}';").fetchone()[0]
                                     y = cursor.execute(f"select Y from Przystanki where IdP = '{j}';").fetchone()[0]
-                                    open_list[j] = [current[1], j, neighbour_g, x, y]
+                                    open_list[j] = [current[1], i, neighbour_g, x, y]
 
                     # if the neighbour is not in the open list, add it to open list
                     else:
@@ -309,7 +309,7 @@ cursor = connection.cursor()
 file1 = open("/Users/dominik/Documents/moje/programowanie/Phyton/Jakniedojade/JakNieDojade/Dane/graph.json", "r")
 graph = json.load(file1)
 s = ShortestPath()
-path = s.dijkstra(graph,257,527)[0]
+path = s.dijkstra(graph,257,527)
 print(path)
 path_a = s.a_star(graph, 257, 527)
 print(path_a)
