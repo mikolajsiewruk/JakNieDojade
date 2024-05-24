@@ -15,7 +15,7 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-# function to execute the shortest path search with dijkstra's and Bellman-Ford algorithm.
+# function to execute the shortest path search with Dijkstra's, Bellman-Ford and A* algorithm.
 def execute_algorithms(args):
     start, end = args
     with open("D:\PyCharm\PyCharm 2023.2.4\JakNieDojade\Dane\graph.json", "r") as file:  # load a graph
