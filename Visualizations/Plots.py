@@ -41,7 +41,7 @@ def multitask():
     with open("D:\PyCharm\PyCharm 2023.2.4\JakNieDojade\Dane\graph.json", "r") as file:
         graph = json.load(file)
 
-    tasks = [(random.randint(1, len(graph)), random.randint(1, len(graph))) for _ in range(500)]  # generate 500 point pairs for the multiprocesses
+    tasks = [(random.randint(1, len(graph)), random.randint(1, len(graph)), random.randint(1, len(graph))) for _ in range(500)]  # generate 500 point pairs for the multiprocesses
 
     with multiprocessing.Pool(8) as pool:  # initialize 8 processes
         results = pool.map(execute_algorithms, tasks)  # execute 500 tasks using 8 processes
