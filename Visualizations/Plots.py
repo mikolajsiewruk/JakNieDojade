@@ -31,7 +31,11 @@ def execute_algorithms(args):
     sp.bellman_ford(graph, start, end)
     bellman_ford_time = tm.perf_counter_ns() - start_time
 
-    return dijkstra_time, bellman_ford_time
+    start_time = tm.perf_counter_ns()
+    sp.a_star(graph, start, end)
+    a_star_time = tm.perf_counter_ns() - start_time
+
+    return dijkstra_time, bellman_ford_time, a_star_time
 
 def multitask():
     with open("D:\PyCharm\PyCharm 2023.2.4\JakNieDojade\Dane\graph.json", "r") as file:
@@ -44,14 +48,16 @@ def multitask():
 
     dijkstra_times = [result[0] for result in results]
     bellman_ford_times = [result[1] for result in results]
+    a_star_times = [result[2] for result in results]
 
     dijkstra_mean = np.mean(dijkstra_times)
     bf_mean = np.mean(bellman_ford_times)
+    a_star_mean = np.mean(a_star_times)
 
-    labels = ['Dijkstra', 'Bellman-Ford']
-    avg_times = [dijkstra_mean, bf_mean]
+    labels = ['Dijkstra', 'Bellman-Ford', 'A*']
+    avg_times = [dijkstra_mean, bf_mean, a_star_mean]
 
-    plt.bar(labels, avg_times, color=['blue', 'green'])
+    plt.bar(labels, avg_times, color=['blue', 'green', 'red'])
 
     plt.xlabel('Algorithm')
     plt.ylabel('Average Execution Time (ns)')
