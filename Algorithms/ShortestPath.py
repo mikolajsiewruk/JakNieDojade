@@ -309,9 +309,9 @@ cursor = connection.cursor()
 file1 = open("/Users/dominik/Documents/moje/programowanie/Phyton/Jakniedojade/JakNieDojade/Dane/graph.json", "r")
 graph = json.load(file1)
 s = ShortestPath()
-path = s.dijkstra(graph,257,527)[0]
+path = s.dijkstra(graph,13,527)[0]
 print(path)
-path_a = s.a_star(graph, 257, 527)
+path_a = s.a_star(graph, 13, 527)
 print(path_a)
 file = open("D:\\PyCharm\\PyCharm 2023.2.4\\JakNieDojade\\Dane\\test2.json","r")
 lines = json.load(file)
