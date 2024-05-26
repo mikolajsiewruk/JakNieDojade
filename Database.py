@@ -117,7 +117,7 @@ class Database:
         :param lines_filepath: path to a JSON file with lines information (Name, stops,times).
         """
         dimensions = len(self.cursor.execute(
-            "SELECT IdP FROM Przystanki").fetchall())  # dimensions of the graph matrix = number of stops in the database
+            "SELECT IdP FROM Nowe_przystanki").fetchall())  # dimensions of the graph matrix = number of stops in the database
         table = [[0] * (dimensions + 1) for _ in range(dimensions + 1)]
         file = open(lines_filepath, 'r')
         data = json.load(file)
@@ -137,12 +137,12 @@ class Database:
                     table[stops[i + 1]][stops[i]] = times[i]
                     logger.info(f"Added connection between {(stops[i], stops[i + 1])} weight {times[i]}")
 
-        path = os.path.join(dir, "graph.json")
+        path = os.path.join(dir, "new_graph.json")
         file1 = open(path, 'w')
-        # json.dump(table, file1, indent=4)
+        #json.dump(table, file1, indent=4)
 
 
 if __name__ == '__main__':
     d = Database()
     d.add_info_to_graph("D:\PyCharm\PyCharm 2023.2.4\JakNieDojade\Dane\\",
-                        "D:\PyCharm\PyCharm 2023.2.4\JakNieDojade\Dane\\test2.json")
+                        "D:\PyCharm\PyCharm 2023.2.4\JakNieDojade\Dane\\nowe_linie1.json")
