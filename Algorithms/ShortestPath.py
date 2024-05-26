@@ -76,50 +76,51 @@ class ShortestPath:
         length = distances[end]["val"][1]
         return path, length
 
-    def bellman_ford(self, graph: list,start: int, end: int):
-        """
-        Finds the shortest path between two stops using the Bellman-Ford algorithm.
+   def bellman_ford(self, graph: list, start: int, end: int):
+    """
+    Finds the shortest path between two stops using the Bellman-Ford algorithm.
 
-        Args:
-        - start (int): Index of the starting stop.
-        - end (int): Index of the ending stop.
+    Args:
+    - start (int): Index of the starting stop.
+    - end (int): Index of the ending stop.
 
-        Returns:
-        - tuple: A tuple containing the shortest path from the starting stop to the ending stop and the total travel time.
-        """
-        num_stops = len(graph)
-        # Initialize distances from the starting stop to all other stops as infinity
-        distances = [float('inf')] * num_stops
-        distances[start] = 0
+    Returns:
+    - tuple: A tuple containing the shortest path from the starting stop to the ending stop and the total travel time.
+    """
+    num_stops = len(graph)
+    # Initialize distances from the starting stop to all other stops as infinity
+    distances = [float('inf')] * num_stops
+    distances[start] = 0
 
-        # Relaxation loop
-        for _ in range(num_stops - 1):
-            for current_stop in range(num_stops):
-                for next_stop in range(num_stops):
-                    if graph[current_stop][next_stop] != 0 and distances[current_stop] != float('inf'):
-                        if distances[current_stop] + graph[current_stop][next_stop] < distances[next_stop]:
-                            distances[next_stop] = distances[current_stop] + graph[current_stop][next_stop]
-
-        # Check for negative cycles
-        '''for current_stop in range(num_stops):
+    # Update distances by considering each stop and its neighbors
+    for _ in range(num_stops - 1):
+        for current_stop in range(num_stops):
             for next_stop in range(num_stops):
-                if graph[current_stop][next_stop] != 0 and distances[current_stop] + graph[current_stop][next_stop] < distances[next_stop]:
-                    print("The transportation network contains a negative cycle")
-                    return [], float('inf')'''
+                if graph[current_stop][next_stop] != 0 and distances[current_stop] != float('inf'):
+                    if distances[current_stop] + graph[current_stop][next_stop] < distances[next_stop]:
+                        distances[next_stop] = distances[current_stop] + graph[current_stop][next_stop]
 
-        # Constructing the path and calculating total travel time
-        path = [end]
-        current_stop = end
-        length = 0
-        while current_stop != start:
-            for next_stop in range(num_stops):
-                if graph[next_stop][current_stop] != 0 and distances[next_stop] == distances[current_stop] - graph[next_stop][current_stop]:
-                    path.insert(0, next_stop)
-                    length += graph[next_stop][current_stop]
-                    current_stop = next_stop
-                    break
+    # Check for negative cycles
+    '''for current_stop in range(num_stops):
+        for next_stop in range(num_stops):
+            if graph[current_stop][next_stop] != 0 and distances[current_stop] + graph[current_stop][next_stop] < distances[next_stop]:
+                print("The transportation network contains a negative cycle")
+                return [], float('inf')'''
 
-        return path, length
+    # Constructing the shortest path from end to start
+    path = [end]
+    current_stop = end
+    length = 0
+    while current_stop != start:
+        for next_stop in range(num_stops):
+            if graph[next_stop][current_stop] != 0 and distances[next_stop] == distances[current_stop] - graph[next_stop][current_stop]:
+                path.insert(0, next_stop)
+                length += graph[next_stop][current_stop]
+                current_stop = next_stop
+                break
+
+    return path, length
+
 
     @staticmethod
     def a_star(graph: list, start: int, goal: int) -> tuple:
