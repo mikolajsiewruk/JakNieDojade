@@ -10,7 +10,7 @@ class Visualizer:
         self.db = sqlite3.connect("D:\PyCharm\PyCharm 2023.2.4\JakNieDojade\mpk.db")
         self.cursor = self.db.cursor()
 
-    def get_nodes_from_graph(self, graph: list, start=0, end=0) -> tuple:
+    def get_nodes_from_graph(self, graph: list, path = []) -> tuple:
         """
         Converts a graph in adjacency matrix form into a collection of connections between nodes.
         :param graph: a graph in adjacency matrix form.
@@ -22,9 +22,7 @@ class Visualizer:
         connections = []
         nodes_in_path = []
 
-        if start != 0 and end != 0:
-            path = sp.dijkstra(graph, start, end)[0]
-
+        if path:
             for i in range(len(path) - 1):
                 nodes_in_path.append((path[i], path[i + 1]))  # add adjacent nodes from the path extracted by the algorithm to the graphs nodes
 
@@ -85,7 +83,7 @@ class Visualizer:
         """
         pos = {}
         for node in networkx_graph.nodes:
-            coordinates = self.cursor.execute(f"SELECT Y,X FROM Przystanki WHERE IdP = '{node}'").fetchone()  # get nodes coordinates from the db
+            coordinates = self.cursor.execute(f"SELECT Y,X FROM Nowe_przystanki WHERE IdP = '{node}'").fetchone()  # get nodes coordinates from the db
             pos[node] = coordinates
         return pos
 
@@ -99,17 +97,17 @@ class Visualizer:
         labels = {}
         for node in networkx_graph.nodes:
             if node_sizes[node] >= 75:  # check if node has more than 5 connection, terrible design needs changed
-                name = self.cursor.execute(f"SELECT Nazwa FROM Przystanki WHERE IdP = '{node}'").fetchone()  # get stop's name from the db
+                name = self.cursor.execute(f"SELECT Nazwa FROM Nowe_przystanki WHERE IdP = '{node}'").fetchone()  # get stop's name from the db
                 labels[node] = name[0]
             else:
                 labels[node] = ''  # for small stops do not display any label
         return labels
 
-    def draw_graph(self, graph: list,start=0, end=0):  # mozna zmienic to zeby bralo start i end losowo, wtedy mozna dowolna trase zaznaczyc
+    def draw_graph(self, graph: list,path = []):  # mozna zmienic to zeby bralo start i end losowo, wtedy mozna dowolna trase zaznaczyc
         """
         Draws a graph in an adjacency matrix form.
         """
-        connections, connections_in_path = self.get_nodes_from_graph(graph, start, end)  # possible change for simulation purposes
+        connections, connections_in_path = self.get_nodes_from_graph(graph, path)  # possible change for simulation purposes
         node_sizes = self.get_node_sizes(graph)
 
         G = nx.Graph()

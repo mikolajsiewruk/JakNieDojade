@@ -233,9 +233,10 @@ class ShortestPath:
         :param lines: a list of public transportation lines represented by dictionaries.
         :returns: returns a list of tuples [(stops,line)]
         """
+
         def find_matching_subsequence(list1, list2) -> list:
             """
-            Helper function for finding a subsequence  starting in the first node of list1
+            Helper function for finding a subsequence starting in the first node of list1
             """
             first_element = list1[0]
             list2 = list(dict.fromkeys(list2))  # remove duplicates from the list cause this caused bugs
@@ -261,20 +262,19 @@ class ShortestPath:
             return longest_subsequence
 
         route = []
-        lines_temp = lines.copy()  # copies in case other uses of path and lines are needed
         path_temp = path.copy()
 
         # loop over path removing stops
         while len(path_temp) > 0:
             longest_overlap = []
             longest_line = ''
-            for line in lines_temp:
+            for line in lines:
                 stops = line[0]["Przystanki"]
-                overlap = find_matching_subsequence(path_temp,stops)  # find current overlap using helper function
+                overlap = find_matching_subsequence(path_temp, stops)  # find current overlap using helper function
 
                 # check for overlaps in reversed line stops
                 stops.reverse()
-                overlap_reversed = find_matching_subsequence(path_temp,stops)
+                overlap_reversed = find_matching_subsequence(path_temp, stops)
                 stops.reverse()
 
                 # swap for reversed version if it's longer
@@ -285,25 +285,26 @@ class ShortestPath:
                 if len(overlap) > len(longest_overlap):
                     longest_overlap = overlap
                     longest_line = line[0]["Nazwa"]
-                    longest_line_dict = line
 
-            name = f"{longest_overlap[0]}-{longest_overlap[-1]}"  # initialize name for dictionary (it can't store lists as key)
-            route.append((name,longest_line))  # add info to dictionary
+            print(longest_overlap)
+            print(longest_line)
+            if longest_overlap:
+                name = f"{longest_overlap[0]}-{longest_overlap[-1]}"  # initialize name for dictionary (it can't store lists as key)
+                route.append((name, longest_line))  # add info to dictionary
 
-            # remove current longest overlap from path, to -1 makes sure the next iteration starts from the right stop
-            for elem in longest_overlap[:-1]:
-                path_temp.remove(elem)
+                # remove current longest overlap from path, to -1 makes sure the next iteration starts from the right stop
+                path_temp = path_temp[len(longest_overlap) - 1:]
+            else:
+                break
 
             # checks if path has 1 element, which means we have finished matching lines, thus removes the last element
             if len(path_temp) == 1:
-                path_temp.remove(longest_overlap[-1])
-
-            lines_temp.remove(longest_line_dict)  # remove current longest line from the list to speed up the process
+                path_temp.remove(path_temp[0])
 
         return route
 
 
-connection = sqlite3.connect("/Users/dominik/Documents/moje/programowanie/Phyton/Jakniedojade/JakNieDojade/mpk.db")
+'''connection = sqlite3.connect("/Users/dominik/Documents/moje/programowanie/Phyton/Jakniedojade/JakNieDojade/mpk.db")
 cursor = connection.cursor()
 
 file1 = open("/Users/dominik/Documents/moje/programowanie/Phyton/Jakniedojade/JakNieDojade/Dane/graph.json", "r")
@@ -316,11 +317,11 @@ print(path_a)
 file = open("D:\\PyCharm\\PyCharm 2023.2.4\\JakNieDojade\\Dane\\test2.json","r")
 lines = json.load(file)
 s.match_lines_to_path(path,lines)
-print(s.match_lines_to_path(path,lines))
-"""file = open("D:\PyCharm\PyCharm 2023.2.4\JakNieDojade\Dane\graphtest1.json", "r")
+print(s.match_lines_to_path(path,lines))'''
+file = open("D:\PyCharm\PyCharm 2023.2.4\JakNieDojade\Dane\graphtest1.json", "r")
 graph = json.load(file)
 t=graph
 s = ShortestPath()
 
-print(s.dijkstra(t, 5, 15))
-#print(s.bellman_ford(t,10,939))"""
+print(s.dijkstra(t, 20, 553))
+#print(s.bellman_ford(t,10,939))

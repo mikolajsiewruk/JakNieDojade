@@ -1,5 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
+import seaborn as sns
 
 
 class Results:
@@ -19,18 +20,26 @@ class Results:
 
         return means, sds, minimums, maximums
 
-    def draw_boxplot(self):
-        fig = plt.figure(figsize=(10, 7))
+    def draw_boxplot(self, title):
+        # Prepare data for seaborn
+        data = {
+            '< 5': self.under_five,
+            '5-10': self.five_ten,
+            '10-15': self.ten_fifteen,
+            '15-20': self.fifteen_twenty,
+            '> 20': self.over_twenty
+        }
 
-        data = [self.under_five,
-        self.five_ten,
-        self.ten_fifteen,
-        self.fifteen_twenty,
-        self.over_twenty]
+        # Convert data to long-form DataFrame for seaborn
+        import pandas as pd
+        df = pd.DataFrame(dict([(k, pd.Series(v)) for k, v in data.items()]))
 
-        ax = fig.add_axes([0, 0, 1, 1])
+        # Melt DataFrame to long-form
+        df_melted = df.melt(var_name='Distance', value_name='Time')
 
-        bp = ax.boxplot(data)
-
+        # Create the boxplot
+        plt.figure(figsize=(10, 7))
+        sns.boxplot(x='Distance', y='Time', data=df_melted)
+        plt.title(title)
         plt.show()
 
