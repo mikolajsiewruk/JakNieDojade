@@ -7,7 +7,7 @@ from Algorithms import ShortestPath
 
 class Visualizer:
     def __init__(self):
-        self.db = sqlite3.connect("C:\\Users\\paula\\PycharmProjects\\JakNieDojade\\mpk.db")
+        self.db = sqlite3.connect("D:\PyCharm\PyCharm 2023.2.4\JakNieDojade\mpk.db")
         self.cursor = self.db.cursor()
 
     def get_nodes_from_graph(self, graph: list, start=0, end=0) -> tuple:
@@ -105,11 +105,11 @@ class Visualizer:
                 labels[node] = ''  # for small stops do not display any label
         return labels
 
-    def draw_graph(self, graph: list):  # mozna zmienic to zeby bralo start i end losowo, wtedy mozna dowolna trase zaznaczyc
+    def draw_graph(self, graph: list,start=0, end=0):  # mozna zmienic to zeby bralo start i end losowo, wtedy mozna dowolna trase zaznaczyc
         """
         Draws a graph in an adjacency matrix form.
         """
-        connections, connections_in_path = self.get_nodes_from_graph(graph, 10, 908)  # possible change for simulation purposes
+        connections, connections_in_path = self.get_nodes_from_graph(graph, start, end)  # possible change for simulation purposes
         node_sizes = self.get_node_sizes(graph)
 
         G = nx.Graph()
@@ -133,7 +133,7 @@ class Visualizer:
         plt.savefig('xd.png')
 
 
-v = Visualizer()
+'''v = Visualizer()
 file = open("C:\\Users\\paula\\PycharmProjects\\JakNieDojade\\Dane\\graph.json", "r")
 graph = json.load(file)
-v.draw_graph(graph)
+v.draw_graph(graph,10,908)'''

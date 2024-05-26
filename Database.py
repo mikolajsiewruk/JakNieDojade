@@ -139,7 +139,7 @@ class Database:
 
         path = os.path.join(dir, "new_graph.json")
         file1 = open(path, 'w')
-        #json.dump(table, file1, indent=4)
+        json.dump(table, file1, indent=4)
 
 
 if __name__ == '__main__':

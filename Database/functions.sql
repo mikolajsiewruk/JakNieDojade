@@ -86,6 +86,9 @@ WHERE Przystanki.Szkola = 0
     AND Przystanki.Kultura = 0;
 
 
+CREATE VIEW Nowe_przystanki_percentages AS
+    SELECT * FROM Nowe_przystanki INNER JOIN Osiedla ON Nowe_przystanki.Osiedle = Osiedla.Name;
+
 CREATE VIEW Przystanki_percentages AS
     SELECT * FROM Przystanki INNER JOIN Osiedla ON Przystanki.Osiedle = Osiedla.Name;
 

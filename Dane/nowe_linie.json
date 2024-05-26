@@ -1,10 +1,10 @@
 [
   [{"Nazwa": "Tramwaj_na_Maslice",
-  "Przystanki": [739,914,424,652,925,423,425,916,361,917],
+  "Przystanki": [739,914,424,652,915,423,425,916,361,917],
   "Czasy": [1,1,1,1,1,1,1,1,1]
   }],
   [{"Nazwa":  "Tramwaj_na_Swojczyce",
-  "Przystanki": [734,454,323,411,917],
+  "Przystanki": [734,454,323,411,918],
   "Czasy": [1,1,1,1]}],
   [{"Nazwa": "Tramwaj_Borowska_Szpital",
   "Przystanki": [164,145,919,920],
