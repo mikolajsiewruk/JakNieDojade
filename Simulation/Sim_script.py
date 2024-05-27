@@ -64,8 +64,8 @@ for i in range(100):
     # check if route includes new public transportation lines
     for r in pt_route:
         if r[1] in new_lines:
-            vis.draw_graph(current_graph,path_cur)
-            vis.draw_graph(new_graph,path_new)
+            vis.draw_graph(current_graph, f"cur {i}.png", path_cur)
+            vis.draw_graph(new_graph, f"new {i}.png", path_new)
 
     # check distance between stops
     x1,y1 = cursor.execute(f"SELECT X,Y FROM Nowe_przystanki WHERE IdP = '{start}';").fetchone()

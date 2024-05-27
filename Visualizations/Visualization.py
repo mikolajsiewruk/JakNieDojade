@@ -103,7 +103,7 @@ class Visualizer:
                 labels[node] = ''  # for small stops do not display any label
         return labels
 
-    def draw_graph(self, graph: list,path = []):  # mozna zmienic to zeby bralo start i end losowo, wtedy mozna dowolna trase zaznaczyc
+    def draw_graph(self, graph: list,filename: str, path = []):  # mozna zmienic to zeby bralo start i end losowo, wtedy mozna dowolna trase zaznaczyc
         """
         Draws a graph in an adjacency matrix form.
         """
@@ -128,7 +128,8 @@ class Visualizer:
                                 verticalalignment='center', horizontalalignment='left',
                                 bbox=dict(facecolor='white', alpha=0.4, edgecolor='none',
                                           boxstyle='round,pad=0.2'))
-        plt.savefig('xd.png')
+        plt.savefig(filename)
+        plt.close()
 
 
 '''v = Visualizer()
