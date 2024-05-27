@@ -51,21 +51,48 @@ new_times_stops = Results()
 current_times_dist = Results()
 new_times_dist = Results()
 
+# initialize other counters
+total_new_lines_use = 0
+total_time_saved = 0
+new_lines_count = {'Tramwaj_na_Maslice':0,'Tramwaj_na_Swojczyce':0,'Tramwaj_Borowska_Szpital':0,'Tramwaj_na_Klecine':0,'Tramwaj_na_Jagodno':0, 'Tramwaj_na_Ołtaszyn':0, 'Tramwaj_na_Gajowice':0, 'Tramwaj_na_Gądów':0}
+print(new_lines)
 # start Monte Carlo simulation
-for i in range(100):
+for i in range(1):
     start,end = random.choices(stop_ids,weights,k=2)
-    print(start,end)
+    start,end = 232,457
     path_cur,time_cur = sp.dijkstra(current_graph,start,end)
     path_new,time_new = sp.dijkstra(new_graph,start,end)
+    print(path_cur,time_cur)
+    print(path_new,time_new)
     pt_route = sp.match_lines_to_path(path_new,all_lines)
-    print(path_cur)
-    print(path_new)
     print(pt_route)
+
     # check if route includes new public transportation lines
     for r in pt_route:
         if r[1] in new_lines:
+            total_new_lines_use += 1
+            total_time_saved += time_cur - time_new
             vis.draw_graph(current_graph, f"cur {i}.png", path_cur)
             vis.draw_graph(new_graph, f"new {i}.png", path_new)
+
+        # count every use of each new tram line
+        if r[1] == 'Tramwaj_na_Maslice':
+            new_lines_count['Tramwaj_na_Maslice'] += 1
+        if r[1] == 'Tramwaj_na_Gądów':
+            new_lines_count['Tramwaj_na_Gądów'] += 1
+        if r[1] == 'Tramwaj_na_Gajowice':
+            new_lines_count['Tramwaj_na_Gajowice'] += 1
+        if r[1] == 'Tramwaj_na_Ołtaszyn':
+            new_lines_count['Tramwaj_na_Ołtaszyn'] += 1
+        if r[1] == 'Tramwaj_na_Jagodno':
+            new_lines_count['Tramwaj_na_Jagodno'] += 1
+        if r[1] == 'Tramwaj_na_Klecine':
+            new_lines_count['Tramwaj_na_Klecine'] += 1
+        if r[1] == 'Tramwaj_Borowska_Szpital':
+            new_lines_count['Tramwaj_Borowska_Szpital'] += 1
+        if r[1] == 'Tramwaj_na_Swojczyce':
+            new_lines_count['Tramwaj_na_Swojczyce'] += 1
+
 
     # check distance between stops
     x1,y1 = cursor.execute(f"SELECT X,Y FROM Nowe_przystanki WHERE IdP = '{start}';").fetchone()
@@ -82,44 +109,66 @@ for i in range(100):
     # check the distance between stops
     if dist < 5:
         current_times_dist.under_five.append(time_cur)
+        current_times_dist.num_under_five += 1
         new_times_dist.under_five.append(time_new)
+        new_times_dist.num_under_five += 1
     elif 5 <= dist < 10:
         current_times_dist.five_ten.append(time_cur)
+        current_times_dist.num_five_ten += 1
         new_times_dist.five_ten.append(time_new)
+        new_times_dist.num_five_ten += 1
     elif 10 <= dist < 15:
         current_times_dist.ten_fifteen.append(time_cur)
+        current_times_dist.num_ten_fifteen += 1
         new_times_dist.ten_fifteen.append(time_new)
+        new_times_dist.num_ten_fifteen += 1
     elif 15 <= dist < 20:
         current_times_dist.fifteen_twenty.append(time_cur)
+        current_times_dist.num_fifteen_twenty += 1
         new_times_dist.fifteen_twenty.append(time_new)
+        new_times_dist.num_fifteen_twenty += 1
     else:
         current_times_dist.over_twenty.append(time_cur)
+        current_times_dist.num_over_twenty += 1
         new_times_dist.over_twenty.append(time_new)
+        new_times_dist.num_over_twenty += 1
 
     if num_stops_cur < 5:
         current_times_stops.under_five.append(time_cur)
+        current_times_stops.num_under_five += 1
     elif 5 <= num_stops_cur < 10:
         current_times_stops.five_ten.append(time_cur)
+        current_times_stops.num_five_ten += 1
     elif 10 <= num_stops_cur < 15:
         current_times_stops.ten_fifteen.append(time_cur)
+        current_times_stops.num_ten_fifteen += 1
     elif 15 <= num_stops_cur < 20:
         current_times_stops.fifteen_twenty.append(time_cur)
+        current_times_stops.num_fifteen_twenty += 1
     else:
         current_times_stops.over_twenty.append(time_cur)
+        current_times_stops.num_over_twenty += 1
 
     if num_stops_new < 5:
-        new_times_stops.under_five.append(time_cur)
+        new_times_stops.under_five.append(time_new)
+        new_times_stops.num_under_five += 1
     elif 5 <= num_stops_new < 10:
-        new_times_stops.five_ten.append(time_cur)
+        new_times_stops.five_ten.append(time_new)
+        new_times_stops.num_five_ten += 1
     elif 10 <= num_stops_new < 15:
-        new_times_stops.ten_fifteen.append(time_cur)
+        new_times_stops.ten_fifteen.append(time_new)
+        new_times_stops.num_ten_fifteen += 1
     elif 15 <= num_stops_new < 20:
-        new_times_stops.fifteen_twenty.append(time_cur)
+        new_times_stops.fifteen_twenty.append(time_new)
+        new_times_stops.num_fifteen_twenty += 1
     else:
-        new_times_stops.over_twenty.append(time_cur)
+        new_times_stops.over_twenty.append(time_new)
+        new_times_stops.num_over_twenty += 1
 
 
 current_times_stops.draw_boxplot("Current Times by Number of Stops")
 new_times_stops.draw_boxplot("New Times by Number of Stops")
 current_times_dist.draw_boxplot("Current Times by Distance Between Stops")
 new_times_dist.draw_boxplot("New Times by Distance Between Stops")
+print(new_lines_count)
+print(total_time_saved)

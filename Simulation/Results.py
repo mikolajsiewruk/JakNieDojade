@@ -11,6 +11,11 @@ class Results:
         self.ten_fifteen = []
         self.fifteen_twenty = []
         self.over_twenty = []
+        self.num_under_five = 0
+        self.num_five_ten = 0
+        self.num_ten_fifteen = 0
+        self.num_fifteen_twenty = 0
+        self.num_over_twenty = 0
 
     def calculate_statistics(self):
         means = [np.mean(self.under_five),np.mean(self.five_ten),np.mean(self.ten_fifteen),np.mean(self.fifteen_twenty),np.mean(self.over_twenty)]
