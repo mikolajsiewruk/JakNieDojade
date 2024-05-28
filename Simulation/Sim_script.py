@@ -8,19 +8,19 @@ from Simulation.Results import Results
 
 
 # import a graph with current stops
-file = open('D:\PyCharm\PyCharm 2023.2.4\JakNieDojade\Dane\graph.json','r')
+file = open('C:\\Users\LENOVO\PycharmProjects\JakNieDojade\Dane\\graph.json','r')
 current_graph = json.load(file)
 
 # import a graph with projected changes in public transportation infrastructure
-file = open('D:\PyCharm\PyCharm 2023.2.4\JakNieDojade\Dane\\new_graph.json','r')
+file = open('C:\\Users\LENOVO\PycharmProjects\JakNieDojade\Dane\\new_graph.json','r')
 new_graph = json.load(file)
 
 # import all public transportation lines
-file = open('D:\PyCharm\PyCharm 2023.2.4\JakNieDojade\Dane\\nowe_linie1.json','r',encoding='UTF-8')
+file = open('C:\\Users\LENOVO\PycharmProjects\JakNieDojade\Dane\\nowe_linie1.json','r',encoding='UTF-8')
 all_lines = json.load(file)
-
+all_lines_count = {line[0]["Nazwa"]:0 for line in all_lines}
 # import new public transportation lines
-file = open('D:\PyCharm\PyCharm 2023.2.4\JakNieDojade\Dane\\nowe_linie.json','r',encoding='UTF-8')
+file = open('C:\\Users\LENOVO\PycharmProjects\JakNieDojade\Dane\\nowe_linie.json','r',encoding='UTF-8')
 lines_file = json.load(file)
 new_lines = []
 for lines in lines_file:
@@ -31,17 +31,19 @@ sp = ShortestPath()
 vis = Visualizer()
 
 # initialize DB connection
-db = sqlite3.connect('D:\PyCharm\PyCharm 2023.2.4\JakNieDojade\mpk.db')
+db = sqlite3.connect('C:\\Users\LENOVO\PycharmProjects\JakNieDojade\mpk.db')
 cursor = db.cursor()
 
 # create probability list from percentages in database
 current_stops_info = cursor.execute("SELECT IdP,Nazwa,Percentage FROM Przystanki_percentages").fetchall()
 new_stops_info = cursor.execute("SELECT IdP,Nazwa,Percentage FROM Nowe_przystanki_percentages").fetchall()
 
+current_stops_ids = []
 stop_ids = []
 weights = []
-
 for stop in current_stops_info:
+    current_stops_ids.append(stop[0])
+for stop in new_stops_info:
     weights.append(stop[2])
     stop_ids.append(stop[0])
 
@@ -54,18 +56,30 @@ new_times_dist = Results()
 # initialize other counters
 total_new_lines_use = 0
 total_time_saved = 0
+new_paths = 0
 new_lines_count = {'Tramwaj_na_Maslice':0,'Tramwaj_na_Swojczyce':0,'Tramwaj_Borowska_Szpital':0,'Tramwaj_na_Klecine':0,'Tramwaj_na_Jagodno':0, 'Tramwaj_na_Ołtaszyn':0, 'Tramwaj_na_Gajowice':0, 'Tramwaj_na_Gądów':0}
-print(new_lines)
+
 # start Monte Carlo simulation
-for i in range(1):
+for i in range(100):
     start,end = random.choices(stop_ids,weights,k=2)
-    start,end = 232,457
+
+    if start not in current_stops_ids or end not in current_stops_ids:
+        new_paths += 1
+        path_new, time_new = sp.dijkstra(new_graph, start, end)
+
+        pt_route = sp.match_lines_to_path(path_new, all_lines)
+
+        for r in pt_route:
+            if r[1] in new_lines:
+                total_new_lines_use += 1
+            all_lines_count[r[1]] += 1
+        vis.draw_graph(new_graph, f"new {i}.png", path_new)
+        continue
+
     path_cur,time_cur = sp.dijkstra(current_graph,start,end)
     path_new,time_new = sp.dijkstra(new_graph,start,end)
-    print(path_cur,time_cur)
-    print(path_new,time_new)
+
     pt_route = sp.match_lines_to_path(path_new,all_lines)
-    print(pt_route)
 
     # check if route includes new public transportation lines
     for r in pt_route:
@@ -75,24 +89,8 @@ for i in range(1):
             vis.draw_graph(current_graph, f"cur {i}.png", path_cur)
             vis.draw_graph(new_graph, f"new {i}.png", path_new)
 
-        # count every use of each new tram line
-        if r[1] == 'Tramwaj_na_Maslice':
-            new_lines_count['Tramwaj_na_Maslice'] += 1
-        if r[1] == 'Tramwaj_na_Gądów':
-            new_lines_count['Tramwaj_na_Gądów'] += 1
-        if r[1] == 'Tramwaj_na_Gajowice':
-            new_lines_count['Tramwaj_na_Gajowice'] += 1
-        if r[1] == 'Tramwaj_na_Ołtaszyn':
-            new_lines_count['Tramwaj_na_Ołtaszyn'] += 1
-        if r[1] == 'Tramwaj_na_Jagodno':
-            new_lines_count['Tramwaj_na_Jagodno'] += 1
-        if r[1] == 'Tramwaj_na_Klecine':
-            new_lines_count['Tramwaj_na_Klecine'] += 1
-        if r[1] == 'Tramwaj_Borowska_Szpital':
-            new_lines_count['Tramwaj_Borowska_Szpital'] += 1
-        if r[1] == 'Tramwaj_na_Swojczyce':
-            new_lines_count['Tramwaj_na_Swojczyce'] += 1
-
+        # count every use of each line
+        all_lines_count[r[1]] += 1
 
     # check distance between stops
     x1,y1 = cursor.execute(f"SELECT X,Y FROM Nowe_przystanki WHERE IdP = '{start}';").fetchone()
@@ -172,3 +170,4 @@ current_times_dist.draw_boxplot("Current Times by Distance Between Stops")
 new_times_dist.draw_boxplot("New Times by Distance Between Stops")
 print(new_lines_count)
 print(total_time_saved)
+print(all_lines_count)

@@ -333,10 +333,10 @@ file = open("D:\\PyCharm\\PyCharm 2023.2.4\\JakNieDojade\\Dane\\test2.json","r")
 lines = json.load(file)
 s.match_lines_to_path(path,lines)
 print(s.match_lines_to_path(path,lines))'''
-file = open("D:\PyCharm\PyCharm 2023.2.4\JakNieDojade\Dane\graphtest1.json", "r")
+'''file = open("D:\PyCharm\PyCharm 2023.2.4\JakNieDojade\Dane\graphtest1.json", "r")
 graph = json.load(file)
 t=graph
 s = ShortestPath()
 
 print(s.dijkstra(t, 20, 553))
-#print(s.bellman_ford(t,10,939))
+#print(s.bellman_ford(t,10,939))'''

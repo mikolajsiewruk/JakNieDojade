@@ -7,7 +7,7 @@ from Algorithms import ShortestPath
 
 class Visualizer:
     def __init__(self):
-        self.db = sqlite3.connect("D:\PyCharm\PyCharm 2023.2.4\JakNieDojade\mpk.db")
+        self.db = sqlite3.connect("C:\\Users\LENOVO\PycharmProjects\JakNieDojade\mpk.db")
         self.cursor = self.db.cursor()
 
     def get_nodes_from_graph(self, graph: list, path = []) -> tuple:
