@@ -2,25 +2,29 @@ import json
 import sqlite3
 import random
 import math
+import os
 from Algorithms.ShortestPath import ShortestPath
 from Visualizations.Visualization import Visualizer
 from Simulation.Results import Results
+from Database.FindProject import find_project_root
 
+# get project root
+project_root = find_project_root()
 
 # import a graph with current stops
-file = open('C:\\Users\LENOVO\PycharmProjects\JakNieDojade\Dane\\graph.json','r')
+file = open(project_root / 'Dane' / 'graph.json','r')
 current_graph = json.load(file)
 
 # import a graph with projected changes in public transportation infrastructure
-file = open('C:\\Users\LENOVO\PycharmProjects\JakNieDojade\Dane\\new_graph.json','r')
+file = open(project_root / 'Dane' / 'new_graph.json','r')
 new_graph = json.load(file)
 
 # import all public transportation lines
-file = open('C:\\Users\LENOVO\PycharmProjects\JakNieDojade\Dane\\nowe_linie1.json','r',encoding='UTF-8')
+file = open(project_root / 'Dane' / 'nowe_linie1.json','r',encoding='UTF-8')
 all_lines = json.load(file)
 all_lines_count = {line[0]["Nazwa"]:0 for line in all_lines}
 # import new public transportation lines
-file = open('C:\\Users\LENOVO\PycharmProjects\JakNieDojade\Dane\\nowe_linie.json','r',encoding='UTF-8')
+file = open(project_root / 'Dane' / 'nowe_linie.json','r',encoding='UTF-8')
 lines_file = json.load(file)
 new_lines = []
 for lines in lines_file:
@@ -31,7 +35,7 @@ sp = ShortestPath()
 vis = Visualizer()
 
 # initialize DB connection
-db = sqlite3.connect('C:\\Users\LENOVO\PycharmProjects\JakNieDojade\mpk.db')
+db = sqlite3.connect(project_root / 'mpk.db')
 cursor = db.cursor()
 
 # create probability list from percentages in database

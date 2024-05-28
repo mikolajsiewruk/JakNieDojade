@@ -5,7 +5,7 @@ import logging
 
 # logger configuration
 logging.basicConfig(
-    filename="adding.log",
+    filename="../adding.log",
     format='%(asctime)s - %(message)s',
     filemode="w",
     level=logging.DEBUG
@@ -15,7 +15,7 @@ logger = logging.getLogger(__name__)
 
 class Database:
     def __init__(self):
-        self.connection = sqlite3.connect("mpk.db")
+        self.connection = sqlite3.connect("../mpk.db")
         self.cursor = self.connection.cursor()
 
     def insert(self, name: str, x: float, y: float, functions: list, district: str):

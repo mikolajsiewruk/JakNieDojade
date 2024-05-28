@@ -3,11 +3,13 @@ import matplotlib.pyplot as plt
 import json
 import sqlite3
 from Algorithms import ShortestPath
+from Database.FindProject import find_project_root
 
 
 class Visualizer:
     def __init__(self):
-        self.db = sqlite3.connect("C:\\Users\LENOVO\PycharmProjects\JakNieDojade\mpk.db")
+        project_root = find_project_root()
+        self.db = sqlite3.connect(project_root / 'mpk.db')
         self.cursor = self.db.cursor()
 
     def get_nodes_from_graph(self, graph: list, path = []) -> tuple:
