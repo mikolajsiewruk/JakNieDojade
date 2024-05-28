@@ -289,7 +289,7 @@ class ShortestPath:
                     overlap = overlap_reversed
 
                 # Check if current overlap is longer than the previous one, promote trams as they are usually preferred by the people
-                if len(overlap) > len(longest_overlap) or (line[0]["Nazwa"] in ['Tramwaj_na_Maslice', 'Tramwaj_na_Swojczyce', 'Tramwaj_Borowska_Szpital', 'Tramwaj_na_Klecine', 'Tramwaj_na_Jagodno', 'Tramwaj_na_Ołtaszyn', 'Tramwaj_na_Gajowice', 'Tramwaj_na_Gądów'] and len(overlap)==len(longest_overlap)):
+                if len(overlap) > len(longest_overlap) or (line[0]["Nazwa"] in ['Tramwaj_na_Maslice', 'Tramwaj_na_Swojczyce', 'Tramwaj_Borowska_Szpital', 'Tramwaj_na_Klecine', 'Tramwaj_na_Jagodno', 'Tramwaj_na_Ołtaszyn', 'Tramwaj_na_Gajowice', 'Tramwaj_na_Gądów','Tramwaj_na_Psie_Pole'] and len(overlap)==len(longest_overlap)):
                     longest_overlap = overlap
                     longest_line = line[0]["Nazwa"]
 

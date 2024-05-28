@@ -64,7 +64,7 @@ new_paths = 0
 new_lines_count = {'Tramwaj_na_Maslice':0,'Tramwaj_na_Swojczyce':0,'Tramwaj_Borowska_Szpital':0,'Tramwaj_na_Klecine':0,'Tramwaj_na_Jagodno':0, 'Tramwaj_na_Ołtaszyn':0, 'Tramwaj_na_Gajowice':0, 'Tramwaj_na_Gądów':0}
 
 # start Monte Carlo simulation
-for i in range(100):
+for i in range(10):
     start,end = random.choices(stop_ids,weights,k=2)
 
     if start not in current_stops_ids or end not in current_stops_ids:
