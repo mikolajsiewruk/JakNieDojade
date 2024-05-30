@@ -2,6 +2,11 @@ import json
 import time as tm
 import numpy as np
 import sqlite3
+import logging
+
+logging.basicConfig(filename='line_matching.log', level=logging.INFO,
+                    format='%(asctime)s - %(levelname)s - %(message)s')
+
 
 class ShortestPath:
 
@@ -231,16 +236,17 @@ class ShortestPath:
         Matches public transportation lines to a path.
         :param path: a path represented by a list with numbers of nodes in a graph.
         :param lines: a list of public transportation lines represented by dictionaries.
-        :returns: returns a list of tuples [(stops,line)]
+        :returns: returns a list of tuples [(stops, line)]
         """
+
         def find_matching_subsequence(list1, list2) -> list:
             """
-            Helper function for finding a subsequence  starting in the first node of list1
+            Helper function for finding a subsequence starting in the first node of list1
             """
             first_element = list1[0]
-            list2 = list(dict.fromkeys(list2))  # remove duplicates from the list cause this caused bugs
+            list2 = list(dict.fromkeys(list2))  # remove duplicates from the list to prevent bugs
 
-            # check if there are no subsequences
+            # Check if there are no subsequences
             try:
                 start_index = list2.index(first_element)
             except ValueError:
@@ -252,7 +258,7 @@ class ShortestPath:
 
             longest_subsequence = []
             for i in range(len(list1)):
-                # check for longest subsequence if starting index is in line2
+                # Check for the longest subsequence if starting index is in list2
                 if start_index + i < len(list2) and list1[i] == list2[start_index + i]:
                     longest_subsequence.append(list1[i])
                 else:
@@ -261,49 +267,59 @@ class ShortestPath:
             return longest_subsequence
 
         route = []
-        lines_temp = lines.copy()  # copies in case other uses of path and lines are needed
         path_temp = path.copy()
 
-        # loop over path removing stops
+        logging.info(f"Starting match_lines_to_path with path: {path}")
+
+        # Loop over path removing stops
         while len(path_temp) > 0:
             longest_overlap = []
             longest_line = ''
-            for line in lines_temp:
+            for line in lines:
                 stops = line[0]["Przystanki"]
-                overlap = find_matching_subsequence(path_temp,stops)  # find current overlap using helper function
+                overlap = find_matching_subsequence(path_temp, stops)  # Find current overlap using helper function
 
-                # check for overlaps in reversed line stops
+                # Check for overlaps in reversed line stops
                 stops.reverse()
-                overlap_reversed = find_matching_subsequence(path_temp,stops)
+                overlap_reversed = find_matching_subsequence(path_temp, stops)
                 stops.reverse()
 
-                # swap for reversed version if it's longer
+                # Swap for reversed version if it's longer
                 if len(overlap) < len(overlap_reversed):
                     overlap = overlap_reversed
 
-                # check if current overlap is longer than previous one
-                if len(overlap) > len(longest_overlap):
+                # Check if current overlap is longer than the previous one, promote trams as they are usually preferred by the people
+                if len(overlap) > len(longest_overlap) or (line[0]["Nazwa"] in ['Tramwaj_na_Maslice', 'Tramwaj_na_Swojczyce', 'Tramwaj_Borowska_Szpital', 'Tramwaj_na_Klecine', 'Tramwaj_na_Jagodno', 'Tramwaj_na_Ołtaszyn', 'Tramwaj_na_Gajowice', 'Tramwaj_na_Gądów','Tramwaj_na_Psie_Pole'] and len(overlap)==len(longest_overlap)):
                     longest_overlap = overlap
                     longest_line = line[0]["Nazwa"]
-                    longest_line_dict = line
 
-            name = f"{longest_overlap[0]}-{longest_overlap[-1]}"  # initialize name for dictionary (it can't store lists as key)
-            route.append((name,longest_line))  # add info to dictionary
+            logging.info(f"Current longest_overlap: {longest_overlap} with line: {longest_line}")
 
-            # remove current longest overlap from path, to -1 makes sure the next iteration starts from the right stop
-            for elem in longest_overlap[:-1]:
-                path_temp.remove(elem)
+            if longest_overlap:
+                name = f"{longest_overlap[0]}-{longest_overlap[-1]}"  # Initialize name for dictionary (it can't store lists as key)
+                route.append((name, longest_line))  # Add info to dictionary
 
-            # checks if path has 1 element, which means we have finished matching lines, thus removes the last element
+                # Remove current longest overlap from path
+                if len(longest_overlap) > 2:
+                    path_temp = path_temp[
+                                len(longest_overlap) - 1:]  # Update path_temp correctly, preserving the last element
+                else:
+                    path_temp = path_temp[1:]  # Update path_temp correctly
+
+                logging.info(f"Updated path_temp: {path_temp}")
+            else:
+                break
+
+            # Check if path has 1 element, which means we have finished matching lines, thus remove the last element
             if len(path_temp) == 1:
-                path_temp.remove(longest_overlap[-1])
+                path_temp.pop()
 
-            lines_temp.remove(longest_line_dict)  # remove current longest line from the list to speed up the process
+        logging.info(f"Final route: {route}")
 
         return route
 
 
-connection = sqlite3.connect("/Users/dominik/Documents/moje/programowanie/Phyton/Jakniedojade/JakNieDojade/mpk.db")
+'''connection = sqlite3.connect("/Users/dominik/Documents/moje/programowanie/Phyton/Jakniedojade/JakNieDojade/mpk.db")
 cursor = connection.cursor()
 
 file1 = open("/Users/dominik/Documents/moje/programowanie/Phyton/Jakniedojade/JakNieDojade/Dane/graph.json", "r")
@@ -316,11 +332,11 @@ print(path_a)
 file = open("D:\\PyCharm\\PyCharm 2023.2.4\\JakNieDojade\\Dane\\test2.json","r")
 lines = json.load(file)
 s.match_lines_to_path(path,lines)
-print(s.match_lines_to_path(path,lines))
-"""file = open("D:\PyCharm\PyCharm 2023.2.4\JakNieDojade\Dane\graphtest1.json", "r")
+print(s.match_lines_to_path(path,lines))'''
+'''file = open("D:\PyCharm\PyCharm 2023.2.4\JakNieDojade\Dane\graphtest1.json", "r")
 graph = json.load(file)
 t=graph
 s = ShortestPath()
 
-print(s.dijkstra(t, 5, 15))
-#print(s.bellman_ford(t,10,939))"""
+print(s.dijkstra(t, 20, 553))
+#print(s.bellman_ford(t,10,939))'''

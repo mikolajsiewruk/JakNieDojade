@@ -43,8 +43,8 @@ def multitask():
 
     tasks = [(random.randint(1, len(graph)), random.randint(1, len(graph)), random.randint(1, len(graph))) for _ in range(500)]  # generate 500 point pairs for the multiprocesses
 
-    with multiprocessing.Pool(8) as pool:  # initialize 8 processes
-        results = pool.map(execute_algorithms, tasks)  # execute 500 tasks using 8 processes
+    with multiprocessing.Pool(8) as pool:
+        results = pool.map(execute_algorithms, tasks)
 
     dijkstra_times = [result[0] for result in results]
     bellman_ford_times = [result[1] for result in results]
