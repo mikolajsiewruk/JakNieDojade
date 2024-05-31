@@ -137,6 +137,9 @@ class ShortestPath:
         :return: tuple
         """
 
+        connection = sqlite3.connect("/Users/dominik/Documents/moje/programowanie/Phyton/Jakniedojade/JakNieDojade/mpk.db")
+        cursor = connection.cursor()
+
         def f_value(node: list) -> float:
             """
             A* Helper function, determining the f_value of the given node.
@@ -215,7 +218,7 @@ class ShortestPath:
                         open_list.append([current[1], i, neighbour_g, x, y])
 
         # if the open list is empty and path has not been determined: no path possible, return false
-        return False
+        return ([], )
 
     def timer(self,graph:list,start:int,end:int)->tuple:
         """
