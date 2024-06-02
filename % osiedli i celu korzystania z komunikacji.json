@@ -1,0 +1,722 @@
+[
+  [
+    {
+      "Nazwa": "Gajowice",
+      "percentage_of_residents": 4,
+      "Szkola": 89.5,
+      "Praca": 20.3,
+      "Zakupy": 73.7,
+      "Rozrywka": 57.9,
+      "Restauracje": 63.2,
+      "Spotkania": 92.8,
+      "Zdrowie": 42.1,
+      "Kultura": 47.4,
+      "public_transport_usage": 72.5
+    }
+  ],
+  [
+    {
+      "Nazwa": "Gądów-Popowice Płd.",
+      "percentage_of_residents": 3,
+      "Szkola": 85.6,
+      "Praca": 17.4,
+      "Zakupy": 71.3,
+      "Rozrywka": 59.1,
+      "Restauracje": 65.2,
+      "Spotkania": 91.7,
+      "Zdrowie": 38.6,
+      "Kultura": 49.8,
+      "public_transport_usage": 70.4
+    }
+  ],
+  [
+    {
+      "Nazwa": "Grabiszyn-Grabiszynek",
+      "percentage_of_residents": 4,
+      "Szkola": 82.3,
+      "Praca": 22.6,
+      "Zakupy": 67.9,
+      "Rozrywka": 56.4,
+      "Restauracje": 62.5,
+      "Spotkania": 88.9,
+      "Zdrowie": 41.3,
+      "Kultura": 46.7,
+      "public_transport_usage": 75.1
+    }
+  ],
+  [
+    {
+      "Nazwa": "Jerzmanowo-Jarnołtów-Strachowice-Osiniec",
+      "percentage_of_residents": 2,
+      "Szkola": 87.1,
+      "Praca": 19.8,
+      "Zakupy": 70.5,
+      "Rozrywka": 61.2,
+      "Restauracje": 67.3,
+      "Spotkania": 93.4,
+      "Zdrowie": 36.7,
+      "Kultura": 48.2,
+      "public_transport_usage": 68.9
+    }
+  ],
+  [
+    {
+      "Nazwa": "Kuźniki",
+      "percentage_of_residents": 3,
+      "Szkola": 81.4,
+      "Praca": 21.7,
+      "Zakupy": 68.2,
+      "Rozrywka": 54.8,
+      "Restauracje": 61.9,
+      "Spotkania": 89.6,
+      "Zdrowie": 40.8,
+      "Kultura": 45.3,
+      "public_transport_usage": 73.2
+    }
+  ],
+  [
+    {
+      "Nazwa": "Leśnica",
+      "percentage_of_residents": 5,
+      "Szkola": 88.9,
+      "Praca": 25.9,
+      "Zakupy": 75.6,
+      "Rozrywka": 58.7,
+      "Restauracje": 63.5,
+      "Spotkania": 90.2,
+      "Zdrowie": 37.4,
+      "Kultura": 47.9,
+      "public_transport_usage": 67.8
+    }
+  ],
+  [
+    {
+      "Nazwa": "Maślice",
+      "percentage_of_residents": 2,
+      "Szkola": 84.7,
+      "Praca": 18.5,
+      "Zakupy": 69.3,
+      "Rozrywka": 57.6,
+      "Restauracje": 64.8,
+      "Spotkania": 87.3,
+      "Zdrowie": 39.2,
+      "Kultura": 48.7,
+      "public_transport_usage": 71.6
+    }
+  ],
+  [
+    {
+      "Nazwa": "Muchobór Mały",
+      "percentage_of_residents": 4,
+      "Szkola": 80.2,
+      "Praca": 24.6,
+      "Zakupy": 72.8,
+      "Rozrywka": 60.4,
+      "Restauracje": 66.1,
+      "Spotkania": 91.5,
+      "Zdrowie": 35.9,
+      "Kultura": 44.6,
+      "public_transport_usage": 74.3
+    }
+  ],
+  [
+    {
+      "Nazwa": "Muchobór Wielki",
+      "percentage_of_residents": 3,
+      "Szkola": 86.5,
+      "Praca": 20.1,
+      "Zakupy": 70.6,
+      "Rozrywka": 58.2,
+      "Restauracje": 63.9,
+      "Spotkania": 89.7,
+      "Zdrowie": 38.1,
+      "Kultura": 47.4,
+      "public_transport_usage": 72.8
+    }
+  ],
+  [
+    {
+      "Nazwa": "Nowy Dwór",
+      "percentage_of_residents": 1,
+      "Szkola": 83.6,
+      "Praca": 17.9,
+      "Zakupy": 68.9,
+      "Rozrywka": 56.5,
+      "Restauracje": 61.7,
+      "Spotkania": 85.2,
+      "Zdrowie": 40.4,
+      "Kultura": 49.2,
+      "public_transport_usage": 70.5
+    }
+  ],
+  [
+    {
+      "Nazwa": "Oporów",
+      "percentage_of_residents": 2,
+      "Szkola": 85.3,
+      "Praca": 19.2,
+      "Zakupy": 70.1,
+      "Rozrywka": 59.8,
+      "Restauracje": 65.9,
+      "Spotkania": 91.3,
+      "Zdrowie": 37.8,
+      "Kultura": 48.5,
+      "public_transport_usage": 69.7
+    }
+  ],
+  [
+    {
+      "Nazwa": "Pilczyce-Kozanów-Popowice Płn.",
+      "percentage_of_residents": 4,
+      "Szkola": 88.1,
+      "Praca": 21.6,
+      "Zakupy": 72.3,
+      "Rozrywka": 60.5,
+      "Restauracje": 66.4,
+      "Spotkania": 93.2,
+      "Zdrowie": 36.4,
+      "Kultura": 47.1,
+      "public_transport_usage": 73.8
+    }
+  ],
+  [
+    {
+      "Nazwa": "Pracze Odrzańskie",
+      "percentage_of_residents": 2,
+      "Szkola": 83.2,
+      "Praca": 18.4,
+      "Zakupy": 69.8,
+      "Rozrywka": 58.3,
+      "Restauracje": 64.2,
+      "Spotkania": 87.6,
+      "Zdrowie": 39.7,
+      "Kultura": 48.3,
+      "public_transport_usage": 71.4
+    }
+  ],
+  [
+    {
+      "Nazwa": "Żerniki",
+      "percentage_of_residents": 3,
+      "Szkola": 86.7,
+      "Praca": 21.9,
+      "Zakupy": 70.4,
+      "Rozrywka": 58.9,
+      "Restauracje": 64.8,
+      "Spotkania": 90.1,
+      "Zdrowie": 38.2,
+      "Kultura": 47.9,
+      "public_transport_usage": 72.3
+    }
+  ],
+  [
+    {
+      "Nazwa": "Bieńkowice",
+      "percentage_of_residents": 1,
+      "Szkola": 84.1,
+      "Praca": 17.8,
+      "Zakupy": 68.6,
+      "Rozrywka": 56.3,
+      "Restauracje": 61.6,
+      "Spotkania": 86.8,
+      "Zdrowie": 40.9,
+      "Kultura": 49.7,
+      "public_transport_usage": 70.8
+    }
+  ],
+  [
+    {
+      "Nazwa": "Borek",
+      "percentage_of_residents": 4,
+      "Szkola": 80.8,
+      "Praca": 24.2,
+      "Zakupy": 73.1,
+      "Rozrywka": 60.8,
+      "Restauracje": 66.5,
+      "Spotkania": 91.1,
+      "Zdrowie": 36.6,
+      "Kultura": 45.3,
+      "public_transport_usage": 74.6
+    }
+  ],
+  [
+    {
+      "Nazwa": "Brochów",
+      "percentage_of_residents": 2,
+      "Szkola": 86.2,
+      "Praca": 20.5,
+      "Zakupy": 70.9,
+      "Rozrywka": 59.6,
+      "Restauracje": 65.2,
+      "Spotkania": 89.4,
+      "Zdrowie": 38.3,
+      "Kultura": 47.8,
+      "public_transport_usage": 72.9
+    }
+  ],
+  [
+    {
+      "Nazwa": "Gaj",
+      "percentage_of_residents": 4,
+      "Szkola": 81.7,
+      "Praca": 23.6,
+      "Zakupy": 69.7,
+      "Rozrywka": 58.4,
+      "Restauracje": 64.1,
+      "Spotkania": 90.8,
+      "Zdrowie": 39.1,
+      "Kultura": 46.6,
+      "public_transport_usage": 73.5
+    }
+  ],
+  [
+    {
+      "Nazwa": "Huby",
+      "percentage_of_residents": 1,
+      "Szkola": 87.9,
+      "Praca": 19.3,
+      "Zakupy": 71.4,
+      "Rozrywka": 60.1,
+      "Restauracje": 66.8,
+      "Spotkania": 92.1,
+      "Zdrowie": 35.7,
+      "Kultura": 44.4,
+      "public_transport_usage": 75.2
+    }
+  ],
+  [
+    {
+      "Nazwa": "Jagodno",
+      "percentage_of_residents": 4,
+      "Szkola": 83.4,
+      "Praca": 22.8,
+      "Zakupy": 68.3,
+      "Rozrywka": 57.0,
+      "Restauracje": 63.7,
+      "Spotkania": 88.4,
+      "Zdrowie": 40.2,
+      "Kultura": 47.7,
+      "public_transport_usage": 71.9
+    }
+  ],
+  [
+    {
+      "Nazwa": "Klecina",
+      "percentage_of_residents": 3,
+      "Szkola": 88.7,
+      "Praca": 24.1,
+      "Zakupy": 74.6,
+      "Rozrywka": 58.5,
+      "Restauracje": 64.4,
+      "Spotkania": 90.9,
+      "Zdrowie": 36.6,
+      "Kultura": 45.1,
+      "public_transport_usage": 68.7
+    }
+  ],
+  [
+    {
+      "Nazwa": "Krzyki-Partynice",
+      "percentage_of_residents": 6,
+      "Szkola": 79.5,
+      "Praca": 29.3,
+      "Zakupy": 75.2,
+      "Rozrywka": 62.7,
+      "Restauracje": 68.4,
+      "Spotkania": 92.5,
+      "Zdrowie": 33.5,
+      "Kultura": 42.2,
+      "public_transport_usage": 74.1
+    }
+  ],
+  [
+    {
+      "Nazwa": "Księże",
+      "percentage_of_residents": 4,
+      "Szkola": 85.1,
+      "Praca": 22.6,
+      "Zakupy": 70.8,
+      "Rozrywka": 59.5,
+      "Restauracje": 66.2,
+      "Spotkania": 90.5,
+      "Zdrowie": 39.7,
+      "Kultura": 47.3,
+      "public_transport_usage": 72.0
+    }
+  ],
+  [
+    {
+      "Nazwa": "Ołtaszyn",
+      "percentage_of_residents": 2,
+      "Szkola": 82.8,
+      "Praca": 18.7,
+      "Zakupy": 69.5,
+      "Rozrywka": 58.2,
+      "Restauracje": 65.9,
+      "Spotkania": 87.2,
+      "Zdrowie": 41.4,
+      "Kultura": 48.9,
+      "public_transport_usage": 70.9
+    }
+  ],
+  [
+    {
+      "Nazwa": "Powstańców Śląskich",
+      "percentage_of_residents": 5,
+      "Szkola": 87.2,
+      "Praca": 27.9,
+      "Zakupy": 74.1,
+      "Rozrywka": 59.8,
+      "Restauracje": 64.6,
+      "Spotkania": 90.3,
+      "Zdrowie": 38.5,
+      "Kultura": 47.0,
+      "public_transport_usage": 68.3
+    }
+  ],
+  [
+    {
+      "Nazwa": "Przedmieście Oławskie",
+      "percentage_of_residents": 3,
+      "Szkola": 83.5,
+      "Praca": 21.1,
+      "Zakupy": 70.3,
+      "Rozrywka": 58.8,
+      "Restauracje": 65.5,
+      "Spotkania": 89.8,
+      "Zdrowie": 39.8,
+      "Kultura": 47.3,
+      "public_transport_usage": 71.7
+    }
+  ],
+  [
+    {
+      "Nazwa": "Tarnogaj",
+      "percentage_of_residents": 4,
+      "Szkola": 79.8,
+      "Praca": 24.2,
+      "Zakupy": 72.2,
+      "Rozrywka": 60.7,
+      "Restauracje": 67.0,
+      "Spotkania": 91.6,
+      "Zdrowie": 35.4,
+      "Kultura": 44.9,
+      "public_transport_usage": 74.2
+    }
+  ],
+  [
+    {
+      "Nazwa": "Wojszyce",
+      "percentage_of_residents": 2,
+      "Szkola": 86.3,
+      "Praca": 18.4,
+      "Zakupy": 70.8,
+      "Rozrywka": 58.5,
+      "Restauracje": 64.3,
+      "Spotkania": 88.9,
+      "Zdrowie": 40.3,
+      "Kultura": 47.8,
+      "public_transport_usage": 72.3
+    }
+  ],
+  [
+    {
+      "Nazwa": "Karłowice-Różanka",
+      "percentage_of_residents": 3,
+      "Szkola": 84.9,
+      "Praca": 21.2,
+      "Zakupy": 70.5,
+      "Rozrywka": 59.2,
+      "Restauracje": 65.7,
+      "Spotkania": 90.4,
+      "Zdrowie": 39.4,
+      "Kultura": 47.1,
+      "public_transport_usage": 71.8
+    }
+  ],
+  [
+    {
+      "Nazwa": "Kleczków",
+      "percentage_of_residents": 1,
+      "Szkola": 83.1,
+      "Praca": 17.6,
+      "Zakupy": 69.1,
+      "Rozrywka": 56.8,
+      "Restauracje": 61.9,
+      "Spotkania": 87.5,
+      "Zdrowie": 40.5,
+      "Kultura": 49.3,
+      "public_transport_usage": 70.6
+    }
+  ],
+  [
+    {
+      "Nazwa": "Kowale",
+      "percentage_of_residents": 4,
+      "Szkola": 80.6,
+      "Praca": 23.9,
+      "Zakupy": 73.6,
+      "Rozrywka": 61.3,
+      "Restauracje": 67.2,
+      "Spotkania": 91.0,
+      "Zdrowie": 35.8,
+      "Kultura": 44.5,
+      "public_transport_usage": 73.7
+    }
+  ],
+  [
+    {
+      "Nazwa": "Lipa Piotrowska",
+      "percentage_of_residents": 2,
+      "Szkola": 86.7,
+      "Praca": 20.2,
+      "Zakupy": 70.7,
+      "Rozrywka": 59.4,
+      "Restauracje": 65.6,
+      "Spotkania": 89.8,
+      "Zdrowie": 38.2,
+      "Kultura": 47.7,
+      "public_transport_usage": 72.9
+    }
+  ],
+  [
+    {
+      "Nazwa": "Osobowice-Rędzin",
+      "percentage_of_residents": 3,
+      "Szkola": 82.4,
+      "Praca": 21.7,
+      "Zakupy": 68.4,
+      "Rozrywka": 56.2,
+      "Restauracje": 63.7,
+      "Spotkania": 88.2,
+      "Zdrowie": 41.0,
+      "Kultura": 48.5,
+      "public_transport_usage": 71.3
+    }
+  ],
+  [
+    {
+      "Nazwa": "Pawłowice",
+      "percentage_of_residents": 1,
+      "Szkola": 85.8,
+      "Praca": 18.9,
+      "Zakupy": 70.2,
+      "Rozrywka": 58.9,
+      "Restauracje": 65.3,
+      "Spotkania": 87.9,
+      "Zdrowie": 39.7,
+      "Kultura": 48.2,
+      "public_transport_usage": 71.5
+    }
+  ],
+  [
+    {
+      "Nazwa": "Polanowice-Poświętne-Ligota",
+      "percentage_of_residents": 3,
+      "Szkola": 87.2,
+      "Praca": 22.2,
+      "Zakupy": 69.8,
+      "Rozrywka": 58.1,
+      "Restauracje": 64.6,
+      "Spotkania": 90.3,
+      "Zdrowie": 38.6,
+      "Kultura": 47.1,
+      "public_transport_usage": 72.7
+    }
+  ],
+  [
+    {
+      "Nazwa": "Psie Pole-Zawidawie",
+      "percentage_of_residents": 4,
+      "Szkola": 82.7,
+      "Praca": 24.3,
+      "Zakupy": 72.3,
+      "Rozrywka": 60.2,
+      "Restauracje": 66.7,
+      "Spotkania": 91.8,
+      "Zdrowie": 35.9,
+      "Kultura": 44.4,
+      "public_transport_usage": 74.1
+    }
+  ],
+  [
+    {
+      "Nazwa": "Sołtysowice",
+      "percentage_of_residents": 2,
+      "Szkola": 86.1,
+      "Praca": 19.8,
+      "Zakupy": 70.4,
+      "Rozrywka": 58.3,
+      "Restauracje": 64.8,
+      "Spotkania": 88.7,
+      "Zdrowie": 40.1,
+      "Kultura": 47.6,
+      "public_transport_usage": 72.4
+    }
+  ],
+  [
+    {
+      "Nazwa": "Swojczyce-Strachocin-Wojnów",
+      "percentage_of_residents": 3,
+      "Szkola": 81.9,
+      "Praca": 22.1,
+      "Zakupy": 68.5,
+      "Rozrywka": 57.7,
+      "Restauracje": 63.6,
+      "Spotkania": 90.7,
+      "Zdrowie": 39.2,
+      "Kultura": 46.7,
+      "public_transport_usage": 73.0
+    }
+  ],
+  [
+    {
+      "Nazwa": "Świniary",
+      "percentage_of_residents": 2,
+      "Szkola": 85.6,
+      "Praca": 20.5,
+      "Zakupy": 69.9,
+      "Rozrywka": 58.2,
+      "Restauracje": 65.1,
+      "Spotkania": 89.4,
+      "Zdrowie": 38.7,
+      "Kultura": 47.2,
+      "public_transport_usage": 71.8
+    }
+  ],
+  [
+    {
+      "Nazwa": "Widawa",
+      "percentage_of_residents": 1,
+      "Szkola": 88.3,
+      "Praca": 17.7,
+      "Zakupy": 70.8,
+      "Rozrywka": 57.5,
+      "Restauracje": 64.0,
+      "Spotkania": 87.3,
+      "Zdrowie": 40.9,
+      "Kultura": 49.6,
+      "public_transport_usage": 71.3
+    }
+  ],
+  [
+    {
+      "Nazwa": "Przedmieście Świdnickie",
+      "percentage_of_residents": 3,
+      "Szkola": 83.7,
+      "Praca": 21.9,
+      "Zakupy": 69.7,
+      "Rozrywka": 58.3,
+      "Restauracje": 64.7,
+      "Spotkania": 89.9,
+      "Zdrowie": 38.1,
+      "Kultura": 47.4,
+      "public_transport_usage": 72.1
+    }
+  ],
+  [
+    {
+      "Nazwa": "Stare Miasto",
+      "percentage_of_residents": 5,
+      "Szkola": 80.5,
+      "Praca": 26.5,
+      "Zakupy": 75.1,
+      "Rozrywka": 60.6,
+      "Restauracje": 66.3,
+      "Spotkania": 91.4,
+      "Zdrowie": 35.4,
+      "Kultura": 45.1,
+      "public_transport_usage": 74.3
+    }
+  ],
+  [
+    {
+      "Nazwa": "Szczepin",
+      "percentage_of_residents": 4,
+      "Szkola": 86.4,
+      "Praca": 23.2,
+      "Zakupy": 71.9,
+      "Rozrywka": 58.8,
+      "Restauracje": 65.5,
+      "Spotkania": 90.0,
+      "Zdrowie": 38.0,
+      "Kultura": 47.5,
+      "public_transport_usage": 71.7
+    }
+  ],
+  [
+    {
+      "Nazwa": "Biskupin-Sępolno-Dąbie-Bartoszowice",
+      "percentage_of_residents": 5,
+      "Szkola": 81.2,
+      "Praca": 27.1,
+      "Zakupy": 74.8,
+      "Rozrywka": 61.5,
+      "Restauracje": 67.2,
+      "Spotkania": 91.8,
+      "Zdrowie": 34.8,
+      "Kultura": 43.9,
+      "public_transport_usage": 74.0
+    }
+  ],
+  [
+    {
+      "Nazwa": "Nadodrze",
+      "percentage_of_residents": 5,
+      "Szkola": 84.7,
+      "Praca": 28.3,
+      "Zakupy": 76.3,
+      "Rozrywka": 63.2,
+      "Restauracje": 68.9,
+      "Spotkania": 92.6,
+      "Zdrowie": 33.9,
+      "Kultura": 42.6,
+      "public_transport_usage": 73.7
+    }
+  ],
+  [
+    {
+      "Nazwa": "Ołbin",
+      "percentage_of_residents": 3,
+      "Szkola": 88.1,
+      "Praca": 21.4,
+      "Zakupy": 70.2,
+      "Rozrywka": 59.0,
+      "Restauracje": 64.8,
+      "Spotkania": 90.3,
+      "Zdrowie": 37.6,
+      "Kultura": 47.1,
+      "public_transport_usage": 72.5
+    }
+  ],
+  [
+    {
+      "Nazwa": "Plac Grunwaldzki",
+      "percentage_of_residents": 4,
+      "Szkola": 82.6,
+      "Praca": 23.8,
+      "Zakupy": 72.1,
+      "Rozrywka": 60.1,
+      "Restauracje": 66.6,
+      "Spotkania": 91.9,
+      "Zdrowie": 35.8,
+      "Kultura": 44.3,
+      "public_transport_usage": 74.0
+    }
+  ],
+  [
+    {
+      "Nazwa": "Zacisze-Zalesie-Szczytniki",
+      "percentage_of_residents": 3,
+      "Szkola": 87.3,
+      "Praca": 20.6,
+      "Zakupy": 70.3,
+      "Rozrywka": 58.5,
+      "Restauracje": 65.2,
+      "Spotkania": 89.7,
+      "Zdrowie": 38.3,
+      "Kultura": 47.8,
+      "public_transport_usage": 71.5
+    }
+  ]
+]
