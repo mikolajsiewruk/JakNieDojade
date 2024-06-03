@@ -57,9 +57,8 @@ file_path = "C:\\Users\\paula\\PycharmProjects\\JakNieDojade\\Dane\\graph.json"
 with open(file_path, "r") as file:
     graph_data = json.load(file)
 
-# Przykładowe użycie funkcji bellman_ford
-start_stop = 0  # Indeks początkowego przystanku
-end_stop = 837226   # Indeks końcowego przystanku
+start_stop = 13
+end_stop = 527
 shortest_path, total_time = bellman_ford(graph_data, start_stop, end_stop)
 print("Shortest Path:", shortest_path)
 print("Total Travel Time:", total_time)
