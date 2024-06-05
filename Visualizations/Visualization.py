@@ -4,7 +4,7 @@ import json
 import sqlite3
 from Algorithms import ShortestPath
 from Database.FindProject import find_project_root
-
+from arcgis.geometry import Point, Polyline
 
 class Visualizer:
     def __init__(self):
@@ -132,6 +132,100 @@ class Visualizer:
                                           boxstyle='round,pad=0.2'))
         plt.savefig(filename)
         plt.close()
+
+    def map_stops(self,map):
+        yx_all = self.cursor.execute("SELECT Nazwa,Y,X FROM Nowe_przystanki").fetchall()
+        for yx in yx_all:
+            point = Point({'x': yx[1], 'y': yx[2]})
+
+            simple_marker_symbol = {
+                "type": "esriSMS",
+                "style": "esriSMSCircle",
+                "color": [0, 0, 0],  # zmienic kolory tutaj
+                "outline": {"color": [255, 255, 255], "width": 1},
+            }
+
+            point_attributes = {"name": yx[0],
+                                "description": "I am a point"}  # jakis pomysl na description by sie przydal
+
+            map.draw(
+                shape=point,
+                symbol=simple_marker_symbol,
+                attributes=point_attributes,
+                popup={
+                    "title": point_attributes["name"],
+                    "content": point_attributes["description"],
+                },
+            )
+
+    def map_path(self,map, graph, lines, start, end,version):
+        sp = ShortestPath()
+        p = sp.dijkstra(graph, start, end)[0]
+        print(sp.dijkstra(graph, start, end)[1])
+        pt_route = sp.match_lines_to_path(p, lines)
+        print(pt_route)
+        i = 0
+        paths = []
+        path_temp = []
+        color_codes = [
+            [255, 0, 0],  # Red
+            [0, 255, 0],  # Green
+            [0, 0, 255],  # Blue
+            [255, 255, 0],  # Yellow
+            [0, 255, 255],  # Cyan
+            [255, 0, 255],  # Magenta
+            [192, 192, 192],  # Silver
+            [128, 128, 128],  # Gray
+            [128, 0, 0],  # Maroon
+            [128, 128, 0],  # Olive
+            [0, 128, 0],  # Dark Green
+            [128, 0, 128],  # Purple
+            [0, 128, 128],  # Teal
+            [0, 0, 128],  # Navy
+            [255, 165, 0],  # Orange
+            [255, 192, 203],  # Pink
+            [165, 42, 42],  # Brown
+            [75, 0, 130],  # Indigo
+            [255, 20, 147],  # Deep Pink
+            [173, 216, 230]  # Light Blue
+        ]
+        for line in pt_route:
+            path_temp = line[0]
+
+            path = []
+            stop_names = []
+            for stops in path_temp:
+                name = self.cursor.execute(f"SELECT Nazwa FROM Przystanki WHERE Idp = '{stops}'").fetchone()[0]
+                yx = self.cursor.execute(f"SELECT Y,X FROM Przystanki WHERE Idp = '{stops}'").fetchone()
+                path.append([yx[0], yx[1]])
+                stop_names.append(name)
+            stop_names.reverse()
+            polyline = Polyline(
+                {
+                    "paths": path
+                }
+            )
+
+            polyline_attributes = {"name": line[1], "description": ", ".join(
+                stop_names)+f"\n{version}"}  # zmienić na nazwy linii, opcjonalnie każdy fragment inną linią zaznaczyć innym kolorem
+
+            simple_line_symbol = {
+                "type": "esriSLS",
+                "style": "esriSLSolid",
+                "color": color_codes[i],
+                "width": 2,
+            }
+
+            map.draw(
+                shape=polyline,
+                symbol=simple_line_symbol,
+                attributes=polyline_attributes,
+                popup={
+                    "title": polyline_attributes["name"],
+                    "content": polyline_attributes["description"],
+                },
+            )
+            i += 1
 
 
 '''v = Visualizer()

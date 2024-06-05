@@ -2,7 +2,6 @@ import json
 import sqlite3
 import random
 import math
-import os
 from Algorithms.ShortestPath import ShortestPath
 from Visualizations.Visualization import Visualizer
 from Simulation.Results import Results
