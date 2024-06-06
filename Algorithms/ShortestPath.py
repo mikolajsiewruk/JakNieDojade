@@ -151,7 +151,7 @@ class ShortestPath:
             :return: f_value of the given node
             """
             g_value = node[2]
-            h_value = np.sqrt((node[3] - x_goal) ** 2 + (node[4] - y_goal) ** 2)
+            h_value = np.sqrt((node[3] - x_goal) ** 2 + (node[4] - y_goal) ** 2) *100
             f_value = g_value + h_value
             return f_value
 
