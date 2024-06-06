@@ -6,6 +6,7 @@ import numpy as np
 import multiprocessing
 import time as tm
 import logging
+from Database.FindProject import find_project_root
 
 # logger configuration
 logging.basicConfig(
@@ -14,11 +15,11 @@ logging.basicConfig(
     format='%(asctime)s [%(processName)s] %(message)s'
 )
 logger = logging.getLogger(__name__)
-
+project = find_project_root()
 # function to execute the shortest path search with Dijkstra's, Bellman-Ford and A* algorithm.
 def execute_algorithms(args):
     start, end = args
-    with open("D:\PyCharm\PyCharm 2023.2.4\JakNieDojade\Dane\graph.json", "r") as file:  # load a graph
+    with open(project /"Dane/graph.json", "r") as file:  # load a graph
         graph = json.load(file)
     sp = ShortestPath.ShortestPath()
     logging.info(f"Calculating paths from {start} to {end}")
@@ -38,12 +39,12 @@ def execute_algorithms(args):
     return dijkstra_time, bellman_ford_time, a_star_time
 
 def multitask():
-    with open("D:\PyCharm\PyCharm 2023.2.4\JakNieDojade\Dane\graph.json", "r") as file:
+    with open(project /"Dane/graph.json", "r") as file:
         graph = json.load(file)
 
-    tasks = [(random.randint(1, len(graph)), random.randint(1, len(graph)), random.randint(1, len(graph))) for _ in range(500)]  # generate 500 point pairs for the multiprocesses
+    tasks = [(random.randint(1, len(graph)), random.randint(1, len(graph))) for _ in range(2)]  # generate 500 point pairs for the multiprocesses
 
-    with multiprocessing.Pool(8) as pool:
+    with multiprocessing.Pool(4) as pool:
         results = pool.map(execute_algorithms, tasks)
 
     dijkstra_times = [result[0] for result in results]

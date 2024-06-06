@@ -4,7 +4,7 @@ import json
 import sqlite3
 from Algorithms import ShortestPath
 from Database.FindProject import find_project_root
-from arcgis.geometry import Point, Polyline
+#from arcgis.geometry import Point, Polyline
 
 class Visualizer:
     def __init__(self):

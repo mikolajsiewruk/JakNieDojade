@@ -3,12 +3,17 @@ import time as tm
 import numpy as np
 import sqlite3
 import logging
+from Database.FindProject import find_project_root
 
 logging.basicConfig(filename='line_matching.log', level=logging.INFO,
                     format='%(asctime)s - %(levelname)s - %(message)s')
 
 
 class ShortestPath:
+    def __init__(self):
+        project = find_project_root()
+        self.db = sqlite3.connect(project/"mpk.db")
+        self.cursor = self.db.cursor()
 
     @staticmethod
     def dijkstra(graph: list, start: int, end: int) -> tuple:
@@ -127,8 +132,8 @@ class ShortestPath:
         return path, length
 
 
-    @staticmethod
-    def a_star(graph: list, start: int, goal: int) -> tuple:
+
+    def a_star(self,graph: list, start: int, goal: int) -> tuple:
         """
         A* heuristic algorithm for finding the shortest path in a graph.
         :param graph: a graph of nodes in adjacency matrix form
@@ -137,8 +142,7 @@ class ShortestPath:
         :return: tuple
         """
 
-        connection = sqlite3.connect("/Users/dominik/Documents/moje/programowanie/Phyton/Jakniedojade/JakNieDojade/mpk.db")
-        cursor = connection.cursor()
+
 
         def f_value(node: list) -> float:
             """
@@ -169,12 +173,12 @@ class ShortestPath:
 
         open_list = []
         closed_list = []
-        x_start = cursor.execute(f"select X from Przystanki where IdP = '{start}';").fetchone()[0]
-        y_start = cursor.execute(f"select Y from Przystanki where IdP = '{start}';").fetchone()[0]
+        x_start = self.cursor.execute(f"select X from Nowe_przystanki where IdP = '{start}';").fetchone()[0]
+        y_start = self.cursor.execute(f"select Y from Nowe_przystanki where IdP = '{start}';").fetchone()[0]
         # THE WAY NODES IN OPEN AND CLOSED LISTS ARE STORED: [node's parent, node and node's g value, x coordinate, y coordinate]
         open_list.append([None, start, 0, x_start, y_start])
-        x_goal = cursor.execute(f"select X from Przystanki where IdP = '{goal}';").fetchone()[0]
-        y_goal = cursor.execute(f"select Y from Przystanki where IdP = '{goal}';").fetchone()[0]
+        x_goal = self.cursor.execute(f"select X from Nowe_przystanki where IdP = '{goal}';").fetchone()[0]
+        y_goal = self.cursor.execute(f"select Y from Nowe_przystanki where IdP = '{goal}';").fetchone()[0]
 
         while len(open_list) != 0:  # executing as long as there are neighbours to nodes
 
@@ -206,15 +210,16 @@ class ShortestPath:
                             if open_list[j][1] == i:
                                 # If the new g value is lower than the old g value, update the neighbor’s g value and update its parent to the current node
                                 if open_list[j][2] > neighbour_g:
-                                    x = cursor.execute(f"select X from Przystanki where IdP = '{j}';").fetchone()[0]
-                                    y = cursor.execute(f"select Y from Przystanki where IdP = '{j}';").fetchone()[0]
+                                    print(j)
+                                    x = self.cursor.execute(f"select X from Nowe_przystanki where IdP = '{open_list[j][1]}';").fetchone()[0]
+                                    y = self.cursor.execute(f"select Y from Nowe_przystanki where IdP = '{open_list[j][1]}';").fetchone()[0]
                                     open_list[j] = [current[1], i, neighbour_g, x, y]
 
                     # if the neighbour is not in the open list, add it to open list
                     else:
                         neighbour_g = current[2] + graph[current[1]][i]
-                        x = cursor.execute(f"select X from Przystanki where IdP = '{i}';").fetchone()[0]
-                        y = cursor.execute(f"select Y from Przystanki where IdP = '{i}';").fetchone()[0]
+                        x = self.cursor.execute(f"select X from Nowe_przystanki where IdP = '{i}';").fetchone()[0]
+                        y = self.cursor.execute(f"select Y from Nowe_przystanki where IdP = '{i}';").fetchone()[0]
                         open_list.append([current[1], i, neighbour_g, x, y])
 
         # if the open list is empty and path has not been determined: no path possible, return false
