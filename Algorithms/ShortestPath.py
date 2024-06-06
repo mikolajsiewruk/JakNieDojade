@@ -149,7 +149,7 @@ class ShortestPath:
         :param graph: a graph of nodes in adjacency matrix form
         :param start: start node
         :param goal: goal node
-        :return: tuple
+        :return: tuple containing the shortest path and total travel time
         """
 
 
