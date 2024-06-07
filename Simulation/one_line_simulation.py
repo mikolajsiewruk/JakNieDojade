@@ -9,7 +9,7 @@ from Simulation.Results import Results
 from Database.FindProject import find_project_root
 
 # the name of the estate to simulate
-osiedle_of_choice = "Gajowice"
+area_of_choice = "Gajowice"
 graph_name = 'graph_gajowice.json'
 line_file_name = 'linie_gajowice.json'
 
@@ -28,7 +28,7 @@ new_graph = json.load(file)
 file = open(project_root / 'Dane' / line_file_name, 'r', encoding='UTF-8')
 all_lines = json.load(file)
 all_lines_count = {line[0]["Nazwa"]:0 for line in all_lines}
-nazwa_linii = all_lines[-1][0].get("Nazwa")
+line_name = all_lines[-1][0].get("Nazwa")
 
 # initialize pathfinding modules
 sp = ShortestPath()
@@ -39,7 +39,7 @@ db = sqlite3.connect(project_root / 'mpk.db')
 cursor = db.cursor()
 
 # getting start stops
-start_stops_info = cursor.execute("SELECT IdP,Nazwa,Percentage FROM Nowe_przystanki_percentages WHERE Osiedle = " + "'" + osiedle_of_choice + "'").fetchall()
+start_stops_info = cursor.execute("SELECT IdP,NAME,Percentage FROM New_stops_percentages WHERE AREA = " + "'" + area_of_choice + "'").fetchall()
 start_stops = []
 for stops in start_stops_info:
     start_stops.append(stops[0])
@@ -48,10 +48,10 @@ for stops in start_stops_info:
 file = open(project_root / "% osiedli i celu korzystania z komunikacji.json", "r", encoding='UTF-8')
 file1 = json.load(file)
 osiedle_directions = []
-directions = ["Szkola", "Praca", "Zakupy", "Rozrywka", "Restauracje", "Spotkania", "Zdrowie", "Kultura"]
+directions = ["Szkola", "Praca", "Zakupy", "Rozrywka", "Restauracje", "Spotkania", "Zdrowie", "Kultura"] # tu zmienic
 direction_weights = []
 for osiedle in file1:
-    if osiedle[0]["Nazwa"] == osiedle_of_choice:
+    if osiedle[0]["Nazwa"] == area_of_choice:
         for direction in directions:
             direction_weights.append(osiedle[0][direction])
 
@@ -67,14 +67,14 @@ total_time_saved = 0
 new_path = 0
 
 # start Monte Carlo simulation
-for i in range(100):
+for i in range(2):
     start = random.choice(start_stops)
     if start >= 913:
         new_path += 1
         continue
     random_direction = random.choices(directions, direction_weights)[0]
-    end_stops_info = (cursor.execute("SELECT IdP, (Szkola + Praca + Zakupy + Rozrywka + Restauracje + Spotkania + Zdrowie + Kultura)"
-                                       ", Percentage FROM Przystanki_percentages WHERE "+random_direction+"=1").fetchall())
+    end_stops_info = (cursor.execute("SELECT IdP, (SCHOOL + LABOUR + SHOPS + LEISURE + RESTAURANTS + SOCIAL + HEALTH + CULTURE)"
+                                       ", Percentage FROM Stops_percentages WHERE "+random_direction+"=1").fetchall())
     end_stops = []
     end_stops_weights = []
     for j in range(len(end_stops_info)):
@@ -91,7 +91,7 @@ for i in range(100):
 
     # check if route includes new public transportation lines
     for r in pt_route:
-        if r[1] == nazwa_linii:
+        if r[1] == line_name:
             total_new_lines_use += 1
             total_time_saved += time_cur - time_new
             vis.draw_graph(current_graph, f"cur {i}.png", path_cur)
@@ -101,9 +101,9 @@ for i in range(100):
         all_lines_count[r[1]] += 1
 
     # check distance between stops
-    x1, y1 = cursor.execute(f"SELECT X,Y FROM Nowe_przystanki WHERE IdP = '{start}';").fetchone()
+    x1, y1 = cursor.execute(f"SELECT X,Y FROM New_stops WHERE IdP = '{start}';").fetchone()
     # print(x1,y1)
-    x2, y2 = cursor.execute(f"SELECT X,Y FROM Nowe_przystanki WHERE IdP = '{finish}';").fetchone()
+    x2, y2 = cursor.execute(f"SELECT X,Y FROM New_stops WHERE IdP = '{finish}';").fetchone()
     # print(x2,y2)
     dist = (math.sqrt((pow(x1 - x2, 2) + pow(y1 - y2, 2)))) * 100
     # print(dist)

@@ -173,12 +173,12 @@ class ShortestPath:
 
         open_list = []
         closed_list = []
-        x_start = self.cursor.execute(f"select X from Nowe_przystanki where IdP = '{start}';").fetchone()[0]
-        y_start = self.cursor.execute(f"select Y from Nowe_przystanki where IdP = '{start}';").fetchone()[0]
+        x_start = self.cursor.execute(f"select X from New_stops where IdP = '{start}';").fetchone()[0]
+        y_start = self.cursor.execute(f"select Y from New_stops where IdP = '{start}';").fetchone()[0]
         # THE WAY NODES IN OPEN AND CLOSED LISTS ARE STORED: [node's parent, node and node's g value, x coordinate, y coordinate]
         open_list.append([None, start, 0, x_start, y_start])
-        x_goal = self.cursor.execute(f"select X from Nowe_przystanki where IdP = '{goal}';").fetchone()[0]
-        y_goal = self.cursor.execute(f"select Y from Nowe_przystanki where IdP = '{goal}';").fetchone()[0]
+        x_goal = self.cursor.execute(f"select X from New_stops where IdP = '{goal}';").fetchone()[0]
+        y_goal = self.cursor.execute(f"select Y from New_stops where IdP = '{goal}';").fetchone()[0]
 
         while len(open_list) != 0:  # executing as long as there are neighbours to nodes
 
@@ -211,15 +211,15 @@ class ShortestPath:
                                 # If the new g value is lower than the old g value, update the neighbor’s g value and update its parent to the current node
                                 if open_list[j][2] > neighbour_g:
                                     print(j)
-                                    x = self.cursor.execute(f"select X from Nowe_przystanki where IdP = '{open_list[j][1]}';").fetchone()[0]
-                                    y = self.cursor.execute(f"select Y from Nowe_przystanki where IdP = '{open_list[j][1]}';").fetchone()[0]
+                                    x = self.cursor.execute(f"select X from New_stops where IdP = '{open_list[j][1]}';").fetchone()[0]
+                                    y = self.cursor.execute(f"select Y from New_stops where IdP = '{open_list[j][1]}';").fetchone()[0]
                                     open_list[j] = [current[1], i, neighbour_g, x, y]
 
                     # if the neighbour is not in the open list, add it to open list
                     else:
                         neighbour_g = current[2] + graph[current[1]][i]
-                        x = self.cursor.execute(f"select X from Nowe_przystanki where IdP = '{i}';").fetchone()[0]
-                        y = self.cursor.execute(f"select Y from Nowe_przystanki where IdP = '{i}';").fetchone()[0]
+                        x = self.cursor.execute(f"select X from New_stops where IdP = '{i}';").fetchone()[0]
+                        y = self.cursor.execute(f"select Y from New_stops where IdP = '{i}';").fetchone()[0]
                         open_list.append([current[1], i, neighbour_g, x, y])
 
         # if the open list is empty and path has not been determined: no path possible, return false
