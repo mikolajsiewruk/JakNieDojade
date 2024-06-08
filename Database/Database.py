@@ -2,7 +2,7 @@ import sqlite3
 import os
 import json
 import logging
-
+from FindProject import find_project_root
 # logger configuration
 logging.basicConfig(
     filename="../adding.log",
@@ -143,6 +143,7 @@ class Database:
 
 
 if __name__ == '__main__':
+    project = find_project_root()
     d = Database()
-    d.add_info_to_graph("D:\PyCharm\PyCharm 2023.2.4\JakNieDojade\Dane\\",
-                        "D:\PyCharm\PyCharm 2023.2.4\JakNieDojade\Dane\\nowe_linie1.json")
+    d.add_info_to_graph(project/ "Dane\\",
+                        project/"Dane\\nowe_linie1.json")
