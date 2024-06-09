@@ -143,27 +143,25 @@ class ShortestPath:
 
 
 
-    def a_star(self,graph: list, start: int, goal: int, parameter: int) -> tuple:
+    def a_star(self,graph: list, start: int, goal: int) -> tuple:
         """
         A* heuristic algorithm for finding the shortest path in a graph.
         :param graph: a graph of nodes in adjacency matrix form
         :param start: start node
         :param goal: goal node
-        :param parameter: a parameter to be used in f_value function
         :return: tuple containing the shortest path and total travel time
         """
 
 
 
-        def f_value(node: list, parameter: int) -> float:
+        def f_value(node: list) -> float:
             """
             A* Helper function, determining the f_value of the given node.
             :param node: node which f_value will be calculated
-            :param parameter: a parameter to multiply the h_value
             :return: f_value of the given node
             """
             g_value = node[2]
-            h_value = (np.sqrt((node[3] - x_goal) ** 2 + (node[4] - y_goal) ** 2))*parameter
+            h_value = (np.sqrt((node[3] - x_goal) ** 2 + (node[4] - y_goal) ** 2))*300
             f_value = g_value + h_value
             return f_value
 
@@ -195,11 +193,11 @@ class ShortestPath:
         while len(open_list) != 0:  # executing as long as there are neighbours to nodes
 
             # determining the neighbour in open_list with the lowest f-value
-            lowest_f = f_value(open_list[0], parameter)
+            lowest_f = f_value(open_list[0])
             current = open_list[0]
             for node in open_list:
-                if f_value(node, parameter) < lowest_f:
-                    lowest_f = f_value(node, parameter)
+                if f_value(node) < lowest_f:
+                    lowest_f = f_value(node)
                     current = node
 
             # checking whether current is goal - returning the path
