@@ -38,8 +38,8 @@ db = sqlite3.connect(project_root / 'mpk.db')
 cursor = db.cursor()
 
 # create probability list from percentages in database
-current_stops_info = cursor.execute("SELECT IdP,Nazwa,Percentage FROM Przystanki_percentages").fetchall()
-new_stops_info = cursor.execute("SELECT IdP,Nazwa,Percentage FROM Nowe_przystanki_percentages").fetchall()
+current_stops_info = cursor.execute("SELECT IdP,Name,Percentage FROM Stops_percentages").fetchall()
+new_stops_info = cursor.execute("SELECT IdP,Name,Percentage FROM New_stops_percentages").fetchall()
 
 current_stops_ids = []
 stop_ids = []
@@ -96,9 +96,9 @@ for i in range(10):
         all_lines_count[r[1]] += 1
 
     # check distance between stops
-    x1,y1 = cursor.execute(f"SELECT X,Y FROM Nowe_przystanki WHERE IdP = '{start}';").fetchone()
+    x1,y1 = cursor.execute(f"SELECT X,Y FROM New_stops WHERE IdP = '{start}';").fetchone()
     #print(x1,y1)
-    x2,y2 = cursor.execute(f"SELECT X,Y FROM Nowe_przystanki WHERE IdP = '{end}';").fetchone()
+    x2,y2 = cursor.execute(f"SELECT X,Y FROM New_stops WHERE IdP = '{end}';").fetchone()
     #print(x2,y2)
     dist = (math.sqrt((pow(x1-x2,2)+pow(y1-y2,2))))*100
     #print(dist)
