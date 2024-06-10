@@ -91,45 +91,55 @@ class ShortestPath:
         Finds the shortest path between two stops using the Bellman-Ford algorithm.
 
         Args:
-        - start (int): Index of the starting stop.
-        - end (int): Index of the ending stop.
+            - graph (list[list[int]]): Adjacency matrix representation of the graph.
+            - start (int): Index of the starting stop.
+            - end (int): Index of the ending stop.
 
         Returns:
-        - tuple: A tuple containing the shortest path from the starting stop to the ending stop and the total travel time.
+            - tuple: A tuple containing the shortest path from the starting stop to the ending stop and the total travel time.
         """
-        num_stops = len(graph)
+
+        num_stops = len(graph)  # Get the number of stops (vertices) in the graph
+
+        # Convert the adjacency matrix to a list of edges (tuples representing [start, end, weight])
+        edge_list = []
+        for i in range(num_stops):
+            for j in range(num_stops):
+                if graph[i][j] != 0:
+                    edge_list.append([i, j, graph[i][j]])  # Create an edge tuple
+
         # Initialize distances from the starting stop to all other stops as infinity
-        distances = [float('inf')] * num_stops
-        distances[start] = 0
+        distances = [float("inf")] * num_stops
+        distances[start] = 0  # Set the distance to the starting stop as 0
 
-        # Update distances by considering each stop and its neighbors
-        for _ in range(num_stops - 1):
-            for current_stop in range(num_stops):
-                for next_stop in range(num_stops):
-                    if graph[current_stop][next_stop] != 0 and distances[current_stop] != float('inf'):
-                        if distances[current_stop] + graph[current_stop][next_stop] < distances[next_stop]:
-                            distances[next_stop] = distances[current_stop] + graph[current_stop][next_stop]
+        # Update distances by considering each edge in the graph
+        for _ in range(num_stops - 1):  # Repeat the relaxation process n - 1 times
+            for edge in edge_list:  # Iterate over each edge in the graph
+                start_stop, end_stop, weight = edge  # Extract start, end, and weight from the edge
+                if distances[start_stop] != float("inf") and distances[start_stop] + weight < distances[end_stop]:
+                    distances[end_stop] = distances[start_stop] + weight  # Update the distance if it's shorter
 
-        # Check for negative cycles
-        '''for current_stop in range(num_stops):
-            for next_stop in range(num_stops):
-                if graph[current_stop][next_stop] != 0 and distances[current_stop] + graph[current_stop][next_stop] < distances[next_stop]:
-                    print("The transportation network contains a negative cycle")
-                    return [], float('inf')'''
+        # Check for negative cycles in the graph
+        for edge in edge_list:
+            start_stop, end_stop, weight = edge
+            if distances[start_stop] != float("inf") and distances[start_stop] + weight < distances[end_stop]:
+                print("The transportation network contains a negative cycle")
+                return [], float("inf")  # Return an empty path and infinity if a negative cycle is found
 
-        # Constructing the shortest path from end to start
+        # Reconstruct the shortest path from the ending stop to the starting stop
         path = [end]
         current_stop = end
         length = 0
         while current_stop != start:
-            for next_stop in range(num_stops):
-                if graph[next_stop][current_stop] != 0 and distances[next_stop] == distances[current_stop] - graph[next_stop][current_stop]:
-                    path.insert(0, next_stop)
-                    length += graph[next_stop][current_stop]
-                    current_stop = next_stop
+            for edge in edge_list:
+                next_stop, prev_stop, weight = edge
+                if prev_stop == current_stop and distances[next_stop] == distances[current_stop] - weight:
+                    path.insert(0, next_stop)  # Prepend the next stop to the path
+                    length += weight  # Update the total travel time
+                    current_stop = next_stop  # Move to the next stop
                     break
 
-        return path, length
+        return path, length  # Return the shortest path and total travel time
 
 
 
@@ -139,7 +149,7 @@ class ShortestPath:
         :param graph: a graph of nodes in adjacency matrix form
         :param start: start node
         :param goal: goal node
-        :return: tuple
+        :return: tuple containing the shortest path and total travel time
         """
 
 
@@ -151,7 +161,7 @@ class ShortestPath:
             :return: f_value of the given node
             """
             g_value = node[2]
-            h_value = np.sqrt((node[3] - x_goal) ** 2 + (node[4] - y_goal) ** 2) *100
+            h_value = (np.sqrt((node[3] - x_goal) ** 2 + (node[4] - y_goal) ** 2))*300
             f_value = g_value + h_value
             return f_value
 
@@ -210,7 +220,6 @@ class ShortestPath:
                             if open_list[j][1] == i:
                                 # If the new g value is lower than the old g value, update the neighbor’s g value and update its parent to the current node
                                 if open_list[j][2] > neighbour_g:
-                                    print(j)
                                     x = self.cursor.execute(f"select X from Nowe_przystanki where IdP = '{open_list[j][1]}';").fetchone()[0]
                                     y = self.cursor.execute(f"select Y from Nowe_przystanki where IdP = '{open_list[j][1]}';").fetchone()[0]
                                     open_list[j] = [current[1], i, neighbour_g, x, y]
