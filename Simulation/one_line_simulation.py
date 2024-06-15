@@ -187,4 +187,3 @@ for j in range(len(graphs_names)-1):
     print(total_time_saved)
     print(all_lines_count)
     print(new_path)
-
