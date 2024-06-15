@@ -167,10 +167,10 @@ for i in range(10):
         new_times_stops.num_over_twenty += 1
 
 
-current_times_stops.draw_boxplot("Current Times by Number of Stops")
-new_times_stops.draw_boxplot("New Times by Number of Stops")
-current_times_dist.draw_boxplot("Current Times by Distance Between Stops")
-new_times_dist.draw_boxplot("New Times by Distance Between Stops")
+current_times_stops.draw_boxplot("Current Times by Number of Stops", "current_times_stops.png")
+new_times_stops.draw_boxplot("New Times by Number of Stops", "new_times_stops.png")
+current_times_dist.draw_boxplot("Current Times by Distance Between Stops", "current_times_dist.png")
+new_times_dist.draw_boxplot("New Times by Distance Between Stops", "new_times_dist.png")
 print(new_lines_count)
 print(total_time_saved)
 print(all_lines_count)

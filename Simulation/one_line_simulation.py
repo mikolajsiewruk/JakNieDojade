@@ -2,6 +2,7 @@ import json
 import sqlite3
 import random
 import math
+import matplotlib.pyplot as plt
 import os
 from Algorithms.ShortestPath import ShortestPath
 from Visualizations.Visualization import Visualizer
@@ -76,7 +77,8 @@ for j in range(len(graphs_names)-1):
     new_path = 0
 
     # start Monte Carlo simulation
-    for i in range(100):
+    n = 100
+    for i in range(n):
         start = random.choice(start_stops)
         if start >= 913:
             new_path += 1
@@ -91,7 +93,6 @@ for j in range(len(graphs_names)-1):
             end_stops_weights.append(end_stops_info[j][1] * 3 + end_stops_info[j][2])  # wzór: suma jedynek * 3 + populacja osiedla
 
         finish = random.choices(end_stops, end_stops_weights)[0]
-        # print(finish)
 
         path_cur, time_cur = sp.dijkstra(current_graph, start, finish)
         path_new, time_new = sp.dijkstra(new_graph, start, finish)
@@ -180,10 +181,13 @@ for j in range(len(graphs_names)-1):
             new_times_stops.over_twenty.append(time_new)
             new_times_stops.num_over_twenty += 1
 
-    # current_times_stops.draw_boxplot("Current Times by Number of Stops")
-    # new_times_stops.draw_boxplot("New Times by Number of Stops")
-    # current_times_dist.draw_boxplot("Current Times by Distance Between Stops")
-    # new_times_dist.draw_boxplot("New Times by Distance Between Stops")
-    print(total_time_saved)
-    print(all_lines_count)
-    print(new_path)
+    current_times_stops.draw_boxplot("Current Times by Number of Stops", line_file_name+"_current_times_stops.png")
+    new_times_stops.draw_boxplot("New Times by Number of Stops", line_file_name+"_new_times_stops.png")
+    current_times_dist.draw_boxplot("Current Times by Distance Between Stops", line_file_name+"_current_times_dist.png")
+    new_times_dist.draw_boxplot("New Times by Distance Between Stops", line_file_name+"_new_times_dist.png")
+    # print(total_time_saved)
+    # print(all_lines_count)
+    # print(new_path)
+    usage_percentage = (total_new_lines_use/n)*100
+    print("Percentage of usage of " + line_name + ": " + str(usage_percentage))
+    print("Total time saved by introducing "+line_name+": "+str(total_time_saved))
