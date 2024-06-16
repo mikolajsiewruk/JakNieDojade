@@ -39,7 +39,7 @@ class Database:
         :returns: list of tuples, where each tuple contains stops data.
         """
 
-        query = f"""SELECT IdP,Nazwa,X,Y FROM Przystanki WHERE {function} = 1;"""
+        query = f"""SELECT IdP,NAME,X,Y FROM Stops WHERE {function} = 1;"""
 
         return self.cursor.execute(query).fetchall()
 
@@ -79,7 +79,7 @@ class Database:
                     stop = stop.replace("P&amp;R", "PR")
 
                 temp = self.cursor.execute(
-                    f"SELECT IdP,Nazwa FROM Przystanki WHERE Nazwa = '{stop}'").fetchone()  # select ID of the stop
+                    f"SELECT IdP,NAME FROM Stops WHERE NAME = '{stop}'").fetchone()  # select ID of the stop
                 used_stops.add(temp[0])
                 res.append(temp[0])
                 stop_names.append(temp[1])
@@ -96,7 +96,7 @@ class Database:
             # commented for safety
             # json.dump(lines1, open(f"{dir}\\test2.json",'w'), indent=4)  # add a line to json file
 
-        t = self.cursor.execute('SELECT IdP,Nazwa FROM Przystanki').fetchall()
+        t = self.cursor.execute('SELECT IdP,NAME FROM Stops').fetchall()
         logger.info(f"used stops {used_stops}\n{len(used_stops)}")
         l = 0  # counter for the amount of stops not used in the making of a graph
 
@@ -117,7 +117,7 @@ class Database:
         :param lines_filepath: path to a JSON file with lines information (Name, stops,times).
         """
         dimensions = len(self.cursor.execute(
-            "SELECT IdP FROM Nowe_przystanki").fetchall())  # dimensions of the graph matrix = number of stops in the database
+            "SELECT IdP FROM New_stops").fetchall())  # dimensions of the graph matrix = number of stops in the database
         table = [[0] * (dimensions + 1) for _ in range(dimensions + 1)]
         file = open(lines_filepath, 'r')
         data = json.load(file)

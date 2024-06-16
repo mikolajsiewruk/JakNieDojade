@@ -25,7 +25,7 @@ class Results:
 
         return means, sds, minimums, maximums
 
-    def draw_boxplot(self, title):
+    def draw_boxplot(self, title, filename):
         # Prepare data for seaborn
         data = {
             '< 5': self.under_five,
@@ -46,5 +46,6 @@ class Results:
         plt.figure(figsize=(10, 7))
         sns.boxplot(x='Distance', y='Time', data=df_melted)
         plt.title(title)
-        plt.show()
+        plt.savefig(filename)
+        plt.close()
 

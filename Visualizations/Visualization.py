@@ -85,7 +85,7 @@ class Visualizer:
         """
         pos = {}
         for node in networkx_graph.nodes:
-            coordinates = self.cursor.execute(f"SELECT Y,X FROM Nowe_przystanki WHERE IdP = '{node}'").fetchone()  # get nodes coordinates from the db
+            coordinates = self.cursor.execute(f"SELECT Y,X FROM New_stops WHERE IdP = '{node}'").fetchone()  # get nodes coordinates from the db
             pos[node] = coordinates
         return pos
 
@@ -99,7 +99,7 @@ class Visualizer:
         labels = {}
         for node in networkx_graph.nodes:
             if node_sizes[node] >= 75:  # check if node has more than 5 connection, terrible design needs changed
-                name = self.cursor.execute(f"SELECT Nazwa FROM Nowe_przystanki WHERE IdP = '{node}'").fetchone()  # get stop's name from the db
+                name = self.cursor.execute(f"SELECT NAME FROM New_stops WHERE IdP = '{node}'").fetchone()  # get stop's name from the db
                 labels[node] = name[0]
             else:
                 labels[node] = ''  # for small stops do not display any label
@@ -134,7 +134,7 @@ class Visualizer:
         plt.close()
 
     def map_stops(self,map):
-        yx_all = self.cursor.execute("SELECT Nazwa,Y,X FROM Nowe_przystanki").fetchall()
+        yx_all = self.cursor.execute("SELECT NAME,Y,X FROM New_stops").fetchall()
         for yx in yx_all:
             point = Point({'x': yx[1], 'y': yx[2]})
 
@@ -195,8 +195,8 @@ class Visualizer:
             path = []
             stop_names = []
             for stops in path_temp:
-                name = self.cursor.execute(f"SELECT Nazwa FROM Przystanki WHERE Idp = '{stops}'").fetchone()[0]
-                yx = self.cursor.execute(f"SELECT Y,X FROM Przystanki WHERE Idp = '{stops}'").fetchone()
+                name = self.cursor.execute(f"SELECT NAME FROM Stops WHERE Idp = '{stops}'").fetchone()[0]
+                yx = self.cursor.execute(f"SELECT Y,X FROM Stops WHERE Idp = '{stops}'").fetchone()
                 path.append([yx[0], yx[1]])
                 stop_names.append(name)
             stop_names.reverse()

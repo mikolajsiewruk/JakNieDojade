@@ -183,12 +183,12 @@ class ShortestPath:
 
         open_list = []
         closed_list = []
-        x_start = self.cursor.execute(f"select X from Nowe_przystanki where IdP = '{start}';").fetchone()[0]
-        y_start = self.cursor.execute(f"select Y from Nowe_przystanki where IdP = '{start}';").fetchone()[0]
+        x_start = self.cursor.execute(f"select X from New_stops where IdP = '{start}';").fetchone()[0]
+        y_start = self.cursor.execute(f"select Y from New_stops where IdP = '{start}';").fetchone()[0]
         # THE WAY NODES IN OPEN AND CLOSED LISTS ARE STORED: [node's parent, node and node's g value, x coordinate, y coordinate]
         open_list.append([None, start, 0, x_start, y_start])
-        x_goal = self.cursor.execute(f"select X from Nowe_przystanki where IdP = '{goal}';").fetchone()[0]
-        y_goal = self.cursor.execute(f"select Y from Nowe_przystanki where IdP = '{goal}';").fetchone()[0]
+        x_goal = self.cursor.execute(f"select X from New_stops where IdP = '{goal}';").fetchone()[0]
+        y_goal = self.cursor.execute(f"select Y from New_stops where IdP = '{goal}';").fetchone()[0]
 
         while len(open_list) != 0:  # executing as long as there are neighbours to nodes
 
@@ -220,15 +220,17 @@ class ShortestPath:
                             if open_list[j][1] == i:
                                 # If the new g value is lower than the old g value, update the neighbor’s g value and update its parent to the current node
                                 if open_list[j][2] > neighbour_g:
-                                    x = self.cursor.execute(f"select X from Nowe_przystanki where IdP = '{open_list[j][1]}';").fetchone()[0]
-                                    y = self.cursor.execute(f"select Y from Nowe_przystanki where IdP = '{open_list[j][1]}';").fetchone()[0]
+
+                                    x = self.cursor.execute(f"select X from New_stops where IdP = '{open_list[j][1]}';").fetchone()[0]
+                                    y = self.cursor.execute(f"select Y from New_stops where IdP = '{open_list[j][1]}';").fetchone()[0]
+
                                     open_list[j] = [current[1], i, neighbour_g, x, y]
 
                     # if the neighbour is not in the open list, add it to open list
                     else:
                         neighbour_g = current[2] + graph[current[1]][i]
-                        x = self.cursor.execute(f"select X from Nowe_przystanki where IdP = '{i}';").fetchone()[0]
-                        y = self.cursor.execute(f"select Y from Nowe_przystanki where IdP = '{i}';").fetchone()[0]
+                        x = self.cursor.execute(f"select X from New_stops where IdP = '{i}';").fetchone()[0]
+                        y = self.cursor.execute(f"select Y from New_stops where IdP = '{i}';").fetchone()[0]
                         open_list.append([current[1], i, neighbour_g, x, y])
 
         # if the open list is empty and path has not been determined: no path possible, return false
@@ -293,7 +295,7 @@ class ShortestPath:
             longest_overlap = []
             longest_line = ''
             for line in lines:
-                stops = line[0]["Przystanki"]
+                stops = line[0]["Stops"]
                 overlap = find_matching_subsequence(path_temp, stops)  # Find current overlap using helper function
 
                 # Check for overlaps in reversed line stops
@@ -306,9 +308,9 @@ class ShortestPath:
                     overlap = overlap_reversed
 
                 # Check if current overlap is longer than the previous one, promote trams as they are usually preferred by the people
-                if len(overlap) > len(longest_overlap) or (line[0]["Nazwa"] in ['Tramwaj_na_Maslice', 'Tramwaj_na_Swojczyce', 'Tramwaj_Borowska_Szpital', 'Tramwaj_na_Klecine', 'Tramwaj_na_Jagodno', 'Tramwaj_na_Ołtaszyn', 'Tramwaj_na_Gajowice', 'Tramwaj_na_Gądów','Tramwaj_na_Psie_Pole'] and len(overlap)==len(longest_overlap)):
+                if len(overlap) > len(longest_overlap) or (line[0]["Name"] in ['Tramwaj_na_Maslice', 'Tramwaj_na_Swojczyce', 'Tramwaj_Borowska_Szpital', 'Tramwaj_na_Klecine', 'Tramwaj_na_Jagodno', 'Tramwaj_na_Ołtaszyn', 'Tramwaj_na_Gajowice', 'Tramwaj_na_Gądów','Tramwaj_na_Psie_Pole'] and len(overlap)==len(longest_overlap)):
                     longest_overlap = overlap
-                    longest_line = line[0]["Nazwa"]
+                    longest_line = line[0]["Name"]
 
             logging.info(f"Current longest_overlap: {longest_overlap} with line: {longest_line}")
 
@@ -336,24 +338,24 @@ class ShortestPath:
         return route
 
 
-'''connection = sqlite3.connect("/Users/dominik/Documents/moje/programowanie/Phyton/Jakniedojade/JakNieDojade/mpk.db")
-cursor = connection.cursor()
-
-file1 = open("/Users/dominik/Documents/moje/programowanie/Phyton/Jakniedojade/JakNieDojade/Dane/graph.json", "r")
-graph = json.load(file1)
-s = ShortestPath()
-path = s.dijkstra(graph,13,527)[0]
-print(path)
-path_a = s.a_star(graph, 13, 527)
-print(path_a)
-file = open("D:\\PyCharm\\PyCharm 2023.2.4\\JakNieDojade\\Dane\\test2.json","r")
-lines = json.load(file)
-s.match_lines_to_path(path,lines)
-print(s.match_lines_to_path(path,lines))'''
-'''file = open("D:\PyCharm\PyCharm 2023.2.4\JakNieDojade\Dane\graphtest1.json", "r")
-graph = json.load(file)
-t=graph
-s = ShortestPath()
-
-print(s.dijkstra(t, 20, 553))
-#print(s.bellman_ford(t,10,939))'''
+# connection = sqlite3.connect("/Users/dominik/Documents/moje/programowanie/Phyton/Jakniedojade/JakNieDojade/mpk.db")
+# cursor = connection.cursor()
+#
+# file1 = open("/Users/dominik/Documents/moje/programowanie/Phyton/Jakniedojade/JakNieDojade/Dane/graph.json", "r")
+# graph = json.load(file1)
+# s = ShortestPath()
+# path = s.dijkstra(graph,13,527)[0]
+# print(path)
+# path_a = s.a_star(graph, 13, 527)
+# print(path_a)
+# file = open("D:\\PyCharm\\PyCharm 2023.2.4\\JakNieDojade\\Dane\\test2.json","r")
+# lines = json.load(file)
+# s.match_lines_to_path(path,lines)
+# print(s.match_lines_to_path(path,lines))
+# file = open("D:\PyCharm\PyCharm 2023.2.4\JakNieDojade\Dane\graphtest1.json", "r")
+# graph = json.load(file)
+# t=graph
+# s = ShortestPath()
+#
+# print(s.dijkstra(t, 20, 553))
+# print(s.bellman_ford(t,10,939))
