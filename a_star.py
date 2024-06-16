@@ -1,7 +1,7 @@
 import sqlite3
 import numpy as np
 import json
-
+from Database.FindProject import find_project_root
 
 
 
@@ -23,7 +23,6 @@ def a_star(graph: list, start: int, goal: int) -> tuple:
         g_value = node[2]
         h_value = np.sqrt((node[3] - x_goal) ** 2 + (node[4] - y_goal) ** 2)
         f_value = g_value + h_value
-        print(f_value)
         return f_value
 
     def reconstruct_path(closed_list: list, current: list) -> tuple:
@@ -44,12 +43,12 @@ def a_star(graph: list, start: int, goal: int) -> tuple:
 
     open_list = []
     closed_list = []
-    x_start = cursor.execute(f"select X from Przystanki where IdP = '{start}';").fetchone()[0]
-    y_start = cursor.execute(f"select Y from Przystanki where IdP = '{start}';").fetchone()[0]
+    x_start = cursor.execute(f"select X from Nowe_przystanki where IdP = '{start}';").fetchone()[0]
+    y_start = cursor.execute(f"select Y from Nowe_przystanki where IdP = '{start}';").fetchone()[0]
     # THE WAY NODES IN OPEN AND CLOSED LISTS ARE STORED: [node's parent, node and node's g value, x coordinate, y coordinate]
     open_list.append([None, start, 0, x_start, y_start])
-    x_goal = cursor.execute(f"select X from Przystanki where IdP = '{goal}';").fetchone()[0]
-    y_goal = cursor.execute(f"select Y from Przystanki where IdP = '{goal}';").fetchone()[0]
+    x_goal = cursor.execute(f"select X from Nowe_przystanki where IdP = '{goal}';").fetchone()[0]
+    y_goal = cursor.execute(f"select Y from Nowe_przystanki where IdP = '{goal}';").fetchone()[0]
 
     while len(open_list) != 0:  # executing as long as there are neighbours to nodes
         # determining the neighbour in open_list with the lowest f-value
@@ -79,27 +78,28 @@ def a_star(graph: list, start: int, goal: int) -> tuple:
                         if open_list[j][1] == i:
                             # If the new g value is lower than the old g value, update the neighbor’s g value and update its parent to the current node
                             if open_list[j][2] > neighbour_g:
-                                x = cursor.execute(f"select X from Przystanki where IdP = '{j}';").fetchone()[0]
-                                y = cursor.execute(f"select Y from Przystanki where IdP = '{j}';").fetchone()[0]
+                                x = cursor.execute(f"select X from Nowe_przystanki where IdP = '{open_list[j][1]}';").fetchone()[0]
+                                y = cursor.execute(f"select Y from Nowe_przystanki where IdP = '{open_list[j][1]}';").fetchone()[0]
                                 open_list[j] = [current[1], i, neighbour_g, x, y]
 
                 # if the neighbour is not in the open list, add it to open list
                 else:
                     neighbour_g = current[2] + graph[current[1]][i]
-                    x = cursor.execute(f"select X from Przystanki where IdP = '{i}';").fetchone()[0]
-                    y = cursor.execute(f"select Y from Przystanki where IdP = '{i}';").fetchone()[0]
+                    x = cursor.execute(f"select X from Nowe_przystanki where IdP = '{i}';").fetchone()[0]
+                    y = cursor.execute(f"select Y from Nowe_przystanki where IdP = '{i}';").fetchone()[0]
                     open_list.append([current[1], i, neighbour_g, x, y])
 
     # if the open list is empty and path has not been determined: no path possible, return false
-    return False
+    return ([], -1)
 
 
 connection = sqlite3.connect("mpk.db")
 cursor = connection.cursor()
 
-file = open("/Users/dominik/Documents/moje/programowanie/Phyton/Jakniedojade/JakNieDojade/Dane/graph.json", "r")
+project = find_project_root()
+file = open(project/"Dane/graph.json", "r")
 graf = json.load(file)
 
-path = a_star(graf, 257, 527)
+path = a_star(graf, 257, 875)
 print(path)
 
