@@ -75,8 +75,12 @@ def multitask():
     held_karp_execution_mean = [held_karp_mean5, held_karp_mean10, held_karp_mean15, held_karp_mean20]
     nearest_neighbour_execution_mean = [nearest_neighbour_mean5, nearest_neighbour_mean10, nearest_neighbour_mean15, nearest_neighbour_mean20]
 
-    plt.plot([5, 10, 15, 20], held_karp_execution_mean)
-    plt.plot([5, 10, 15, 20], nearest_neighbour_execution_mean)
+    plt.plot([5, 10, 15, 20], held_karp_execution_mean, label="Held-Karp")
+    plt.plot([5, 10, 15, 20], nearest_neighbour_execution_mean, label="Nearest Neighbour")
+    plt.title("Held-Karp and Nearest Neighbour Algorithms time consumption comparison")
+    plt.xlabel("Number of vertices")
+    plt.ylabel("Execution time (ns)")
+    plt.legend()
     plt.show()
 
 if __name__ == '__main__':

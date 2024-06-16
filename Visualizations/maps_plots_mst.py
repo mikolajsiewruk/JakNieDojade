@@ -76,8 +76,12 @@ def multitask():
     kruskal_execution_mean = [kruskal_mean5, kruskal_mean10, kruskal_mean15, kruskal_mean20]
     prim_execution_mean = [prim_mean5, prim_mean10, prim_mean15, prim_mean20]
 
-    plt.plot([5, 10, 15, 20], kruskal_execution_mean)
-    plt.plot([5, 10, 15, 20], prim_execution_mean)
+    plt.plot([5, 10, 15, 20], kruskal_execution_mean, label="Kruskal")
+    plt.plot([5, 10, 15, 20], prim_execution_mean, label="Prim")
+    plt.title("Kruskal and Prim's Algorithms time consumption comparison")
+    plt.xlabel("Number of vertices")
+    plt.ylabel("Execution time (ns)")
+    plt.legend()
     plt.show()
 
 
