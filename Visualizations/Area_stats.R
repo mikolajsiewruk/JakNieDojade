@@ -1,11 +1,11 @@
 library(ggplot2)
 
-file <- "D:\\PyCharm\\PyCharm 2023.2.4\\JakNieDojade\\Dane\\Stops_by_area_5.csv"
+file <- "C:\\Users\\miki\\Desktop\\Stops_by_area_5_new.csv"
 
 data <- read.csv(file,fileEncoding = "UTF-8")
 
 categories <- as.vector(colnames(data))
-areas <- as.vector(data$Osiedle)
+areas <- as.vector(data$AREA)
 stopcount <- as.vector(data$Stops)
 areas
 stopcount

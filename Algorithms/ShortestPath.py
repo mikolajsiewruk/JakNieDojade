@@ -295,7 +295,7 @@ class ShortestPath:
             longest_overlap = []
             longest_line = ''
             for line in lines:
-                stops = line[0]["Stops"]
+                stops = line[0]["Przystanki"]
                 overlap = find_matching_subsequence(path_temp, stops)  # Find current overlap using helper function
 
                 # Check for overlaps in reversed line stops
@@ -308,20 +308,20 @@ class ShortestPath:
                     overlap = overlap_reversed
 
                 # Check if current overlap is longer than the previous one, promote trams as they are usually preferred by the people
-                if len(overlap) > len(longest_overlap) or (line[0]["Name"] in ['Tramwaj_na_Maslice', 'Tramwaj_na_Swojczyce', 'Tramwaj_Borowska_Szpital', 'Tramwaj_na_Klecine', 'Tramwaj_na_Jagodno', 'Tramwaj_na_Ołtaszyn', 'Tramwaj_na_Gajowice', 'Tramwaj_na_Gądów','Tramwaj_na_Psie_Pole'] and len(overlap)==len(longest_overlap)):
+                if len(overlap) > len(longest_overlap) or (line[0]["Nazwa"] in ['Tramwaj_na_Maslice', 'Tramwaj_na_Swojczyce', 'Tramwaj_Borowska_Szpital', 'Tramwaj_na_Klecine', 'Tramwaj_na_Jagodno', 'Tramwaj_na_Ołtaszyn', 'Tramwaj_na_Gajowice', 'Tramwaj_na_Gądów','Tramwaj_na_Psie_Pole'] and len(overlap)==len(longest_overlap)):
                     longest_overlap = overlap
-                    longest_line = line[0]["Name"]
+                    longest_line = line[0]["Nazwa"]
 
             logging.info(f"Current longest_overlap: {longest_overlap} with line: {longest_line}")
 
             if longest_overlap:
                 name = f"{longest_overlap[0]}-{longest_overlap[-1]}"  # Initialize name for dictionary (it can't store lists as key)
-                route.append((name, longest_line))  # Add info to dictionary
+                route.append((longest_overlap, longest_line))  # Add info to dictionary
 
                 # Remove current longest overlap from path
                 if len(longest_overlap) > 2:
                     path_temp = path_temp[
-                                len(longest_overlap) - 1:]  # Update path_temp correctly, preserving the last element
+                                len(longest_overlap) - 1:]  # Update path_temp , preserving the last element
                 else:
                     path_temp = path_temp[1:]  # Update path_temp correctly
 

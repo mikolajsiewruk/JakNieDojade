@@ -4,7 +4,7 @@ import json
 import sqlite3
 from Algorithms import ShortestPath
 from Database.FindProject import find_project_root
-#from arcgis.geometry import Point, Polyline
+from arcgis.geometry import Point, Polyline
 
 class Visualizer:
     def __init__(self):
@@ -159,7 +159,7 @@ class Visualizer:
             )
 
     def map_path(self,map, graph, lines, start, end,version):
-        sp = ShortestPath()
+        sp = ShortestPath.ShortestPath()
         p = sp.dijkstra(graph, start, end)[0]
         print(sp.dijkstra(graph, start, end)[1])
         pt_route = sp.match_lines_to_path(p, lines)
@@ -195,8 +195,9 @@ class Visualizer:
             path = []
             stop_names = []
             for stops in path_temp:
-                name = self.cursor.execute(f"SELECT NAME FROM Stops WHERE Idp = '{stops}'").fetchone()[0]
-                yx = self.cursor.execute(f"SELECT Y,X FROM Stops WHERE Idp = '{stops}'").fetchone()
+                print(stops)
+                name = self.cursor.execute(f"SELECT NAME FROM New_stops WHERE IdP = '{stops}'").fetchone()[0]
+                yx = self.cursor.execute(f"SELECT Y,X FROM New_stops WHERE IdP = '{stops}'").fetchone()
                 path.append([yx[0], yx[1]])
                 stop_names.append(name)
             stop_names.reverse()
@@ -226,6 +227,76 @@ class Visualizer:
                 },
             )
             i += 1
+
+    def map_comparison(self, map, old_graph, new_graph, start, end):
+        sp = ShortestPath.ShortestPath()
+        old_path = sp.dijkstra(old_graph, start, end)[0]
+        new_path = sp.dijkstra(new_graph, start, end)[0]
+        np = []
+        op = []
+        old_stop_names = []
+        new_stop_names = []
+        for stops in old_path:
+            name = self.cursor.execute(f"SELECT Name FROM New_stops WHERE Idp = '{stops}'").fetchone()[0]
+            yx = self.cursor.execute(f"SELECT Y,X FROM New_stops WHERE Idp = '{stops}'").fetchone()
+            op.append([yx[0], yx[1]])
+            old_stop_names.append(name)
+
+        for stops in new_path:
+            name = self.cursor.execute(f"SELECT Name FROM New_stops WHERE Idp = '{stops}'").fetchone()[0]
+            yx = self.cursor.execute(f"SELECT Y,X FROM New_stops WHERE Idp = '{stops}'").fetchone()
+            np.append([yx[0], yx[1]])
+            new_stop_names.append(name)
+
+        polyline1 = Polyline(
+            {
+                "paths": op
+            }
+        )
+
+        polyline_attributes1 = {"name": 'OLD PATH', "description": ", ".join(
+            old_stop_names)}  # zmienić na nazwy linii, opcjonalnie każdy fragment inną linią zaznaczyć innym kolorem
+
+        simple_line_symbol1 = {
+            "type": "esriSLS",
+            "style": "esriSLSolid",
+            "color": [0, 128, 128],
+            "width": 2,
+        }
+        polyline2 = Polyline(
+            {
+                "paths": np
+            }
+        )
+
+        polyline_attributes2 = {"name": 'NEW PATH', "description": ", ".join(
+            new_stop_names)}  # zmienić na nazwy linii, opcjonalnie każdy fragment inną linią zaznaczyć innym kolorem
+
+        simple_line_symbol2 = {
+            "type": "esriSLS",
+            "style": "esriSLSolid",
+            "color": [75, 0, 130],
+            "width": 2,
+        }
+        map.draw(
+            shape=polyline1,
+            symbol=simple_line_symbol1,
+            attributes=polyline_attributes1,
+            popup={
+                "title": polyline_attributes1["name"],
+                "content": polyline_attributes1["description"],
+            },
+        )
+
+        map.draw(
+            shape=polyline2,
+            symbol=simple_line_symbol2,
+            attributes=polyline_attributes2,
+            popup={
+                "title": polyline_attributes2["name"],
+                "content": polyline_attributes2["description"],
+            },
+        )
 
 
 '''v = Visualizer()
