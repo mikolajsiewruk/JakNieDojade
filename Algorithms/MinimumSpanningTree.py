@@ -5,8 +5,13 @@ from Database.FindProject import find_project_root
 class MinimumSpanningTree:
 
     @staticmethod
-    def Kruskal(graph, nodes):
-
+    def Kruskal(graph: list, nodes: list) -> list:
+        """
+        Kruskal's algorithm for finding the edges in the Minimum Spanning Tree.
+        :param graph: a graph of nodes in adjacency matrix form
+        :param nodes: a list of nodes the Minimum Spanning Tree should contain
+        :return: list of edges in the Minimum Spanning Tree
+        """
         s = ShortestPath()
 
         new_graph = [[0] * len(nodes) for _ in range(len(nodes))]
@@ -23,12 +28,25 @@ class MinimumSpanningTree:
                 if new_graph[i][j] != 0:
                     graph_list.append([i, j, new_graph[i][j]])
 
-        def find(parent, i):
+        def find(parent: list, i: int) -> int:
+            """
+            Kruskal's algorithm helper function used for finding the root of a tree (checking if two nodes are in the same tree - preventing cycles)
+            :param parent: list of parents of nodes in the tree
+            :param i: index of the node in the tree
+            :return: root of node
+            """
             if parent[i] == i:
                 return i
             return find(parent, parent[i])
 
-        def union(parent, rank, x, y):
+        def union(parent: list, rank: list, x: int, y: int):
+            """
+            Kruskal's algorithm helper function used for uniting two disjoint sets, when adding an edge to MST
+            :param parent: list of parents of nodes in the tree
+            :param rank: list of tree heights for a given node
+            :param x: index of the node in one tree
+            :param y: index of the node in another tree
+            """
             x_root = find(parent, x)
             y_root = find(parent, y)
             if rank[x_root] < rank[y_root]:
@@ -61,7 +79,13 @@ class MinimumSpanningTree:
         return final_results
 
     @staticmethod
-    def Prim(graph, nodes):
+    def Prim(graph: list, nodes: list) -> list:
+        """
+        Prim's algorithm for finding the edges in the Minimum Spanning Tree.
+        :param graph: a graph of nodes in adjacency matrix form
+        :param nodes: a list of nodes the Minimum Spanning Tree should contain
+        :return: list of edges in the Minimum Spanning Tree
+        """
 
         s = ShortestPath()
 
@@ -97,7 +121,13 @@ class MinimumSpanningTree:
 
 
     @staticmethod
-    def reconstruction(edges, ultimate_paths):
+    def reconstruction(edges: list, ultimate_paths: list) -> list:
+        """
+        Helper function to reconstruct the final path
+        :param edges: edges in the Minimum Spanning Tree (short form, temporal indexes)
+        :param ultimate_paths: a graph of nodes in adjacency matrix form (containing full paths between them)
+        :return: edges in the Minimum Spanning Tree (long form, indexes from Database)
+        """
 
         actual_edges = []
         for i in range(len(edges)):
