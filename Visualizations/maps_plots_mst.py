@@ -42,10 +42,10 @@ def multitask():
     with open(project / "Dane/graph.json", "r") as file:
         graph = json.load(file)
 
-    tasks5 = [[random.randint(1, len(graph)-1) for _ in range(5)] for _ in range(1)]
-    tasks10 = [[random.randint(1, len(graph)-1) for _ in range(10)] for _ in range(1)]
-    tasks15 = [[random.randint(1, len(graph)-1) for _ in range(15)] for _ in range(1)]
-    tasks20 = [[random.randint(1, len(graph)-1) for _ in range(20)] for _ in range(1)]
+    tasks5 = [[random.randint(1, len(graph)-1) for _ in range(4)] for _ in range(50)]
+    tasks10 = [[random.randint(1, len(graph)-1) for _ in range(6)] for _ in range(50)]
+    tasks15 = [[random.randint(1, len(graph)-1) for _ in range(8)] for _ in range(50)]
+    tasks20 = [[random.randint(1, len(graph)-1) for _ in range(10)] for _ in range(50)]
 
     with multiprocessing.Pool(8) as pool:
         results5 = pool.map(execute_algorithms, tasks5)
