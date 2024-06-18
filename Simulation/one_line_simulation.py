@@ -9,15 +9,6 @@ from Visualizations.Visualization import Visualizer
 from Simulation.Results import Results
 from Database.FindProject import find_project_root
 
-
-areas_of_choice = ["Gaj", "Gądów-Popowice Płd.", "Gajowice", "Jagodno", "Klecina", "Maślice", "Ołtaszyn",
-                   "Psie Pole-Zawidawie", "Strachocin-Swojczyce-Wojnów"]
-graphs_names = ["graph_borowska_szpital.json", "graph_gadow.json", "graph_gajowice.json", "graph_jagodno.json",
-                "graph_klecina.json", "graph_maslice.json", "graph_oltaszyn.json", "graph_psie_pole.json", "graph_swojczyce.json"]
-line_files_names = ["linie_borowska_szpital.json", "linie_gadow.json", "linie_gajowice.json", "linie_jagodno.json",
-                    "linie_klecina.json", "linie_maslice.json", "linie_oltaszyn.json", "linie_psie_pole.json",
-                    "linie_swojczyce.json"]
-
 # get project root
 project_root = find_project_root()
 
@@ -32,6 +23,23 @@ cursor = db.cursor()
 # import a graph with current stops
 file = open(project_root / 'Dane' / 'graph.json', 'r')
 current_graph = json.load(file)
+
+# initialize needed variables
+areas_of_choice = ["Gaj", "Gądów-Popowice Płd.", "Gajowice", "Jagodno", "Klecina", "Maślice", "Ołtaszyn",
+                   "Psie Pole-Zawidawie", "Strachocin-Swojczyce-Wojnów"]
+graphs_names = ["graph_borowska_szpital.json", "graph_gadow.json", "graph_gajowice.json", "graph_jagodno.json",
+                "graph_klecina.json", "graph_maslice.json", "graph_oltaszyn.json", "graph_psie_pole.json", "graph_swojczyce.json"]
+line_files_names = ["linie_borowska_szpital.json", "linie_gadow.json", "linie_gajowice.json", "linie_jagodno.json",
+                    "linie_klecina.json", "linie_maslice.json", "linie_oltaszyn.json", "linie_psie_pole.json",
+                    "linie_swojczyce.json"]
+
+all_new_lines = []
+for line in line_files_names:
+    file = open(project_root / 'Dane' / line, 'r', encoding='UTF-8')
+    lines = json.load(file)
+    all_new_lines.append(lines[-1][0].get("Name"))
+categories = ["SCHOOL", "LABOUR", "SHOPS", "LEISURE", "RESTAURANTS", "SOCIAL", "HEALTH", "CULTURE"]
+usage_of_transportation = {line:{category:0 for category in categories} for line in all_new_lines}
 
 for j in range(len(graphs_names)-1):
     area_of_choice = areas_of_choice[j]
@@ -77,7 +85,7 @@ for j in range(len(graphs_names)-1):
     new_path = 0
 
     # start Monte Carlo simulation
-    n = 100
+    n = 10000
     for i in range(n):
         start = random.choice(start_stops)
         if start >= 913:
@@ -102,6 +110,7 @@ for j in range(len(graphs_names)-1):
         # check if route includes new public transportation lines
         for r in pt_route:
             if r[1] == line_name:
+                usage_of_transportation[line_name][random_direction] += 1
                 total_new_lines_use += 1
                 total_time_saved += time_cur - time_new
                 vis.draw_graph(current_graph, f"cur {line_name}{i}.png", path_cur)
@@ -190,4 +199,14 @@ for j in range(len(graphs_names)-1):
     # print(new_path)
     usage_percentage = (total_new_lines_use/n)*100
     print("Percentage of usage of " + line_name + ": " + str(usage_percentage))
-    print("Total time saved by introducing "+line_name+": "+str(total_time_saved))
+    print("Average time saved by introducing "+line_name+": "+str(total_time_saved/total_new_lines_use))
+    values = []
+    for key in usage_of_transportation[line_name]:
+        values.append(usage_of_transportation[line_name].get(key))
+    plt.bar(categories, values, color=["purple", "blue", "green", "yellow", "orange", "red", "pink", "magenta"])
+    plt.xlabel("Categories")
+    plt.ylabel("Number of usages")
+    plt.title(line_name)
+    plt.savefig(line_name+"_categories_usage.png")
+    plt.close()
+print(usage_of_transportation)
