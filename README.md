@@ -30,6 +30,7 @@ The sumulations conducted included analysis of public transportation network wit
 #### All lines simulation
 The simulation compared travel times between random stops in the current public transportation network and the network with proposed changes. 
 1. Dijkstra's algorithm
+
 The test subject was the travel time between two random stops before and after applying changes to the public transportation network. Sample differences are shown on the plots 1. and 2.
 Path in the current graph
 ![cur 17](https://github.com/mikolajsiewruk/JakNieDojade/assets/152521027/5258a8ef-4e45-4d52-9002-f662ccff3208)
