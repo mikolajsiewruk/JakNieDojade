@@ -21,13 +21,13 @@ new_graph = json.load(file)
 # import all public transportation lines
 file = open(project_root / 'Dane' / 'nowe_linie1.json','r',encoding='UTF-8')
 all_lines = json.load(file)
-all_lines_count = {line[0]["Nazwa"]:0 for line in all_lines}
+all_lines_count = {line[0]["Name"]:0 for line in all_lines}
 # import new public transportation lines
 file = open(project_root / 'Dane' / 'nowe_linie.json','r',encoding='UTF-8')
 lines_file = json.load(file)
 new_lines = []
 for lines in lines_file:
-    new_lines.append(lines[0]["Nazwa"])
+    new_lines.append(lines[0]["Name"])
 
 # initialize pathfinding modules
 sp = ShortestPath()
