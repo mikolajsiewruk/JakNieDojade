@@ -85,7 +85,7 @@ for j in range(len(graphs_names)-1):
     new_path = 0
 
     # start Monte Carlo simulation
-    n = 1000
+    n = 10
     for i in range(n):
         start = random.choice(start_stops)
         if start >= 913:
@@ -199,7 +199,7 @@ for j in range(len(graphs_names)-1):
     # print(new_path)
     usage_percentage = (total_new_lines_use/n)*100
     print("Percentage of usage of " + line_name + ": " + str(usage_percentage))
-    if total_new_lines_use !=0:
+    if total_new_lines_use ==0:
         total_new_lines_use = 1
     print("Average time saved by introducing "+line_name+": "+str(total_time_saved/total_new_lines_use))
     values = []
@@ -212,3 +212,12 @@ for j in range(len(graphs_names)-1):
     plt.savefig(line_name+"_categories_usage.png")
     plt.close()
 print(usage_of_transportation)
+import pandas as pd
+df = pd.DataFrame.from_dict(usage_of_transportation, orient='index')
+
+# Save the dataframe to a CSV file
+df.to_csv('tramwaj_usage.csv')
+# df_all_lines_count = pd.DataFrame(list(usage_of_transportation.items()), columns=['Line_Name', 'Count'])
+#
+# # Save the dataframe to a CSV file
+# df_all_lines_count.to_csv('all_lines_count.csv', index=False)

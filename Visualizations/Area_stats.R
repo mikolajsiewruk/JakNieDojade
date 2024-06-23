@@ -1,6 +1,6 @@
 library(ggplot2)
-
-file <- "C:\\Users\\miki\\Desktop\\Stops_by_area_5_new.csv"
+op <- par(oma=c(5,7,1,1))
+file <- "D:\\PyCharm\\PyCharm 2023.2.4\\JakNieDojade\\Stops_by_area_5_new.csv"
 
 data <- read.csv(file,fileEncoding = "UTF-8")
 
@@ -24,5 +24,6 @@ ggplot(frame,aes(x = reorder(x,y),y = y))+
     axis.text.x = element_text(angle = 90, hjust = 1, vjust = 0,size = 16)
   ) +
   xlab("") +
-  ylab("Value of Y")+
+  ylab("Number of stops")+
   scale_y_continuous(breaks = seq(0, 50, by = 5))
+par(op)

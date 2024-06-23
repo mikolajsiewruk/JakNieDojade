@@ -42,12 +42,12 @@ def multitask():
     with open(project / "Dane/graph.json", "r") as file:
         graph = json.load(file)
 
-    tasks5 = [[random.randint(1, len(graph)-1) for _ in range(4)] for _ in range(50)]
-    tasks10 = [[random.randint(1, len(graph)-1) for _ in range(6)] for _ in range(50)]
-    tasks15 = [[random.randint(1, len(graph)-1) for _ in range(8)] for _ in range(50)]
-    tasks20 = [[random.randint(1, len(graph)-1) for _ in range(10)] for _ in range(50)]
+    tasks5 = [[random.randint(1, len(graph)-1) for _ in range(4)] for _ in range(100)]
+    tasks10 = [[random.randint(1, len(graph)-1) for _ in range(6)] for _ in range(100)]
+    tasks15 = [[random.randint(1, len(graph)-1) for _ in range(8)] for _ in range(100)]
+    tasks20 = [[random.randint(1, len(graph)-1) for _ in range(10)] for _ in range(100)]
 
-    with multiprocessing.Pool(8) as pool:
+    with multiprocessing.Pool(14) as pool:
         results5 = pool.map(execute_algorithms, tasks5)
         results10 = pool.map(execute_algorithms, tasks10)
         results15 = pool.map(execute_algorithms, tasks15)
@@ -75,9 +75,9 @@ def multitask():
 
     kruskal_execution_mean = [kruskal_mean5, kruskal_mean10, kruskal_mean15, kruskal_mean20]
     prim_execution_mean = [prim_mean5, prim_mean10, prim_mean15, prim_mean20]
-
-    plt.plot([5, 10, 15, 20], kruskal_execution_mean, label="Kruskal")
-    plt.plot([5, 10, 15, 20], prim_execution_mean, label="Prim")
+    print(kruskal_time5,prim_time5)
+    plt.plot([4,6,8,10], kruskal_execution_mean, label="Kruskal")
+    plt.plot([4,6,8,10], prim_execution_mean, label="Prim")
     plt.title("Kruskal and Prim's Algorithms time consumption comparison")
     plt.xlabel("Number of vertices")
     plt.ylabel("Execution time (ns)")

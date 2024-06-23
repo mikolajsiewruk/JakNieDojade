@@ -21,13 +21,13 @@ new_graph = json.load(file)
 # import all public transportation lines
 file = open(project_root / 'Dane' / 'nowe_linie1.json','r',encoding='UTF-8')
 all_lines = json.load(file)
-all_lines_count = {line[0]["Nazwa"]:0 for line in all_lines}
+all_lines_count = {line[0]["Name"]:0 for line in all_lines}
 # import new public transportation lines
 file = open(project_root / 'Dane' / 'nowe_linie.json','r',encoding='UTF-8')
 lines_file = json.load(file)
 new_lines = []
 for lines in lines_file:
-    new_lines.append(lines[0]["Nazwa"])
+    new_lines.append(lines[0]["Name"])
 
 # initialize pathfinding modules
 sp = ShortestPath()
@@ -61,9 +61,11 @@ total_new_lines_use = 0
 total_time_saved = 0
 new_paths = 0
 new_lines_count = {'Tramwaj_na_Maslice':0,'Tramwaj_na_Swojczyce':0,'Tramwaj_Borowska_Szpital':0,'Tramwaj_na_Klecine':0,'Tramwaj_na_Jagodno':0, 'Tramwaj_na_Ołtaszyn':0, 'Tramwaj_na_Gajowice':0, 'Tramwaj_na_Gądów':0}
-
+total_lines_used = 0
+total_time = 0
+n = 10
 # start Monte Carlo simulation
-for i in range(10):
+for i in range(n):
     start,end = random.choices(stop_ids,weights,k=2)
 
     if start not in current_stops_ids or end not in current_stops_ids:
@@ -71,7 +73,7 @@ for i in range(10):
         path_new, time_new = sp.dijkstra(new_graph, start, end)
 
         pt_route = sp.match_lines_to_path(path_new, all_lines)
-
+        total_lines_used += len(pt_route)
         for r in pt_route:
             if r[1] in new_lines:
                 total_new_lines_use += 1
@@ -81,9 +83,10 @@ for i in range(10):
 
     path_cur,time_cur = sp.dijkstra(current_graph,start,end)
     path_new,time_new = sp.dijkstra(new_graph,start,end)
+    total_time += time_cur
 
     pt_route = sp.match_lines_to_path(path_new,all_lines)
-
+    total_lines_used += len(pt_route)
     # check if route includes new public transportation lines
     for r in pt_route:
         if r[1] in new_lines:
@@ -174,3 +177,13 @@ new_times_dist.draw_boxplot("New Times by Distance Between Stops", "new_times_di
 print(new_lines_count)
 print(total_time_saved)
 print(all_lines_count)
+print(new_paths)
+print(total_new_lines_use)
+print(total_lines_used)
+print((total_new_lines_use/n)*100)
+print((total_time_saved/total_time)*100)
+import pandas as pd
+df_all_lines_count = pd.DataFrame(list(all_lines_count.items()), columns=['Line_Name', 'Count'])
+
+# Save the dataframe to a CSV file
+df_all_lines_count.to_csv('all_lines_count.csv', index=False)
