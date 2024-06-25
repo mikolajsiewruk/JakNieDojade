@@ -1,3 +1,4 @@
+
 import json
 import time as tm
 import multiprocessing
@@ -41,10 +42,10 @@ def multitask():
     with open(project / "Dane/graph.json", "r") as file:
         graph = json.load(file)
 
-    tasks5 = [(random.randint(1, len(graph)-1), [random.randint(1, len(graph)-1) for _ in range(5)]) for _ in range(1)]
-    tasks10 = [(random.randint(1, len(graph)-1), [random.randint(1, len(graph)-1) for _ in range(10)]) for _ in range(1)]
-    tasks15 = [(random.randint(1, len(graph)-1), [random.randint(1, len(graph)-1) for _ in range(15)]) for _ in range(1)]
-    tasks20 = [(random.randint(1, len(graph)-1), [random.randint(1, len(graph)-1) for _ in range(20)]) for _ in range(1)]
+    tasks5 = [(random.randint(1, len(graph)-1), [random.randint(1, len(graph)-1) for _ in range(4)]) for _ in range(200)]
+    tasks10 = [(random.randint(1, len(graph)-1), [random.randint(1, len(graph)-1) for _ in range(6)]) for _ in range(200)]
+    tasks15 = [(random.randint(1, len(graph)-1), [random.randint(1, len(graph)-1) for _ in range(8)]) for _ in range(200)]
+    tasks20 = [(random.randint(1, len(graph)-1), [random.randint(1, len(graph)-1) for _ in range(10)]) for _ in range(200)]
 
     with multiprocessing.Pool(8) as pool:
         results5 = pool.map(execute_algorithms, tasks5)
@@ -75,8 +76,8 @@ def multitask():
     held_karp_execution_mean = [held_karp_mean5, held_karp_mean10, held_karp_mean15, held_karp_mean20]
     nearest_neighbour_execution_mean = [nearest_neighbour_mean5, nearest_neighbour_mean10, nearest_neighbour_mean15, nearest_neighbour_mean20]
 
-    plt.plot([5, 10, 15, 20], held_karp_execution_mean, label="Held-Karp")
-    plt.plot([5, 10, 15, 20], nearest_neighbour_execution_mean, label="Nearest Neighbour")
+    plt.plot([4,6,8,10], held_karp_execution_mean, label="Held-Karp")
+    plt.plot([4,6,8,10], nearest_neighbour_execution_mean, label="Nearest Neighbour")
     plt.title("Held-Karp and Nearest Neighbour Algorithms time consumption comparison")
     plt.xlabel("Number of vertices")
     plt.ylabel("Execution time (ns)")

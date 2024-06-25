@@ -150,3 +150,10 @@ class TravellingSalesman:
 # print(results2[0])
 # print(results2[1])
 # print(results2[2])
+# path_new = results2[2]
+
+# path_new_fin = [path_new[0][0]]
+# for path in path_new:
+#     for n in range(1, len(path)):
+#         path_new_fin.append(path[n])
+# print(path_new_fin)

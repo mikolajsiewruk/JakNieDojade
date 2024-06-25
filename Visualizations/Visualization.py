@@ -133,6 +133,7 @@ class Visualizer:
         plt.savefig(filename)
         plt.close()
 
+
     def map_stops(self,map):
         yx_all = self.cursor.execute("SELECT NAME,Y,X FROM New_stops").fetchall()
         for yx in yx_all:

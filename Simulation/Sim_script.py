@@ -61,9 +61,11 @@ total_new_lines_use = 0
 total_time_saved = 0
 new_paths = 0
 new_lines_count = {'Tramwaj_na_Maslice':0,'Tramwaj_na_Swojczyce':0,'Tramwaj_Borowska_Szpital':0,'Tramwaj_na_Klecine':0,'Tramwaj_na_Jagodno':0, 'Tramwaj_na_Ołtaszyn':0, 'Tramwaj_na_Gajowice':0, 'Tramwaj_na_Gądów':0}
-
+total_lines_used = 0
+total_time = 0
+n = 10000
 # start Monte Carlo simulation
-for i in range(10):
+for i in range(n):
     start,end = random.choices(stop_ids,weights,k=2)
 
     if start not in current_stops_ids or end not in current_stops_ids:
@@ -71,26 +73,27 @@ for i in range(10):
         path_new, time_new = sp.dijkstra(new_graph, start, end)
 
         pt_route = sp.match_lines_to_path(path_new, all_lines)
-
+        total_lines_used += len(pt_route)
         for r in pt_route:
             if r[1] in new_lines:
                 total_new_lines_use += 1
             all_lines_count[r[1]] += 1
-        vis.draw_graph(new_graph, f"new {i}.png", path_new)
+        #vis.draw_graph(new_graph, f"new {i}.png", path_new)
         continue
 
     path_cur,time_cur = sp.dijkstra(current_graph,start,end)
     path_new,time_new = sp.dijkstra(new_graph,start,end)
+    total_time += time_cur
 
     pt_route = sp.match_lines_to_path(path_new,all_lines)
-
+    total_lines_used += len(pt_route)
     # check if route includes new public transportation lines
     for r in pt_route:
         if r[1] in new_lines:
             total_new_lines_use += 1
             total_time_saved += time_cur - time_new
-            vis.draw_graph(current_graph, f"cur {i}.png", path_cur)
-            vis.draw_graph(new_graph, f"new {i}.png", path_new)
+            # vis.draw_graph(current_graph, f"cur {i}.png", path_cur)
+            # vis.draw_graph(new_graph, f"new {i}.png", path_new)
 
         # count every use of each line
         all_lines_count[r[1]] += 1
@@ -174,3 +177,13 @@ new_times_dist.draw_boxplot("New Times by Distance Between Stops", "new_times_di
 print(new_lines_count)
 print(total_time_saved)
 print(all_lines_count)
+print(new_paths)
+print(total_new_lines_use)
+print(total_lines_used)
+print((total_new_lines_use/n)*100)
+print(f"mean time saved {(total_time_saved/total_time)*100}")
+import pandas as pd
+df_all_lines_count = pd.DataFrame(list(all_lines_count.items()), columns=['Line_Name', 'Count'])
+
+# Save the dataframe to a CSV file
+df_all_lines_count.to_csv('all_lines_count.csv', index=False)
