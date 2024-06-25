@@ -203,9 +203,11 @@ for j in range(len(graphs_names)-1):
     # print(new_path)
     usage_percentage = (total_new_lines_use/n)*100
     print("Percentage of usage of " + line_name + ": " + str(usage_percentage))
-    if total_new_lines_use ==0:
+
+    if total_new_lines_use + new_path == 0:
         total_new_lines_use = 1
-    print("Average time saved by introducing "+line_name+": "+str(total_time_saved/total_new_lines_use))
+    print("Average time saved by introducing "+line_name+": "+str(total_time_saved/(total_new_lines_use+new_path)))
+
     values = []
     for key in usage_of_transportation[line_name]:
         values.append(usage_of_transportation[line_name].get(key))
