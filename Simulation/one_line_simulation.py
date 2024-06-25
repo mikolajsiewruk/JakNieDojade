@@ -85,17 +85,21 @@ for j in range(len(graphs_names)-1):
     new_path = 0
 
     # start Monte Carlo simulation
-    n = 10
+    n = 1000
     for i in range(n):
         start = random.choice(start_stops)
-        if start >= 913:
-            new_path += 1
-            continue
+        # if start >= 913:
+        #     new_path += 1
+        #     continue
         random_direction = random.choices(directions, direction_weights)[0]
         end_stops_info = (cursor.execute("SELECT IdP, (SCHOOL + LABOUR + SHOPS + LEISURE + RESTAURANTS + SOCIAL + HEALTH + CULTURE)"
                                            ", Percentage FROM Stops_percentages WHERE "+random_direction+"=1").fetchall())
         end_stops = []
         end_stops_weights = []
+        if start >= 913:
+            new_path += 1
+            usage_of_transportation[line_name][random_direction] += 1
+            continue
         for j in range(len(end_stops_info)):
             end_stops.append(end_stops_info[j][0])
             end_stops_weights.append(end_stops_info[j][1] * 3 + end_stops_info[j][2])  # wzór: suma jedynek * 3 + populacja osiedla
@@ -205,6 +209,7 @@ for j in range(len(graphs_names)-1):
     values = []
     for key in usage_of_transportation[line_name]:
         values.append(usage_of_transportation[line_name].get(key))
+    plt.figure(figsize=(12, 8))
     plt.bar(categories, values, color=["purple", "blue", "green", "yellow", "orange", "red", "pink", "magenta"])
     plt.xlabel("Categories")
     plt.ylabel("Number of usages")
